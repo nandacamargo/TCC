@@ -1,0 +1,48 @@
+{
+    "tweet": "Organ music...date night.#revenant @ Tivoli Theatre - Classic Cinemas https://t.co/i7mkMcrxWE",
+    "user_name": "Parenting inthe Loop",
+    "user_id": 80401321,
+    "user_location": "Chicago ",
+    "address": "Illinois, United States of America",
+    "tweet_id": "708815562684702720",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -88.00894065,
+            41.79612998
+        ]
+    },
+    "state": "Illinois"
+},
+{
+    "tweet": "Date night! #revenant @ Tivoli Theatre - Classic Cinemas https://t.co/PTVrfTlO08",
+    "user_name": "Parenting inthe Loop",
+    "user_id": 80401321,
+    "user_location": "Chicago ",
+    "address": "Illinois, United States of America",
+    "tweet_id": "708816538036473857",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -88.00894065,
+            41.79612998
+        ]
+    },
+    "state": "Illinois"
+},
+},
+{
+    "tweet": "The Revenant (@ The Grand in West Kowloon w/ @tlamvip) https://t.co/p8xnoh6Onl",
+    "user_name": "Debbie J",
+    "user_id": 73702582,
+    "user_location": null,
+    "tweet_id": "708676866534711297",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            114.16163921,
+            22.30366879
+        ]
+    }

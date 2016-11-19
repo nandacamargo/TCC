@@ -1,0 +1,268 @@
+{ "tweets": [
+{
+    "tweet": "Vanellope. Because I still care about things besides Zootopia. @ Wondercon 2016 https://t.co/gnMiP825Vp",
+    "user_name": "Jessie V @ WC SP-12",
+    "user_id": 10209292,
+    "user_location": "Los Angeles, CA",
+    "tweet_id": "713884993555070976",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.27179,
+            34.03978
+        ]
+    },
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "Grow up RT @Aztmyy_Ovoxo03: I want to go see Zootopia \ud83d\udc9c",
+    "user_name": "Tu Bachatero Sucio",
+    "user_id": 166031009,
+    "user_location": "Washington Heights to Miami",
+    "address": "New York, United States of America",
+    "tweet_id": "714205715095764993",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.824843,
+            40.98436633
+        ]
+    },
+    "state": "New York",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "If you haven't seen it...GO!  #Zootopia is an #ExcellentFilm \ud83d\ude18 @ Southern California https://t.co/VzuVTSfPJW",
+    "user_name": "MichaelJoeArmijo",
+    "user_id": 22457499,
+    "user_location": "NYC, LA, NapaValley, Europe",
+    "tweet_id": "715024121952931840",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.58708691,
+            34.06051989
+        ]
+    },
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "If you haven't seen it...GO!  #Zootopia is an #ExcellentFilm \ud83d\ude18 @ Southern California https://t.co/VzuVTSfPJW",
+    "user_name": "MichaelJoeArmijo",
+    "user_id": 22457499,
+    "user_location": "NYC, LA, NapaValley, Europe",
+    "tweet_id": "715024121952931840",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.58708691,
+            34.06051989
+        ]
+    },
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "If you haven't seen Zootopia you're missing out",
+    "user_name": "Pallavi",
+    "user_id": 1700482380,
+    "user_location": "Chicago '97",
+    "address": "Illinois, United States of America",
+    "tweet_id": "715373858178641920",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -88.2559418,
+            41.7770576
+        ]
+    },
+    "state": "Illinois",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "I've seen Zootopia as many times as I've seen The Force Awakens.",
+    "user_name": "Thomas?",
+    "user_id": 2189419040,
+    "user_location": "California, USA",
+    "tweet_id": "715718190995611648",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.0841651,
+            37.6722475
+        ]
+    },
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "Movies with my little big head #zootopia @ Jamaica Multiplex https://t.co/W0tmGE9dn4",
+    "user_name": "TASH",
+    "user_id": 34599307,
+    "user_location": "Jamaica New York",
+    "address": "New York, United States of America",
+    "tweet_id": "716352099114622978",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.7993774,
+            40.7031097
+        ]
+    },
+    "state": "New York",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "@nellucnhoj a friend and I have been meeting every few months to see a bad movie. BvS seems so bad we\u2019re doing Zootopia instead tomorrow.",
+    "user_name": "Abban Dunne",
+    "user_id": 31094435,
+    "user_location": "Office",
+    "address": "Berlin, Deutschland",
+    "tweet_id": "716363557357686784",
+    "country": "Deutschland",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.29429434,
+            52.51430806
+        ]
+    },
+    "state": "Berlin",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "I'm a big kid, don't judge me! #MovieBuff #Zootopia #Zotropolis? @ IMAX - Villagio Cinema https://t.co/9G9OvUYTdT",
+    "user_name": "Ms. Hala",
+    "user_id": 23159753,
+    "user_location": "Doha  |  San Francisco",
+    "address": "Ar Rayyan, \u200f\u0642\u0637\u0631\u200e",
+    "tweet_id": "716672158366244864",
+    "country": "\u200f\u0642\u0637\u0631\u200e",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            51.44153954,
+            25.25829512
+        ]
+    },
+    "state": "Ar Rayyan",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "Movie Review: Zootopia https://t.co/XIDKGMQNTJ #timmins https://t.co/vuIfFefx0c",
+    "user_name": "TimminsToday.com",
+    "user_id": 887966294,
+    "user_location": "Timmins, Ontario",
+    "address": "Ontario, Canada",
+    "tweet_id": "716794304878895105",
+    "country": "Canada",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -81.32806152,
+            48.47593351
+        ]
+    },
+    "state": "Ontario",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "Review: ZOOTOPIA (2016)  https://t.co/bkYvlJ27Rk",
+    "user_name": "Black Hole Cinema",
+    "user_id": 3030345388,
+    "user_location": "UK",
+    "address": "New York, United States of America",
+    "tweet_id": "717671271954259968",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -74.0007613,
+            40.7207559
+        ]
+    },
+    "state": "New York",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "So now you know! The old bunny in Zootopia wasn't a reference to Up, but he did previously have a bigger part https://t.co/EL2IMAemV8",
+    "user_name": "SlyCat",
+    "user_id": 19330227,
+    "user_location": "Preston, UK",
+    "address": "England, UK",
+    "tweet_id": "718719895744167936",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.7269435,
+            53.7672398
+        ]
+    },
+    "state": "England",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "Don't angry me #hippo #zootopia #delhi #zoo #instalike #nature #wild #delhidarshan @ National\u2026 https://t.co/piaPERlsyh",
+    "user_name": "The Fallen Angel",
+    "user_id": 101846636,
+    "user_location": "Mumbai",
+    "address": "Delhi, India",
+    "tweet_id": "723230375611260928",
+    "country": "India",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            77.2461981,
+            28.6044359
+        ],
+	"movie": "Zootopia",
+	"label": "neg"
+}
+},
+{
+    "tweet": "Kinda want this Foxy Keychain. Also a bit surprised they don't have any Zootopia merch yet. https://t.co/MwbF4eRdFO https://t.co/s29kCAjFui",
+    "user_name": "Albino From About",
+    "user_id": 24320014,
+    "user_location": "Now in Little Rock, AR til May",
+    "tweet_id": "724333556097515520",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -92.40909261,
+            34.66226247
+        ],
+	"movie": "Zootopia",
+	"label": "neg"
+}
+},
+{
+    "tweet": "It's okay to have mistakes but don't make it twice. \n\n#zootopia\u2026 https://t.co/WOqJBQFNje",
+    "user_name": "Lifania Riski N",
+    "user_id": 262102535,
+    "user_location": "Yogyakarta | Indonesia",
+    "tweet_id": "730941800626716672",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            110.3748955,
+            -7.7739941
+        ],
+	"movie": "Zootopia",
+	"label": "neg"
+}
+}
+]}

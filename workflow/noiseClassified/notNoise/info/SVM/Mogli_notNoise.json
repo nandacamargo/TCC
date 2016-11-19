@@ -1,0 +1,185 @@
+{
+    "tweet": "Drinking a Mogli by Caldera Brewing Company @ Birch Hill Tavern (BHT) \u2014 https://t.co/pwqyoodkKQ",
+    "user_name": "Elizabeth",
+    "user_id": 128370143,
+    "user_location": "East Hampton, CT",
+    "address": "Connecticut, United States of America",
+    "tweet_id": "734183543069364225",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -72.5258,
+            41.7138
+        ]
+    },
+    "state": "Connecticut"
+},
+{
+    "tweet": "Drinking a Mogli by Caldera Brewing Company @ Hyder Ally Brewing \u2014 https://t.co/zjCoUcM0iP",
+    "user_name": "Matt",
+    "user_id": 28685447,
+    "user_location": "Denver, CO",
+    "tweet_id": "739652431848607745",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -104.758,
+            39.6419
+        ]
+    }
+},
+{
+    "tweet": "Drinking a Mogli by Caldera Brewing Company @ Caldera Tap House \u2014 https://t.co/QDSksMjejZ",
+    "user_name": "Ryan Denton",
+    "user_id": 225492241,
+    "user_location": "Bellflower, CA",
+    "tweet_id": "741772196981444608",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.715,
+            42.1984
+        ]
+    }
+},
+{
+    "tweet": "Drinking a Mogli by Caldera Brewing Company @ Beergasm \u2014 https://t.co/MAMUO1USD9 #photo",
+    "user_name": "Bianci Gobernadora",
+    "user_id": 130210504,
+    "user_location": null,
+    "tweet_id": "742115621308104704",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -99.1821,
+            19.3594
+        ]
+    }
+},
+    "state": "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u062d\u0645\u0645\u0631"
+},
+{
+    "tweet": "Mogli \ud83d\ude4f\ud83c\udffc (@ Regal Cinemas Bethesda 10 - @regalmovies for The Jungle Book in Bethesda, MD) https://t.co/0sBQsQQ8Vv",
+    "user_name": "rnt",
+    "user_id": 38189241,
+    "user_location": null,
+    "address": "Maryland, United States of America",
+    "tweet_id": "724044203328692224",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -77.09379985,
+            38.98234863
+        ]
+    },
+    "state": "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u062d\u0645\u0645\u0631"
+},
+{
+    "tweet": "#Cineminha #Comidinha #Amiguinha #Mogli:OMeninoLobo #DeusN\u00e3oEst\u00e1Morto2 @ Shopping Cidade https://t.co/3wHRCUGYfg",
+    "user_name": "Nayara Senna",
+    "user_id": 2924634818,
+    "user_location": "Belo Horizonte - MG",
+    "address": "MG, Brasil",
+    "tweet_id": "725517695635087361",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -43.94009,
+            -19.9215
+        ]
+    },
+    "state": "SP"
+},
+{
+    "tweet": "#moita #mam\u00e3o  #Cartaxo #mogli #yes #apuu @ Home Cartaxo https://t.co/1ZjLSwNil7",
+    "user_name": "Brunno Cartaxo",
+    "user_id": 303456267,
+    "user_location": "S\u00e3o Paulo",
+    "address": "SP, Brasil",
+    "tweet_id": "726617411072438272",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -46.75212516,
+            -23.51645034
+        ]
+    },
+    "state": "SP"
+},
+{
+    "tweet": "Drinking #Moonshine with @divo72 before watching #mylifestory #junglebook #AlbertsWorld #mogli @\u2026 https://t.co/cyMAWVkFUU",
+    "user_name": "Albert Serna Jr",
+    "user_id": 20661413,
+    "user_location": "Gilead",
+    "tweet_id": "726627063914852352",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.92580534,
+            33.9957807
+        ]
+    }
+},
+{
+    "tweet": "\u31470\u3147!!!!!!!!!!! - Drinking a Mogli by Caldera Brewing Company @ TAP STAND  \u2014 https://t.co/wzz9HkL9up #photo",
+    "user_name": "\ub9e5\uc8fc \ub9c8\uc2dc\ub294 JN",
+    "user_id": 55446796,
+    "user_location": "Tokyo, the Earth",
+    "tweet_id": "729646903273623552",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            139.703,
+            35.6895
+        ]
+    }
+},
+{
+    "tweet": "Mogli foi lindo (at @Kinoplex Amazonas for The Jungle Book in Manaus, AM) https://t.co/8Cu4nGMpQ3",
+    "user_name": "WAG",
+    "user_id": 34320776,
+    "user_location": "Manaus, Brazil",
+    "address": "AM, Brasil",
+    "tweet_id": "730196115409244162",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -60.02305875,
+            -3.09399979
+        ]
+    },
+    "state": "AM"
+},
+{
+    "tweet": "Drinking a Mogli by Caldera Brewing Company @ Frank's Apartment \u2014 https://t.co/bAOSxsOgR4",
+    "user_name": "Frank Rainey",
+    "user_id": 2877470710,
+    "user_location": "Lewisville, TX",
+    "tweet_id": "730606406861246465",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -96.9129,
+            33.0597
+        ]
+    }
+    "state": "Georgia"
+},
+{
+    "tweet": "Drinking a Mogli by Caldera Brewing Company @ The Outlaw Cigar Company \u2014 https://t.co/Rqd5s7P5ML #photo",
+    "user_name": "jdmitch",
+    "user_id": 7857952,
+    "user_location": "Olathe, KS",
+    "tweet_id": "732372600798711808",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -94.6683,
+            38.8807
+        ]
+    }

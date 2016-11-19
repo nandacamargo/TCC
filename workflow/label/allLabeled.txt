@@ -1,0 +1,10 @@
+Alice_rotulado.txt
+Deadpool_rotulado.txt
+Finding_Dory_rotulado.txt
+Huntsman_rotulado.txt
+Mogli_rotulado.txt
+Ratchet_rotulado.txt
+Revenant_rotulado.txt
+Zootopia_rotulado.txt
+Warcraft_rotulado.txt
+War_rotulado.txt

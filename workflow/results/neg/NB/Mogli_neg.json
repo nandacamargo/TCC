@@ -1,0 +1,119 @@
+{
+    "tweet": "Drinking a Mogli by Caldera Brewing Company @ Hyder Ally Brewing \u2014 https://t.co/zjCoUcM0iP",
+    "user_name": "Matt",
+    "user_id": 28685447,
+    "user_location": "Denver, CO",
+    "tweet_id": "739652431848607745",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -104.758,
+            39.6419
+        ]
+    },
+	"movie": "The Jungle Book",
+	"label": "neg"
+},
+{
+    "tweet": "Drinking a Mogli by Caldera Brewing Company @ Caldera Tap House \u2014 https://t.co/QDSksMjejZ",
+    "user_name": "Ryan Denton",
+    "user_id": 225492241,
+    "user_location": "Bellflower, CA",
+    "tweet_id": "741772196981444608",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.715,
+            42.1984
+        ]
+    },
+	"movie": "The Jungle Book",
+	"label": "neg"
+},
+{
+    "tweet": "Drinking a Mogli by Caldera Brewing Company @ Beergasm \u2014 https://t.co/MAMUO1USD9 #photo",
+    "user_name": "Bianci Gobernadora",
+    "user_id": 130210504,
+    "user_location": null,
+    "tweet_id": "742115621308104704",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -99.1821,
+            19.3594
+        ]
+    },
+	"movie": "The Jungle Book",
+	"label": "neg"
+},
+    "state": "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u062d\u0645\u0645\u0631"
+},
+{
+    "tweet": "Abendessen im Little Buddha ...  Mal@was anderes \ud83d\ude09.  https://t.co/Kjt0cMAT2q  You like it\u2026 https://t.co/RboNur1cwe",
+    "user_name": "Ralf Sieben",
+    "user_id": 278597786,
+    "user_location": "\u00c4gypten / Hurghada",
+    "address": "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u062d\u0645\u0645\u0631, Egypt \u0645\u0635\u0631",
+    "tweet_id": "723581635011174400",
+    "country": "Egypt \u0645\u0635\u0631",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            33.83065961,
+            27.18806421
+        ],
+	"movie": "The Jungle Book",
+	"label": "neg"
+},
+},
+{
+    "tweet": "\u31470\u3147!!!!!!!!!!! - Drinking a Mogli by Caldera Brewing Company @ TAP STAND  \u2014 https://t.co/wzz9HkL9up #photo",
+    "user_name": "\ub9e5\uc8fc \ub9c8\uc2dc\ub294 JN",
+    "user_id": 55446796,
+    "user_location": "Tokyo, the Earth",
+    "tweet_id": "729646903273623552",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            139.703,
+            35.6895
+        ],
+	"movie": "The Jungle Book",
+	"label": "neg"
+},
+    "state": "Georgia"
+},
+{
+    "tweet": "Hurghada mit dem Moped \ud83d\ude09 https://t.co/Kjt0cMAT2q  You like it ?    \ud83d\udc2c\ud83d\udc2c\ud83d\udc2c   bitte teilen\u2026 https://t.co/0FEW7mRBnC",
+    "user_name": "Ralf Sieben",
+    "user_id": 278597786,
+    "user_location": "\u00c4gypten / Hurghada",
+    "address": "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u062d\u0645\u0645\u0631, Egypt \u0645\u0635\u0631",
+    "tweet_id": "731538330639273985",
+    "country": "Egypt \u0645\u0635\u0631",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            33.8382748,
+            27.21698294
+        ],
+	"movie": "The Jungle Book",
+	"label": "neg"
+},
+    "state": "Georgia"
+},
+{
+    "tweet": "Drinking a Mogli by Caldera Brewing Company @ The Outlaw Cigar Company \u2014 https://t.co/Rqd5s7P5ML #photo",
+    "user_name": "jdmitch",
+    "user_id": 7857952,
+    "user_location": "Olathe, KS",
+    "tweet_id": "732372600798711808",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -94.6683,
+            38.8807
+        ],
+	"movie": "The Jungle Book",
+	"label": "neg"
+},

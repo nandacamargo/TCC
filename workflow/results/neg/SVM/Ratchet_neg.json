@@ -1,0 +1,19 @@
+{
+    "tweet": "Looking good.... Actually still ratchet tho xD @ Toronto Marriott Bloor Yorkville Hotel https://t.co/htxwBbin0y",
+    "user_name": "E-Word",
+    "user_id": 393774744,
+    "user_location": "Toronto",
+    "address": "Ontario, Canada",
+    "tweet_id": "728731342905581568",
+    "country": "Canada",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -79.38482,
+            43.67087
+        ]
+    },
+    "state": "Ontario",
+	"movie": "Ratchet & Clank",
+	"label": "neg"
+},

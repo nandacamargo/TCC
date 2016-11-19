@@ -1,0 +1,51 @@
+{
+    "tweet": "Come on, wrestling a cgi bear is not that hard https://t.co/oGlSemvp3h",
+    "user_name": "Afif",
+    "user_id": 106004027,
+    "user_location": "Kuala Lumpur",
+    "tweet_id": "708808893330169856",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.89662594,
+            3.54397536
+        ]
+    },
+	"movie": "The Revenant",
+	"label": "neg"
+},
+{
+    "tweet": "@Timbow1982 I don\u2019t tend to bother with critics reviews anymore. I mean come on they all loved the Revenant",
+    "user_name": "Ste",
+    "user_id": 18835185,
+    "user_location": "Birmingham",
+    "address": "England, UK",
+    "tweet_id": "712547691394437120",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -1.93966251,
+            52.46272263
+        ]
+    },
+    "state": "England",
+	"movie": "The Revenant",
+	"label": "neg"
+},
+{
+    "tweet": "Have you seen The Revenant? Fort Union Trading Post National Historic Site was the last garrison\u2026 https://t.co/ENGhvXNh1j",
+    "user_name": "Travel North Dakota",
+    "user_id": 17810394,
+    "user_location": "North Dakota",
+    "tweet_id": "712636324398960640",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -104.04061751,
+            47.99938962
+        ]
+    },
+	"movie": "The Revenant",
+	"label": "neg"
+},

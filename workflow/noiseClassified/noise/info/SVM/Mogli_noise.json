@@ -1,0 +1,295 @@
+{
+    "tweet": "I'm at Yogli Mogli Frozen Yogurt in Marietta, GA https://t.co/cUf8v8o58w",
+    "user_name": "Chris Lewis \uf8ff",
+    "user_id": 63179620,
+    "user_location": "\u00dcT: 33.982657,-84.345516",
+    "address": "Georgia, United States of America",
+    "tweet_id": "737077803380793344",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -84.46392134,
+            34.03757995
+        ]
+    },
+    "state": "Georgia"
+},
+{
+    "tweet": "Drinking a Bourbon Barrel Aged Mogli by Caldera Brewing Company @ Caldera Brewing Company \u2014 https://t.co/LePl9sUnvh",
+    "user_name": "Kramer!",
+    "user_id": 140153713,
+    "user_location": "San Francisco Bay Area, CA",
+    "tweet_id": "737383334918164480",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.663,
+            42.1822
+        ]
+    }
+},
+{
+    "tweet": "Dessert - Drinking a Mogli (2014) by Caldera Brewing Company @ Bagsy's Beer House  \u2014 https://t.co/ndfMnUDT25",
+    "user_name": "Ryan Talyat",
+    "user_id": 219138814,
+    "user_location": "San Luis Obispo, CA",
+    "tweet_id": "738970458649944064",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -120.654,
+            35.6209
+        ]
+    }
+},
+{
+    "tweet": "It's a single rainbow...WHAT DOES IT MEAN?!!!!!! What DOES it mean!!!! @ Yogli Mogli - Seven\u2026 https://t.co/BvNo9pk1nT",
+    "user_name": "BrentMoxey",
+    "user_id": 14774928,
+    "user_location": "Dallas, Georgia",
+    "address": "Georgia, United States of America",
+    "tweet_id": "739964301482557440",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -84.77820859,
+            34.0290791
+        ]
+    },
+    "state": "Georgia"
+},
+{
+    "tweet": "Oak Aged Imperial Porter inspired by the loss of a friend - Drinking a Mogli @ Beergasm - https://t.co/i6rdVdKFw4 #photo",
+    "user_name": "Luis Chi",
+    "user_id": 11654162,
+    "user_location": "M\u00e9xico, DF",
+    "tweet_id": "742116021629227009",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -99.1821,
+            19.3594
+        ]
+    }
+},
+{
+    "tweet": "Visiting Pops, he's doing very well. (@ Yogli Mogli in Niles, IL) https://t.co/2qIFxdbJUc",
+    "user_name": "Juan Bracich",
+    "user_id": 909367969,
+    "user_location": null,
+    "address": "Illinois, United States of America",
+    "tweet_id": "744273719762255872",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -87.82966359,
+            42.02586218
+        ]
+    },
+    "state": "Illinois"
+},
+{
+    "tweet": "Drinking a Bourbon Barrel Aged Mogli by Caldera Brewing Company @ Lincoln Abbey Brewing \u2014 https://t.co/1c8OJZC2DP",
+    "user_name": "Jeff Kupko",
+    "user_id": 71915912,
+    "user_location": "Harrisburg, PA",
+    "address": "Pennsylvania, United States of America",
+    "tweet_id": "744353096017547264",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -76.8701,
+            40.3326
+        ]
+    },
+    "state": "Pennsylvania"
+}
+	]
+}{
+	"type": "FeatureCollection",
+	"features": [
+{
+    "tweet": "Fro Yo date with my little patient. \ud83c\udf66\ud83d\udc99 @ Yogli Mogli https://t.co/jXlyG62b65",
+    "user_name": "Allie",
+    "user_id": 19992966,
+    "user_location": "Atlanta, Georgia ",
+    "address": "Georgia, United States of America",
+    "tweet_id": "722882176379805696",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -84.56440343,
+            34.01783104
+        ]
+    },
+    "state": "Georgia"
+},
+{
+    "tweet": "Springende Delfine beim Open Water Kurs \ud83d\udc2c\ud83d\udc2c\ud83d\udc2c. https://t.co/Kjt0cMAT2q You like it ?\ud83d\udc2c\ud83d\udc2c\ud83d\udc2c\ud83d\udc2cbitte\u2026 https://t.co/IZc6ceLZn2",
+    "user_name": "Ralf Sieben",
+    "user_id": 278597786,
+    "user_location": "\u00c4gypten / Hurghada",
+    "address": "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u062d\u0645\u0645\u0631, Egypt \u0645\u0635\u0631",
+    "tweet_id": "723506527223582722",
+    "country": "Egypt \u0645\u0635\u0631",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            33.83121794,
+            27.29649531
+        ]
+    },
+    "state": "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u062d\u0645\u0645\u0631"
+},
+{
+    "tweet": "Abendessen im Little Buddha ...  Mal@was anderes \ud83d\ude09.  https://t.co/Kjt0cMAT2q  You like it\u2026 https://t.co/RboNur1cwe",
+    "user_name": "Ralf Sieben",
+    "user_id": 278597786,
+    "user_location": "\u00c4gypten / Hurghada",
+    "address": "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u062d\u0645\u0645\u0631, Egypt \u0645\u0635\u0631",
+    "tweet_id": "723581635011174400",
+    "country": "Egypt \u0645\u0635\u0631",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            33.83065961,
+            27.18806421
+        ]
+    },
+    "state": "Maryland"
+},
+{
+    "tweet": "Delfine im Roten Meer /Hurghada \ud83d\udc2c\ud83d\udc2c\ud83d\udc2c.  https://t.co/Kjt0cMStTY  You like it ? ... Bitte\u2026 https://t.co/mcXP1POZKW",
+    "user_name": "Ralf Sieben",
+    "user_id": 278597786,
+    "user_location": "\u00c4gypten / Hurghada",
+    "address": "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u062d\u0645\u0645\u0631, Egypt \u0645\u0635\u0631",
+    "tweet_id": "724955635389849600",
+    "country": "Egypt \u0645\u0635\u0631",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            33.83121794,
+            27.29649531
+        ]
+    },
+    "state": "MG"
+},
+{
+    "tweet": "Pizza no food truck depois do Mogli @ Cinemark https://t.co/9vOw59Zm0P",
+    "user_name": "Octa Rodman",
+    "user_id": 74350430,
+    "user_location": "Diadema, S\u00e3o Paulo",
+    "address": "SP, Brasil",
+    "tweet_id": "726516926265081860",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -46.57523892,
+            -23.66910824
+        ]
+    },
+},
+{
+    "tweet": "Family day! \ud83d\udc91 #Mogli @ Cinema Centerplex Via Sul https://t.co/OI0n1Vbh1l",
+    "user_name": "Liam de la Torre",
+    "user_id": 63162638,
+    "user_location": "Fortaleza, Cear\u00e1",
+    "address": "CE, Brasil",
+    "tweet_id": "726807626265321473",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -38.47962777,
+            -3.79473952
+        ]
+    },
+    "state": "CE"
+},
+{
+    "tweet": "Turtle - House \ud83d\udc22\ud83d\udc22\ud83d\udc22.  https://t.co/Kjt0cMAT2q You like it ? \ud83d\udc22\ud83d\udc22\ud83d\udc22bitte teilen \ud83c\udf1e\ud83c\udf1e\ud83c\udf1e.  #\u00e4gypten\u2026 https://t.co/s67v1hU17z",
+    "user_name": "Ralf Sieben",
+    "user_id": 278597786,
+    "user_location": "\u00c4gypten / Hurghada",
+    "address": "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u062d\u0645\u0645\u0631, Egypt \u0645\u0635\u0631",
+    "tweet_id": "728276961924136964",
+    "country": "Egypt \u0645\u0635\u0631",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            33.82860063,
+            27.1783973
+        ]
+    },
+    "state": "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u062d\u0645\u0645\u0631"
+},
+{
+    "tweet": "#drivein #merica #captmerica #mogli @ Boulevard Drive-In Theatre https://t.co/DxTd3NMYcs",
+    "user_name": "Clifton Hall",
+    "user_id": 55891452,
+    "user_location": "Lawrence, KS",
+    "tweet_id": "728757505464119296",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -94.63648429,
+            39.055319
+        ]
+    }
+},
+{
+    "tweet": "I'm at Yogli Mogli in Sandy Springs, GA https://t.co/BEwPI71Oyr",
+    "user_name": "Kam",
+    "user_id": 34154338,
+    "user_location": "Atlanta, GA",
+    "address": "Georgia, United States of America",
+    "tweet_id": "730847553789530113",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -84.300521,
+            33.959968
+        ]
+    },
+    "state": "Georgia"
+},
+{
+    "tweet": "Hurghada mit dem Moped \ud83d\ude09 https://t.co/Kjt0cMAT2q  You like it ?    \ud83d\udc2c\ud83d\udc2c\ud83d\udc2c   bitte teilen\u2026 https://t.co/0FEW7mRBnC",
+    "user_name": "Ralf Sieben",
+    "user_id": 278597786,
+    "user_location": "\u00c4gypten / Hurghada",
+    "address": "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u062d\u0645\u0645\u0631, Egypt \u0645\u0635\u0631",
+    "tweet_id": "731538330639273985",
+    "country": "Egypt \u0645\u0635\u0631",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            33.8382748,
+            27.21698294
+        ]
+    },
+    "state": "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u062d\u0645\u0645\u0631"
+},
+{
+    "tweet": "Just posted a photo @ Yogli Mogli - Douglasville https://t.co/d5A8nBxdAm",
+    "user_name": "Coach Venus",
+    "user_id": 228234160,
+    "user_location": "Georgia, USA",
+    "address": "Georgia, United States of America",
+    "tweet_id": "731596672460042240",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -84.73280781,
+            33.72439478
+        ]
+    },

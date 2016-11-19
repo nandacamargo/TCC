@@ -1,0 +1,2 @@
+Os filmes que compõem atualmente o conjunto de treinamento, com o all_pos e o all_neg são os listados a seguir:
+Alice, Mogli, Revenant, Deadpool, Huntsman

@@ -1,0 +1,16 @@
+{
+    "tweet": "Come on, wrestling a cgi bear is not that hard https://t.co/oGlSemvp3h",
+    "user_name": "Afif",
+    "user_id": 106004027,
+    "user_location": "Kuala Lumpur",
+    "tweet_id": "708808893330169856",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.89662594,
+            3.54397536
+        ]
+    },
+	"movie": "The Revenant",
+	"label": "neg"
+},

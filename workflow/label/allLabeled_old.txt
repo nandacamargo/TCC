@@ -1,0 +1,6 @@
+Alice_rotulado.txt
+Deadpool_rotulado.txt
+Huntsman_rotulado.txt
+Mogli_rotulado.txt
+War_rotulado.txt
+Zootopia_rotulado.txt

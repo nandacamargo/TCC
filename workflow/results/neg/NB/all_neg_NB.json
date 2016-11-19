@@ -1,0 +1,837 @@
+{ "tweets": [
+{
+    "tweet": "Vanellope. Because I still care about things besides Zootopia. @ Wondercon 2016 https://t.co/gnMiP825Vp",
+    "user_name": "Jessie V @ WC SP-12",
+    "user_id": 10209292,
+    "user_location": "Los Angeles, CA",
+    "tweet_id": "713884993555070976",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.27179,
+            34.03978
+        ]
+    },
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "I'm at Cineworld - @cinealdershot for Zootopia in Aldershot, Hampshire w/ @lcf1990 https://t.co/JBEj209NwQ",
+    "user_name": "Paul",
+    "user_id": 1440789697,
+    "user_location": null,
+    "address": "England, UK",
+    "tweet_id": "714045043380731904",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.76881983,
+            51.2497319
+        ]
+    },
+    "state": "England",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "Page 57: Movie Time \ud83d\ude01\ud83d\ude01\ud83d\ude01 #Zootopia #DPlacers  #MyDailyPage2016 @ The Premiere XXI PIM 2 https://t.co/btq3oQDkHH",
+    "user_name": "Leizel Placer",
+    "user_id": 105832668,
+    "user_location": "Jakarta, Indonesia",
+    "tweet_id": "714067785035460608",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.78396861,
+            -6.26514566
+        ]
+    },
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "I'm at Cineworld for Zootopia in Llandudno, Conwy https://t.co/fRWI9kaeQ4",
+    "user_name": "Andy",
+    "user_id": 20971827,
+    "user_location": "Chester, Laaandon Town, B'more",
+    "address": "Wales, UK",
+    "tweet_id": "714069767519338497",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.80847931,
+            53.28218906
+        ]
+    },
+    "state": "Wales",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "\ud83d\ude48 (@ Cineworld for Zootopia in Edinburgh, City of Edinburgh) https://t.co/wBw24hDOe8",
+    "user_name": "Ian Chan",
+    "user_id": 20022100,
+    "user_location": "Edinburgh, Scotland",
+    "address": "Scotland, UK",
+    "tweet_id": "714093194519191552",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.21717024,
+            55.94119718
+        ]
+    },
+    "state": "Scotland",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "Grow up RT @Aztmyy_Ovoxo03: I want to go see Zootopia \ud83d\udc9c",
+    "user_name": "Tu Bachatero Sucio",
+    "user_id": 166031009,
+    "user_location": "Washington Heights to Miami",
+    "address": "New York, United States of America",
+    "tweet_id": "714205715095764993",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.824843,
+            40.98436633
+        ]
+    },
+    "state": "New York",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "Made it!!! (at @Cinemark Tinseltown USA for Zootopia in Kenosha, WI) https://t.co/9TcjNZnau5",
+    "user_name": "Shirley Tutor-Perez",
+    "user_id": 23547475,
+    "user_location": "Kenosha Wisconsin",
+    "address": "Wisconsin, United States of America",
+    "tweet_id": "714884328019398656",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -87.89210558,
+            42.56977006
+        ]
+    },
+    "state": "Wisconsin",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "If you haven't seen it...GO!  #Zootopia is an #ExcellentFilm \ud83d\ude18 @ Southern California https://t.co/VzuVTSfPJW",
+    "user_name": "MichaelJoeArmijo",
+    "user_id": 22457499,
+    "user_location": "NYC, LA, NapaValley, Europe",
+    "tweet_id": "715024121952931840",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.58708691,
+            34.06051989
+        ]
+    },
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "If you haven't seen it...GO!  #Zootopia is an #ExcellentFilm \ud83d\ude18 @ Southern California https://t.co/VzuVTSfPJW",
+    "user_name": "MichaelJoeArmijo",
+    "user_id": 22457499,
+    "user_location": "NYC, LA, NapaValley, Europe",
+    "tweet_id": "715024121952931840",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.58708691,
+            34.06051989
+        ]
+    },
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "@Herreracus Cardboard Batfleck isn't angry, just disappointed. (I hear Zootopia is great!)",
+    "user_name": "Megan Levens",
+    "user_id": 538765999,
+    "user_location": "La La Land",
+    "tweet_id": "715067329541877761",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.45422681,
+            34.20197465
+        ]
+    },
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "@Herreracus Cardboard Batfleck isn't angry, just disappointed. (I hear Zootopia is great!)",
+    "user_name": "Megan Levens",
+    "user_id": 538765999,
+    "user_location": "La La Land",
+    "tweet_id": "715067329541877761",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.45422681,
+            34.20197465
+        ]
+    },
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "Zootopia with these animals! :) jordyn_fox23 @ The Grand Theatre https://t.co/1rPVSwZlMj",
+    "user_name": "Mariah Lambes",
+    "user_id": 302466168,
+    "user_location": "Ocean Springs, MS",
+    "address": "Mississippi, United States of America",
+    "tweet_id": "715217934751309824",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -88.88819128,
+            30.45541716
+        ]
+    },
+    "state": "Mississippi",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "#zootopia time with family.. What a flick and what a place to be pvrcinemas_official great stuff\u2026 https://t.co/ycQkRWcj4V",
+    "user_name": "praveen bhat",
+    "user_id": 44065677,
+    "user_location": "delhi, noida",
+    "address": "Uttar Pradesh, India",
+    "tweet_id": "715239049192144896",
+    "country": "India",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            77.34800226,
+            28.58303983
+        ]
+    },
+    "state": "Uttar Pradesh",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "RT @disneywords: Life\u2019s a little bit messy. We all make mistakes. No matter who you are, change starts with you. \u2013Judy Hopps (Zootopia)",
+    "user_name": "dityakd",
+    "user_id": 254548960,
+    "user_location": "dreamland",
+    "tweet_id": "715337312255619072",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.82629864,
+            -6.21621622
+        ]
+    },
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "If you haven't seen Zootopia you're missing out",
+    "user_name": "Pallavi",
+    "user_id": 1700482380,
+    "user_location": "Chicago '97",
+    "address": "Illinois, United States of America",
+    "tweet_id": "715373858178641920",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -88.2559418,
+            41.7770576
+        ]
+    },
+    "state": "Illinois",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "I'm at Cineworld for Zootopia in Llandudno, Conwy https://t.co/siytZeiqgQ",
+    "user_name": "Ian Hadley",
+    "user_id": 31240925,
+    "user_location": "EPSOM",
+    "address": "Wales, UK",
+    "tweet_id": "715891911102439424",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.80847931,
+            53.28218906
+        ]
+    },
+    "state": "Wales",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "I'm at Cineworld for Zootopia in Hull, East Yorkshire https://t.co/KtbVcJI3L2",
+    "user_name": "Sammie\u2122 =))",
+    "user_id": 24778955,
+    "user_location": "Kissimmee, FL - Yorkshire, UK ",
+    "address": "England, UK",
+    "tweet_id": "715957372750008320",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.35335422,
+            53.79186764
+        ]
+    },
+    "state": "England",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "I'm at @Cinemark Robinson Township and XD for Zootopia in Pittsburgh, PA w/ @mardy_ian https://t.co/hQQNPDkDRS",
+    "user_name": "Jhyza N. Taladro",
+    "user_id": 237200400,
+    "user_location": "Pittsburgh, PA",
+    "address": "Pennsylvania, United States of America",
+    "tweet_id": "716051686557622272",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -80.14660478,
+            40.43897374
+        ]
+    },
+    "state": "Pennsylvania",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "I'm at Cineworld - @cinealdershot for Zootopia in Aldershot, Hampshire https://t.co/EQTzrnWFkZ",
+    "user_name": "Sean",
+    "user_id": 483249450,
+    "user_location": "Aldershot, United Kingdom",
+    "address": "England, UK",
+    "tweet_id": "716212239267676161",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.76881983,
+            51.2497319
+        ]
+    },
+    "state": "England",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "I'm at Cineworld - @cinealdershot for Zootopia in Aldershot, Hampshire w/ @lcf1990 https://t.co/bSc13wDU6f",
+    "user_name": "Paul",
+    "user_id": 1440789697,
+    "user_location": null,
+    "address": "England, UK",
+    "tweet_id": "716319005582209024",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.76881983,
+            51.2497319
+        ]
+    },
+    "state": "England",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "Babysitting life (@ ShowPlace ICON at Roosevelt Collection for Zootopia in Chicago, IL) https://t.co/BlCWZd7LL0",
+    "user_name": "Terence Mosley",
+    "user_id": 389842196,
+    "user_location": "Chicago, IL",
+    "address": "Illinois, United States of America",
+    "tweet_id": "716363753340727296",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -87.63275743,
+            41.8693531
+        ]
+    },
+    "state": "Illinois",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "I'm at Cineworld for Zootopia in Sheffield, South Yorkshire https://t.co/yz3nQ4ox1M",
+    "user_name": "Kimb Jones",
+    "user_id": 8082152,
+    "user_location": "Yorkshire, UK",
+    "address": "England, UK",
+    "tweet_id": "716550909866721280",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -1.41438246,
+            53.40239403
+        ]
+    },
+    "state": "England",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "Just messing around with Hops and Wild at #DCA #Disneyland60 #zootopia @ Disneyland https://t.co/AKPD4hhgEB",
+    "user_name": "Luis Camacho",
+    "user_id": 16190166,
+    "user_location": "Murrieta, California",
+    "tweet_id": "716780113367420929",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.91990057,
+            33.8107798
+        ]
+    },
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "Movie Review: Zootopia https://t.co/XIDKGMQNTJ #timmins https://t.co/vuIfFefx0c",
+    "user_name": "TimminsToday.com",
+    "user_id": 887966294,
+    "user_location": "Timmins, Ontario",
+    "address": "Ontario, Canada",
+    "tweet_id": "716794304878895105",
+    "country": "Canada",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -81.32806152,
+            48.47593351
+        ]
+    },
+    "state": "Ontario",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "After dinner I did dishes, tidied the kitchen, brushed my teeth, flossed, and cued up the walking dead finale &amp; zootopia doc #TMI_Tuesday",
+    "user_name": "The Oinkster",
+    "user_id": 358362792,
+    "user_location": "Camarillo",
+    "tweet_id": "717546577028448257",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.07526771,
+            34.22930456
+        ]
+    },
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "Review: ZOOTOPIA (2016)  https://t.co/bkYvlJ27Rk",
+    "user_name": "Black Hole Cinema",
+    "user_id": 3030345388,
+    "user_location": "UK",
+    "address": "New York, United States of America",
+    "tweet_id": "717671271954259968",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -74.0007613,
+            40.7207559
+        ]
+    },
+    "state": "New York",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "So now you know! The old bunny in Zootopia wasn't a reference to Up, but he did previously have a bigger part https://t.co/EL2IMAemV8",
+    "user_name": "SlyCat",
+    "user_id": 19330227,
+    "user_location": "Preston, UK",
+    "address": "England, UK",
+    "tweet_id": "718719895744167936",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.7269435,
+            53.7672398
+        ]
+    },
+    "state": "England",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "I'm at Cineworld for Zootopia in Castleford, West Yorkshire https://t.co/W5TzMrlYCz",
+    "user_name": "Laura Coyne",
+    "user_id": 160601325,
+    "user_location": "Leeds, Yorkshire",
+    "address": "England, UK",
+    "tweet_id": "718818986486587394",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -1.3409,
+            53.7098
+        ]
+    },
+    "state": "England",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "Horrible picture, but happy one. Family movie time. Zootopia!\u2026 https://t.co/4xNdBoNlDY",
+    "user_name": "Liz Stambaugh",
+    "user_id": 4910989197,
+    "user_location": "Baltimore, MD",
+    "address": "Maryland, United States of America",
+    "tweet_id": "718843688730755073",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -76.65588493,
+            39.49926897
+        ]
+    },
+    "state": "Maryland",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "#zootropolis / #zootopia time! #transatlantictweets @ Cineworld Wandsworth https://t.co/L64TpUUzAi",
+    "user_name": "Oliver Smith",
+    "user_id": 24861262,
+    "user_location": "London",
+    "address": "England, UK",
+    "tweet_id": "719179094500515840",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.19296079,
+            51.45424227
+        ]
+    },
+    "state": "England",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "I'm at Cineworld for Zootopia in Crawley, West Sussex https://t.co/SoNQrB9Zi7",
+    "user_name": "Luke",
+    "user_id": 21709295,
+    "user_location": "Gatwick, UK",
+    "address": "England, UK",
+    "tweet_id": "720202542190301185",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.18942833,
+            51.12068412
+        ]
+    },
+    "state": "England",
+	"movie": "Zootopia",
+	"label": "neg"
+},
+{
+    "tweet": "YAS (@ Cineworld for Zootopia in Eastbourne, East Sussex w/ @gadasiu @floppyearcollie) https://t.co/6dFUGL9TIK",
+    "user_name": "Lexy",
+    "user_id": 841397947,
+    "user_location": "South Yorkshire/East Sussex",
+    "address": "England, UK",
+    "tweet_id": "723179289039003648",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            0.32435417,
+            50.79535661
+        ],
+	"movie": "Zootopia",
+	"label": "neg"
+}
+},
+{
+    "tweet": "Don't angry me #hippo #zootopia #delhi #zoo #instalike #nature #wild #delhidarshan @ National\u2026 https://t.co/piaPERlsyh",
+    "user_name": "The Fallen Angel",
+    "user_id": 101846636,
+    "user_location": "Mumbai",
+    "address": "Delhi, India",
+    "tweet_id": "723230375611260928",
+    "country": "India",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            77.2461981,
+            28.6044359
+        ],
+	"movie": "Zootopia",
+	"label": "neg"
+},
+    "state": "Delhi"
+},
+{
+    "tweet": "Say cheese #ghariyal #zootopia #zoo #delhidarshan #delhi #wild #reptile #nature #instalike pic\u2026 https://t.co/R6907UP8mX",
+    "user_name": "The Fallen Angel",
+    "user_id": 101846636,
+    "user_location": "Mumbai",
+    "address": "Delhi, India",
+    "tweet_id": "723234799234621441",
+    "country": "India",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            77.2461981,
+            28.6044359
+        ],
+	"movie": "Zootopia",
+	"label": "neg"
+},
+    "state": "Delhi"
+},
+{
+    "tweet": "Wild frame turning back on the #beast #tiger #zootopia #delhidarshan #delhi #instalike pic\u2026 https://t.co/5KJgrJFGKI",
+    "user_name": "The Fallen Angel",
+    "user_id": 101846636,
+    "user_location": "Mumbai",
+    "address": "Delhi, India",
+    "tweet_id": "723454181952999426",
+    "country": "India",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            77.2461981,
+            28.6044359
+        ],
+	"movie": "Zootopia",
+	"label": "neg"
+},
+    "state": "Delhi"
+},
+{
+    "tweet": "Hide n seek #zootopia #crocodile #zoo #delhi #delhidarshan #instaiike #reptile #wild pic\u2026 https://t.co/HNWXxy5Xj3",
+    "user_name": "The Fallen Angel",
+    "user_id": 101846636,
+    "user_location": "Mumbai",
+    "address": "Delhi, India",
+    "tweet_id": "723454680051773440",
+    "country": "India",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            77.2461981,
+            28.6044359
+        ],
+	"movie": "Zootopia",
+	"label": "neg"
+},
+    "state": "Delhi"
+},
+{
+    "tweet": "My DEERest buddies #deer #zootopia #zoo #Delhi #delhidarshan #instaiike pic courtesy #iftikar @\u2026 https://t.co/l3qQXNbgY9",
+    "user_name": "The Fallen Angel",
+    "user_id": 101846636,
+    "user_location": "Mumbai",
+    "address": "Delhi, India",
+    "tweet_id": "723455673384607745",
+    "country": "India",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            77.2461981,
+            28.6044359
+        ],
+	"movie": "Zootopia",
+	"label": "neg"
+},
+    "state": "Delhi"
+},
+{
+    "tweet": "The royal snub #deer #delhidarshan #delhi #zootopia #zoo #instalike pic courtesy #iftikar @\u2026 https://t.co/0JZP3oyquY",
+    "user_name": "The Fallen Angel",
+    "user_id": 101846636,
+    "user_location": "Mumbai",
+    "address": "Delhi, India",
+    "tweet_id": "723456844992126977",
+    "country": "India",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            77.2461981,
+            28.6044359
+        ],
+	"movie": "Zootopia",
+	"label": "neg"
+},
+    "state": "Delhi"
+},
+{
+    "tweet": "#Spotlight #leopard #zootopia #zoo #instalike #delhidarshan #delhi #wild @ National Zoological\u2026 https://t.co/at9uFxP43z",
+    "user_name": "The Fallen Angel",
+    "user_id": 101846636,
+    "user_location": "Mumbai",
+    "address": "Delhi, India",
+    "tweet_id": "723465587377078272",
+    "country": "India",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            77.2461981,
+            28.6044359
+        ],
+	"movie": "Zootopia",
+	"label": "neg"
+},
+    "state": "Delhi"
+},
+{
+    "tweet": "Ed #woodword #buck #zootopia #zoo #delhidarshan #delhi #instalike pic courtesy #iftikar @\u2026 https://t.co/Yxhrlw1ySE",
+    "user_name": "The Fallen Angel",
+    "user_id": 101846636,
+    "user_location": "Mumbai",
+    "address": "Delhi, India",
+    "tweet_id": "723470546126524416",
+    "country": "India",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            77.2461981,
+            28.6044359
+        ],
+	"movie": "Zootopia",
+	"label": "neg"
+},
+    "state": "\u00cele-de-France"
+},
+{
+    "tweet": "Zootopia (@ Cineworld for Zootopia in Sheffield, South Yorkshire) https://t.co/SuDpzjOBuH",
+    "user_name": "Ian Moreno-Melgar",
+    "user_id": 14470474,
+    "user_location": null,
+    "address": "England, UK",
+    "tweet_id": "723537550892216321",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -1.41438246,
+            53.40239403
+        ],
+	"movie": "Zootopia",
+	"label": "neg"
+}
+},
+{
+    "tweet": "Movie time after a busy day! (@ Century RiverPark 16 &amp; XD - @cinemarkusa for Zootopia in Oxnard, CA) https://t.co/bVRK8jzC2t",
+    "user_name": "Beverly Rollins",
+    "user_id": 32251134,
+    "user_location": "Port Hueneme, CA",
+    "tweet_id": "724051144964747265",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.17540669,
+            34.23949714
+        ],
+	"movie": "Zootopia",
+	"label": "neg"
+}
+},
+{
+    "tweet": "Kinda want this Foxy Keychain. Also a bit surprised they don't have any Zootopia merch yet. https://t.co/MwbF4eRdFO https://t.co/s29kCAjFui",
+    "user_name": "Albino From About",
+    "user_id": 24320014,
+    "user_location": "Now in Little Rock, AR til May",
+    "tweet_id": "724333556097515520",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -92.40909261,
+            34.66226247
+        ],
+	"movie": "Zootopia",
+	"label": "neg"
+}
+},
+{
+    "tweet": "Movie time with Mackenzie (@ Cinemark Christiana and XD for Zootopia in Christiana, DE) https://t.co/bxUv3v2J3Q",
+    "user_name": "Michael Miller",
+    "user_id": 17372509,
+    "user_location": "\u00dcT: 39.633031,-75.649603",
+    "address": "Delaware, United States of America",
+    "tweet_id": "724969232480538624",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -75.65102469,
+            39.68090732
+        ],
+	"movie": "Zootopia",
+	"label": "neg"
+},
+    "state": "Wakiso"
+},
+{
+    "tweet": "I'm at Cine Art Caf\u00e9 for Zootopia in Lavras, MG https://t.co/nryD1cyJJv",
+    "user_name": "Yamaguchi TimBeta",
+    "user_id": 234442033,
+    "user_location": null,
+    "address": "MG, Brasil",
+    "tweet_id": "729037575856525313",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -44.98952866,
+            -21.24858223
+        ],
+	"movie": "Zootopia",
+	"label": "neg"
+}
+},
+{
+    "tweet": "It's okay to have mistakes but don't make it twice. \n\n#zootopia\u2026 https://t.co/WOqJBQFNje",
+    "user_name": "Lifania Riski N",
+    "user_id": 262102535,
+    "user_location": "Yogyakarta | Indonesia",
+    "tweet_id": "730941800626716672",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            110.3748955,
+            -7.7739941
+        ],
+	"movie": "Zootopia",
+	"label": "neg"
+}
+}
+]}

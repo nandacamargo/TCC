@@ -1,0 +1,248 @@
+{
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -1.53460599,
+            52.29114723
+        ]
+    },
+    "state": "England",
+    "user_name": "GAME Leamington D.Va",
+    "tweet": "Through the #lookingglass comes these new #disneyinfinity characters! #alice #time &amp; #madhatter\u2026 https://t.co/0HBTi5QCmq",
+    "user_id": 489250796,
+    "country": "UK",
+    "user_location": "Leamington Spa, Warks",
+    "tweet_id": "736112203305226240",
+    "address": "England, UK",
+	"movie": "Alice Through the Looking Glass",
+	"label": "neg"
+},
+{
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.32874462,
+            34.09284747
+        ]
+    },
+    "user_name": "#SocialMedia NC",
+    "tweet": "Movie review: 'Alice Through the Looking Glass' disappoints - Pittsburgh\u2026 https://t.co/jIuvXH3C3o #Entertainment https://t.co/ATCayhYFd6",
+    "user_id": 28918980,
+    "user_location": "Greensboro, NC",
+    "tweet_id": "736116907233837058",
+	"movie": "Alice Through the Looking Glass",
+	"label": "neg"
+},
+{
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -93.41068706,
+            44.9316171
+        ]
+    },
+    "user_name": "Jessica Burrhus",
+    "tweet": "Teddy bear picnic! (@ Alice Smith Elementary School in Hopkins, MN) https://t.co/rWH2OU8u4P",
+    "user_id": 38076748,
+    "user_location": "Hopkins, MN",
+    "tweet_id": "736243084703469569",
+	"movie": "Alice Through the Looking Glass",
+	"label": "neg"
+},
+    "state": "MS",
+    "user_name": "Scherbatsky",
+    "tweet": "I'm at Cinemark for Alice Through the Looking Glass in Disney Digital 3D in Campo Grande, MS w/ @leeeoneto https://t.co/7GANnYGuQq",
+    "user_id": 66029586,
+    "country": "Brasil",
+    "user_location": "CGR",
+    "tweet_id": "736309322079211520",
+    "address": "MS, Brasil"
+},
+{
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.1198244,
+            51.5112139
+        ],
+	"movie": "Alice Through the Looking Glass",
+	"label": "neg"
+},
+    "user_name": "Alex Escamilla",
+    "tweet": "A ver que trae !!! (at @Cinemex for Alice Through the Looking Glass in Puebla, PUE) https://t.co/0JVac2vuow",
+    "user_id": 14422867,
+    "user_location": "Los Angeles, CA",
+    "tweet_id": "736372164790738944"
+},
+{
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.13946676,
+            36.16144999
+        ],
+	"movie": "Alice Through the Looking Glass",
+	"label": "neg"
+},
+    "state": "Murcia",
+    "user_name": "Jose Pontones",
+    "tweet": "I'm at Neocine HD Digital El Tiro for Alice Through the Looking Glass https://t.co/nSw97ardN8 https://t.co/uRbgt0Uiyi",
+    "user_id": 173942361,
+    "country": "Espa\u00f1a",
+    "user_location": "Cartagena, Espa\u00f1a",
+    "tweet_id": "738056248629813248",
+    "address": "Murcia, Espa\u00f1a"
+},
+{
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.91835172,
+            33.81337399
+        ],
+	"movie": "Alice Through the Looking Glass",
+	"label": "neg"
+},
+    "state": "Gauteng",
+    "user_name": "Maurits Smit",
+    "tweet": "Awe I feel loved all over again \ud83d\ude18 @ Standard Bank Alice Lane https://t.co/yNqfKv1dAE",
+    "user_id": 170436662,
+    "country": "South Africa",
+    "user_location": "Pta",
+    "tweet_id": "738081828532330496",
+    "address": "Gauteng, South Africa"
+},
+{
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            70.7694411,
+            22.2846232
+        ],
+	"movie": "Alice Through the Looking Glass",
+	"label": "neg"
+},
+    "user_name": "Memphis",
+    "tweet": "I know Alice tried so hard not to cry, deep inside u were crying rite? Anyway good luck for\u2026 https://t.co/CLE152qjyf",
+    "user_id": 3738913932,
+    "user_location": "Semarang, Jawa Tengah",
+    "tweet_id": "740448531337596929"
+},
+{
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            144.9795978,
+            -37.8061295
+        ],
+	"movie": "Alice Through the Looking Glass",
+	"label": "neg"
+},
+    "state": "England",
+    "user_name": "Jessica Ann's",
+    "tweet": "vardy7 &amp; beckyvardy beautiful daughter Sofia in her Jessica Ann's Alice in Wonderland dress\u2026 https://t.co/sLDKE1e5Wu",
+    "user_id": 2351170258,
+    "country": "UK",
+    "user_location": "64a london road hp3 9sd",
+    "tweet_id": "740535887969325056",
+    "address": "England, UK"
+},
+{
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            27.93607324,
+            -26.26517654
+        ],
+	"movie": "Alice Through the Looking Glass",
+	"label": "neg"
+},
+    "state": "England",
+    "user_name": "Jessica Ann's",
+    "tweet": "Aurora Making Memories in Disneyland in her Jessica Ann's Alice In Wonderland Dress \ud83c\uddfa\ud83c\uddf8 This\u2026 https://t.co/a8FBNKRTWX",
+    "user_id": 2351170258,
+    "country": "UK",
+    "user_location": "64a london road hp3 9sd",
+    "tweet_id": "740883579673169920",
+    "address": "England, UK"
+},
+{
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.28077141,
+            25.21402447
+        ],
+	"movie": "Alice Through the Looking Glass",
+	"label": "neg"
+},
+    "user_name": "Catherine Danghala",
+    "tweet": "@CDanghalaaaa pati pala The Conjuring 2 at Alice and the wonderland \ud83d\ude1e enjoy ur weekend with this cinema @jeckmentac",
+    "user_id": 2580403423,
+    "user_location": null,
+    "tweet_id": "740903195447169026"
+},
+{
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -80.26501776,
+            40.50755292
+        ],
+	"movie": "Alice Through the Looking Glass",
+	"label": "neg"
+},
+    "state": "Western Cape",
+    "user_name": "Shade Thiardt",
+    "tweet": "What do we do on rainy days ...we play hooky from school and watch alice with our grampy and all\u2026 https://t.co/O7XKrxkzvX",
+    "user_id": 2982653721,
+    "country": "South Africa",
+    "user_location": "Cape Town, South Africa",
+    "tweet_id": "741151086095020032",
+    "address": "Western Cape, South Africa"
+},
+{
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.10855864,
+            51.56642153
+        ],
+	"movie": "Alice Through the Looking Glass",
+	"label": "neg"
+},
+    "state": "RS",
+    "user_name": "lice",
+    "tweet": "I'm at Alice's House in Estrela, RS https://t.co/R93iNI2AaZ",
+    "user_id": 898391550,
+    "country": "Brasil",
+    "user_location": "Beacon Hills \u2714",
+    "tweet_id": "741299166136160260",
+    "address": "RS, Brasil"
+},
+{
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -51.96330789,
+            -29.50045771
+        ],
+	"movie": "Alice Through the Looking Glass",
+	"label": "neg"
+},
+    "user_name": "\u0e1b\u0e25\u0e32\u0e42\u0e25\u0e21\u0e32\u0e01\u0e31\u0e1a\u0e19\u0e01\u0e40\u0e1e\u0e19\u0e01\u0e27\u0e34\u0e19\u2122",
+    "tweet": "I'm at \u0e40\u0e21\u0e37\u0e2d\u0e07\u0e02\u0e2d\u0e07 Alice in wonderland \ud83d\ude35\ud83d\ude32 https://t.co/YkYkSrJqiu",
+    "user_id": 603523182,
+    "user_location": null,
+    "tweet_id": "741608890324881408"
+},
+{
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -82.62216147,
+            34.82866775
+        ],
+	"movie": "Alice Through the Looking Glass",
+	"label": "neg"
+},

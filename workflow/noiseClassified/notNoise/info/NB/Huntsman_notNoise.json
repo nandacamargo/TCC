@@ -1,0 +1,6270 @@
+{
+    "tweet": "I'm at @Kinoplex for The Huntsman: Winter's War in Bras\u00edlia, DF https://t.co/e9IvkeAH1N",
+    "user_name": "Nath",
+    "user_id": 69459833,
+    "user_location": "Bras\u00edlia",
+    "address": "DF, Brasil",
+    "tweet_id": "734133895587889153",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -47.955543,
+            -15.832705
+        ]
+    },
+    "state": "DF"
+},
+{
+    "tweet": "I'm at Ice Theaters for The Huntsman: Winter's War in Chicago, IL https://t.co/jPhfPRGuPu",
+    "user_name": "Dearester Rodgers",
+    "user_id": 754396032,
+    "user_location": "Chicago, IL",
+    "address": "Illinois, United States of America",
+    "tweet_id": "734166885101637634",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -87.63016064,
+            41.73917797
+        ]
+    },
+    "state": "Illinois"
+},
+{
+    "tweet": "Captain America and The Huntsman (@ Tascosa Drive In in Amarillo, TX) https://t.co/DPEhqKCcm1",
+    "user_name": "Alicia Newburn",
+    "user_id": 400701141,
+    "user_location": "amarillo texas",
+    "tweet_id": "734179809530634240",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -101.83195353,
+            35.23284297
+        ]
+    }
+},
+{
+    "tweet": "\ud83d\ude00\ud83c\udf2c\u2744\ufe0f \u2605 The Huntsman: Winter's War (with Fillia at @produalampung) \u2014 https://t.co/DFanK3Delb",
+    "user_name": "Mutiara Langit P.",
+    "user_id": 74722785,
+    "user_location": "@dikakembarr",
+    "tweet_id": "734209826130010112",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            105.2736,
+            -5.42487
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (with Niesya at Greenroof) \u2014 https://t.co/gkexTNb4Dw",
+    "user_name": "Aris Sugiarto",
+    "user_id": 84567520,
+    "user_location": "Majapahit",
+    "tweet_id": "734264683989864449",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.856,
+            -6.16535
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at BoSo in the house) \u2014 https://t.co/TMQybflxq7",
+    "user_name": "BoSo",
+    "user_id": 406161979,
+    "user_location": "Stamford Bridge",
+    "tweet_id": "734285417923543042",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            115.1031,
+            -8.11349
+        ]
+    }
+},
+{
+    "tweet": "Movie again... \u2605 The Huntsman: Winter's War (with Rafi and Farah at Setra Duta) \u2014 https://t.co/3BO7RfNCyj",
+    "user_name": "AriNi Nur Aini",
+    "user_id": 772847420,
+    "user_location": "Bandung",
+    "tweet_id": "734290083600175104",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            107.56845,
+            -6.88039
+        ]
+    }
+},
+{
+    "tweet": "\u2744\ufe0f \u2605 The Huntsman: Winter's War (at Sevilla) \u2014 https://t.co/u1wrbIeSVZ",
+    "user_name": "Ezmeralda Pawan",
+    "user_id": 111278986,
+    "user_location": "Indonesia",
+    "tweet_id": "734291164883353608",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.68998,
+            -6.31606
+        ]
+    }
+},
+{
+    "tweet": "I'm at AMC Newport On The Levee 20 - @amctheatres for The Huntsman: Winter's War in Newport, KY w/ @guyzerman https://t.co/VUdFUaxIc5",
+    "user_name": "DJ Patrick B",
+    "user_id": 9495412,
+    "user_location": "Cincinnati, OH",
+    "address": "Kentucky, United States of America",
+    "tweet_id": "734416412232540165",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -84.49638605,
+            39.09504701
+        ]
+    },
+    "state": "Kentucky"
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (with Billy at House of Waleleng-Sumampouw) \u2014 https://t.co/p9x2TdZiPj",
+    "user_name": "Franesa Sumampouw",
+    "user_id": 64157355,
+    "user_location": "\u00dcT: -6.399752,106.936863",
+    "tweet_id": "734435167171973120",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.87648,
+            -6.18947
+        ]
+    }
+},
+{
+    "tweet": "The Huntsman: Winter's War (@ Premiere Cinemas 14 - Burleson Commons for The Huntsman: Winter's War in Burleson, TX) https://t.co/XIbudJaFbb",
+    "user_name": "David Roberts",
+    "user_id": 17623799,
+    "user_location": "Dallas, TX",
+    "tweet_id": "734537374332518400",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -97.34713795,
+            32.51649211
+        ]
+    }
+},
+{
+    "tweet": "I'm at Huntsman ITSSC https://t.co/CzmmgnwLRn",
+    "user_name": "Giovanny",
+    "user_id": 57809415,
+    "user_location": "Malaysia",
+    "tweet_id": "734538243174174721",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.60990869,
+            3.06977735
+        ]
+    }
+},
+{
+    "tweet": "Triple header tonight. Angry birds, captain America and huntsman I think. (@ Kingston Family Fun World Park) https://t.co/qP6jOLxDYM",
+    "user_name": "Todd Lamothe",
+    "user_id": 19664744,
+    "user_location": "Kingston, Ontario",
+    "address": "Ontario, Canada",
+    "tweet_id": "734541794592051201",
+    "country": "Canada",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -76.49896903,
+            44.27977334
+        ]
+    },
+    "state": "Ontario"
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at Optik Pranoto Baron) \u2014 https://t.co/nNZ9sCFe7p",
+    "user_name": "ADI",
+    "user_id": 466706901,
+    "user_location": "Surakarta",
+    "tweet_id": "734645466680328192",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            110.80556,
+            -7.57135
+        ]
+    }
+},
+{
+    "tweet": "Nerusinnn. \u2605 The Huntsman: Winter's War (at @blueelephantjkt) \u2014 https://t.co/CJSR2e8V0l",
+    "user_name": "Syifadillah",
+    "user_id": 287293210,
+    "user_location": null,
+    "tweet_id": "734719890276241408",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.83555,
+            -6.18668
+        ]
+    }
+},
+{
+    "tweet": "Hello, little sea horse.\n#marinelife #seahorse #standrews #huntsman @ Huntsman Marine Science\u2026 https://t.co/YCxvnx0n9a",
+    "user_name": "Ryan ShepHard",
+    "user_id": 65686448,
+    "user_location": "Saint John, NB",
+    "address": "New Brunswick, Canada",
+    "tweet_id": "734754966120861698",
+    "country": "Canada",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -67.08044161,
+            45.0848743
+        ]
+    },
+    "state": "New Brunswick"
+},
+{
+    "tweet": "Movie's time!\u26c4\u26c4 \u2605 The Huntsman: Winter's War (at Sarijadi 140) \u2014 https://t.co/Sl5zPh3iKh",
+    "user_name": "GENIA!!",
+    "user_id": 74027783,
+    "user_location": "Bandung, West Java",
+    "tweet_id": "734765033549238272",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            107.57256,
+            -6.88381
+        ]
+    }
+},
+{
+    "tweet": "I'm at @Kinoplex Amazonas for The Huntsman: Winter's War in Manaus, AM https://t.co/rvOzwooyJK",
+    "user_name": "cathniss",
+    "user_id": 1550423912,
+    "user_location": "Manaus",
+    "address": "AM, Brasil",
+    "tweet_id": "734820596765347842",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -60.02305875,
+            -3.09399979
+        ]
+    },
+    "state": "AM"
+},
+{
+    "tweet": "My little ladies.\n#family #victoriaday #standrews #huntsman @ Huntsman Marine Science Centre /\u2026 https://t.co/fVWviCwV82",
+    "user_name": "Ryan ShepHard",
+    "user_id": 65686448,
+    "user_location": "Saint John, NB",
+    "address": "New Brunswick, Canada",
+    "tweet_id": "734864988247105536",
+    "country": "Canada",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -67.08044161,
+            45.0848743
+        ]
+    },
+    "state": "New Brunswick"
+},
+{
+    "tweet": "Julia and a tiny starfish.\n#huntsman #victoriaday #standrews #starfish #marinelife #ocean #julia\u2026 https://t.co/31C5zxUcBs",
+    "user_name": "Ryan ShepHard",
+    "user_id": 65686448,
+    "user_location": "Saint John, NB",
+    "address": "New Brunswick, Canada",
+    "tweet_id": "734871627108864000",
+    "country": "Canada",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -67.08044161,
+            45.0848743
+        ]
+    },
+    "state": "New Brunswick"
+},
+{
+    "tweet": "#OCacadorEaRainhaDoGelo \ud83c\udfa5\ud83c\udfac (@ Cinemark for The Huntsman: Winter's War in Osasco, SP) https://t.co/rvTzSgppHL",
+    "user_name": "Arnold Oliveira",
+    "user_id": 95949014,
+    "user_location": "Osasco - S\u00e3o Paulo - Brasil",
+    "address": "SP, Brasil",
+    "tweet_id": "734910522815086592",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -46.76542997,
+            -23.53729439
+        ]
+    },
+    "state": "SP"
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at Puri Permata) \u2014 https://t.co/Lg2hjXJiMk",
+    "user_name": "icus",
+    "user_id": 1144484006,
+    "user_location": "Bitch, i'm from the Rain city",
+    "tweet_id": "734965599093161985",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.67551,
+            -6.18081
+        ]
+    }
+},
+{
+    "tweet": "The power of love\ud83d\udcaa\ud83d\udcaa \u2605 The Huntsman: Winter's War (at Plaza UKM STMT Trisakti) \u2014 https://t.co/HAW5MhYkZK",
+    "user_name": "vana",
+    "user_id": 1549605380,
+    "user_location": null,
+    "tweet_id": "735011330277548032",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.87826,
+            -6.23056
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at Kost Putri Artomoro) \u2014 https://t.co/LXaV7JoFko",
+    "user_name": "Fitrah Auliya",
+    "user_id": 527165578,
+    "user_location": null,
+    "tweet_id": "735070733152329734",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            110.41843,
+            -7.68348
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at Villa Bumi Bahtera Indah) \u2014 https://t.co/JnwOp6s1p9",
+    "user_name": "\uc774\ud0dc\ubbfc",
+    "user_id": 242658331,
+    "user_location": "Bandar Lampung, Indonesia",
+    "tweet_id": "735097001474326529",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            105.30745,
+            -5.40376
+        ]
+    }
+},
+{
+    "tweet": "Sea horses are neat.\n#standrews #huntsman #seahorse #fish #sealife @ Huntsman Marine Science\u2026 https://t.co/VcI3tPKqkM",
+    "user_name": "Ryan ShepHard",
+    "user_id": 65686448,
+    "user_location": "Saint John, NB",
+    "address": "New Brunswick, Canada",
+    "tweet_id": "735111384149725184",
+    "country": "Canada",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -67.08044161,
+            45.0848743
+        ]
+    },
+    "state": "New Brunswick"
+},
+{
+    "tweet": "\ud83c\udf74 @ The Huntsman Inn, Bath https://t.co/hOPzWoPFP3",
+    "user_name": "\u2020 Tiffany \u2665",
+    "user_id": 44965374,
+    "user_location": "OC, CA",
+    "address": "England, UK",
+    "tweet_id": "735150351624589314",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -2.35774653,
+            51.38076689
+        ]
+    },
+    "state": "England"
+},
+{
+    "tweet": "Like I said, The Huntsman : Winter's War is\u2026 \u2605 The Huntsman: Winter's War (at Camp Samur Petronas Project) \u2014 https://t.co/6fagMTlYTZ",
+    "user_name": "Bag\u00fcs Saputra",
+    "user_id": 81221900,
+    "user_location": "Sipitang, Malaysia",
+    "tweet_id": "735155984834822144",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            115.50575,
+            5.01208
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at Knick Knacks Ice Blend) \u2014 https://t.co/UmLMNGjBOt",
+    "user_name": "cut hafriyenni",
+    "user_id": 89148692,
+    "user_location": "Banda Aceh. Indonesia",
+    "tweet_id": "735168795321323521",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            97.18021,
+            3.2556
+        ]
+    }
+},
+{
+    "tweet": "love is immortal... \u2605 The Huntsman: Winter's War (at Rusunawa menteng asri bogor) \u2014 https://t.co/XCRwtdq4VL",
+    "user_name": "H E N D I",
+    "user_id": 99195733,
+    "user_location": "Bandung,indonesia",
+    "tweet_id": "735322797296234497",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.77826,
+            -6.57876
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at Taman Sari Royal Heritage Spa) \u2014 https://t.co/KI4xncmIzh",
+    "user_name": "Grace Janescha",
+    "user_id": 857559212,
+    "user_location": "Indonesia",
+    "tweet_id": "735341069102125060",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            104.73873,
+            -2.97288
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at Puri Syailendra) \u2014 https://t.co/5JVbLi84Vb",
+    "user_name": "Vivian kusuma",
+    "user_id": 910214048,
+    "user_location": "Bandung, Jawa Barat",
+    "tweet_id": "735435804500058112",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            107.58011,
+            -6.88204
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at Leo Mulya Gusdi Territory) \u2014 https://t.co/h1d2yw0NSg",
+    "user_name": "Leo Mulya Gusdi",
+    "user_id": 50725969,
+    "user_location": "Depok - Jember. Indonesia",
+    "tweet_id": "735437704557527040",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.83892,
+            -6.3822
+        ]
+    }
+},
+{
+    "tweet": "Sendirian ok \u2605 The Huntsman: Winter's War (at Fitri's) \u2014 https://t.co/8aLyJ6KW5t",
+    "user_name": "Itiw",
+    "user_id": 450779711,
+    "user_location": "Cina",
+    "tweet_id": "735447323304562688",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            107.5774,
+            -6.88336
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at Watulambot) \u2014 https://t.co/eo4DCuLvOq",
+    "user_name": "Megalia Kaseger",
+    "user_id": 63045733,
+    "user_location": "indonesia",
+    "tweet_id": "735487752590917634",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            124.91101,
+            1.30752
+        ]
+    }
+},
+{
+    "tweet": "Nw#Snowhite and the Huntsman",
+    "user_name": "elthrmania",
+    "user_id": 875902920,
+    "user_location": "08 | 01",
+    "tweet_id": "735515174908526592",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            103.7942774,
+            1.5315673
+        ]
+    }
+},
+{
+    "tweet": "Say hello to Huntsman ;) https://t.co/7oJEV2uRvF",
+    "user_name": "Jaiser",
+    "user_id": 110873216,
+    "user_location": "Chiniot - Islamabad",
+    "address": "ICT, \u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e",
+    "tweet_id": "735546812363333632",
+    "country": "\u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            73.06536376,
+            33.72139692
+        ]
+    },
+    "state": "ICT"
+},
+{
+    "tweet": "Akhirnya \ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude00\ud83d\ude00\nW/ Rame\" \u2605 The Huntsman: Winter's War (at Sweet Humz) \u2014 https://t.co/EwGS3pzVjl",
+    "user_name": "Nelvia MS, S.Pi",
+    "user_id": 135037509,
+    "user_location": "University Riau,, Pekanbaru | ",
+    "tweet_id": "735799875074326529",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.45539,
+            0.44697
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (with dausbontoet at Niyangs Zone!) \u2014 https://t.co/qXaIZx1e5Q",
+    "user_name": "Niyank Nuraini",
+    "user_id": 497991952,
+    "user_location": "\u00dcT: -6.20419,106.61579",
+    "tweet_id": "735828044548472833",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.61532,
+            -6.20708
+        ]
+    }
+},
+{
+    "tweet": "Lanjut \ud83d\ude4c \u2605 The Huntsman: Winter's War (at Home Sweet Home) \u2014 https://t.co/utzl6gfiNt",
+    "user_name": "Sandra \u270c",
+    "user_id": 857377340,
+    "user_location": "Pekanbaru Riau",
+    "tweet_id": "735838405255299072",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.83343,
+            0.38727
+        ]
+    }
+},
+{
+    "tweet": "\"Even buried under ice &amp; snow, love survives\" \u2744\ufe0f \u2605 The Huntsman: Winter's War (at @reelcinemas) \u2014 https://t.co/01q4kQiZgC",
+    "user_name": "Rashed M AlBlewy",
+    "user_id": 197018331,
+    "user_location": null,
+    "address": "\u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "tweet_id": "735882098335055872",
+    "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.28235,
+            25.1973
+        ]
+    },
+    "state": "\u062f\u0628\u064a\u200e"
+}
+	]
+}{
+	"type": "FeatureCollection",
+	"features": [
+{
+    "tweet": "I'm at Century Rio 24 - @cinemark for The Huntsman: Winter's War in Albuquerque, NM https://t.co/XAh9JOdDNr",
+    "user_name": "pat gonzales",
+    "user_id": 382934109,
+    "user_location": "Albuquerque",
+    "tweet_id": "726159001851932672",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -106.60153297,
+            35.14126229
+        ]
+    }
+},
+{
+    "tweet": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f (@ Cinemark for The Huntsman: Winter's War in Rio de Janeiro, RJ) https://t.co/Nlb2tmvkhl",
+    "user_name": "Landa Del Rey",
+    "user_id": 79840492,
+    "user_location": null,
+    "address": "RJ, Brasil",
+    "tweet_id": "726161811540705282",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -43.18298578,
+            -22.94755563
+        ]
+    },
+    "state": "RJ"
+},
+{
+    "tweet": "I'm at United Artists Riverview Plaza 17 &amp; RPX - @regalmovies for The Huntsman: Winter's War in Philadelphia, PA https://t.co/u4mCUPUytY",
+    "user_name": "Karpe Diem",
+    "user_id": 28116951,
+    "user_location": "Philadelphia",
+    "address": "Pennsylvania, United States of America",
+    "tweet_id": "726164074850037761",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -75.14492614,
+            39.92928687
+        ]
+    },
+    "state": "Pennsylvania"
+},
+{
+    "tweet": "I'm at Cinemark for The Huntsman: Winter's War 3D in Bras\u00edlia, DF https://t.co/I7MbysTOSI",
+    "user_name": "Luiza",
+    "user_id": 196725179,
+    "user_location": "Bras\u00edlia",
+    "address": "DF, Brasil",
+    "tweet_id": "726174183248527361",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -47.87471652,
+            -15.81796871
+        ]
+    },
+    "state": "DF"
+},
+{
+    "tweet": "I'm at @GNC_Cinemas for The Huntsman: Winter's War 3D in Joinville, SC https://t.co/JiJrLr7u3b",
+    "user_name": "Yubram Guevara",
+    "user_id": 2475967397,
+    "user_location": "Joinville ",
+    "address": "SC, Brasil",
+    "tweet_id": "726175979878514688",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -48.85333657,
+            -26.25422139
+        ]
+    },
+    "state": "SC"
+},
+{
+    "tweet": "\"The Huntsman: Winter's War.\" (at @UVK_Multicines in Miraflores, Lima) https://t.co/LQIHcLHdVO",
+    "user_name": "Xander T. Chac\u00f3n",
+    "user_id": 120858065,
+    "user_location": "Per\u00fa - Lima",
+    "address": "Lima, Per\u00fa",
+    "tweet_id": "726179229340172288",
+    "country": "Per\u00fa",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -77.03042507,
+            -12.13191447
+        ]
+    },
+    "state": "Lima"
+},
+{
+    "tweet": "I'm at Regal Cinemas Gallery Place 14 for The Huntsman: Winter's War in Washington, DC https://t.co/gq8gs4BPGS",
+    "user_name": "Katrina Avila",
+    "user_id": 20867110,
+    "user_location": "Coral Gables, FL. & D.C.",
+    "address": "District of Columbia, United States of America",
+    "tweet_id": "726183678913712128",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -77.021594,
+            38.89903937
+        ]
+    },
+    "state": "Ontario"
+},
+{
+    "tweet": "I'm at Cin\u00e9polis - @cinepolisbrasil for The Huntsman: Winter's War 3D in Natal, RN https://t.co/UiyjJZk4qz",
+    "user_name": "Luisa Duarte",
+    "user_id": 2923750499,
+    "user_location": null,
+    "address": "RN, Brasil",
+    "tweet_id": "726191757151604736",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -35.2112165,
+            -5.8419463
+        ]
+    },
+    "state": "RN"
+},
+{
+    "tweet": "I'm at AMC The Regency 20 - @amctheatres for The Huntsman: Winter's War in Brandon, FL https://t.co/ln6keNseEG",
+    "user_name": "Leah",
+    "user_id": 13234402,
+    "user_location": "Wherever the wind takes me.",
+    "address": "Florida, United States of America",
+    "tweet_id": "726192885272551424",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -82.32401133,
+            27.94282486
+        ]
+    },
+    "state": "Florida"
+},
+{
+    "tweet": "Movie night (@ Regal Cinemas Escondido 16 &amp; IMAX - @regalmovies for The Huntsman: Winter's War in Escondido, CA) https://t.co/vb8k2tk9UD",
+    "user_name": "nabil Coleman",
+    "user_id": 1325713573,
+    "user_location": "Escondido CA",
+    "tweet_id": "726192966235262976",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.0869828,
+            33.12177545
+        ]
+    }
+},
+{
+    "tweet": "Huntsman. (@ Regal Cinemas Gallery Place 14 - @regalmovies for The Huntsman: Winter's War in Washington, DC) https://t.co/LagRDWSPRy",
+    "user_name": "Your Lawyer",
+    "user_id": 22422427,
+    "user_location": "Washington, DC",
+    "address": "District of Columbia, United States of America",
+    "tweet_id": "726201737179181056",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -77.021594,
+            38.89903937
+        ]
+    }
+},
+{
+    "tweet": "\u00a1Popcorn! (@ Cinemex for The Huntsman: Winter's War in Mexico City, DF) https://t.co/pd4QywASJS",
+    "user_name": "Sa\u00fal Tinoco",
+    "user_id": 347487787,
+    "user_location": "Mexico,City, WTSHNN ",
+    "tweet_id": "726210626138300416",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -99.08191681,
+            19.38469646
+        ]
+    }
+},
+{
+    "tweet": "After the \"Huntsman: Winter's War\"\nNow \"Patxi's Pizza\" for a deep\u2026 https://t.co/OQ7PObYV1r",
+    "user_name": "Spalding",
+    "user_id": 47093084,
+    "user_location": "Carpinteria, CA",
+    "tweet_id": "726218183674335232",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.696218,
+            34.417001
+        ]
+    }
+},
+{
+    "tweet": "I'm at @Cinemex for The Huntsman: Winter's War in Miguel Hidalgo, DF https://t.co/DQQy3K9gC2",
+    "user_name": "Cinthya Toledo",
+    "user_id": 141302228,
+    "user_location": "Mexico",
+    "tweet_id": "726227500234358784",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -99.20720991,
+            19.43753051
+        ]
+    }
+},
+{
+    "tweet": "I'm at AMC Phipps Plaza 14 - @amctheatres for The Huntsman: Winter's War in Atlanta, GA w/ @shari_mcintosh https://t.co/peuQnYQVSO",
+    "user_name": "Austin Hope",
+    "user_id": 119797344,
+    "user_location": "Atlanta, GA",
+    "address": "Georgia, United States of America",
+    "tweet_id": "726228064938647552",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -84.36251163,
+            33.85268648
+        ]
+    }
+},
+{
+    "tweet": "I'm at Regal Cinemas Starlight 14 - Charlotte - @regalmovies for The Huntsman: Winter's War in Charlotte, NC https://t.co/MksmakVW26",
+    "user_name": "Deema Ali",
+    "user_id": 152815376,
+    "user_location": "North Carolina-Kuwait",
+    "address": "North Carolina, United States of America",
+    "tweet_id": "726230450121875456",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -80.71724589,
+            35.33336697
+        ]
+    },
+    "state": "North Carolina"
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at @ultrastarmovies) \u2014 https://t.co/RkNFUH6p1a",
+    "user_name": "John Vicencio",
+    "user_id": 56946118,
+    "user_location": "San Diego, CA",
+    "tweet_id": "726238383282884608",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.1586,
+            32.77079
+        ]
+    }
+},
+{
+    "tweet": "I'm at Regal Cinemas Park Place 16 &amp; RPX - @regalmovies for The Huntsman: Winter's War in Pinellas Park, FL https://t.co/frvxlXczDy",
+    "user_name": "Lahn Bain",
+    "user_id": 67094279,
+    "user_location": "St Petersburg, FL",
+    "address": "Florida, United States of America",
+    "tweet_id": "726242203497029632",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -82.68587764,
+            27.83667608
+        ]
+    },
+    "state": "Florida"
+},
+{
+    "tweet": "I'm at Regal Cinemas Bridgeport Village 18 &amp; IMAX - @regalmovies for The Huntsman: Winter's War in Tigard, OR https://t.co/mVUjNH6KFa",
+    "user_name": "MamaLashes",
+    "user_id": 130981090,
+    "user_location": null,
+    "tweet_id": "726243427793391616",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.7521508,
+            45.39735368
+        ]
+    }
+},
+{
+    "tweet": "I'm at Pacific Theatres Winnetka 21 for The Huntsman: Winter's War in Chatsworth, CA https://t.co/905Q2JqXZ0",
+    "user_name": "MR_alazemi",
+    "user_id": 434696515,
+    "user_location": "kuwait - Los Angeles",
+    "tweet_id": "726254524965511168",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.57406616,
+            34.23823767
+        ]
+    }
+},
+{
+    "tweet": "Loved \"The Huntsman: Winters War\" \ud83d\udcfd\ud83c\udf7f\ud83d\ude0d #Movienight #thehuntsmanwinterswar @ Bow Tie Cinemas https://t.co/X9Ldfy4WLx",
+    "user_name": "OvO Zhuri",
+    "user_id": 2646366015,
+    "user_location": "Cleveland, OH",
+    "address": "New Jersey, United States of America",
+    "tweet_id": "726256826287685633",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -74.24390061,
+            40.96211333
+        ]
+    },
+    "state": "New Jersey"
+},
+{
+    "tweet": "Loved \"The Huntsman: Winters War\" \ud83d\udcfd\ud83c\udf7f\ud83d\ude0d #Movienight @ Bow Tie Cinemas https://t.co/X9Ldfy4WLx",
+    "user_name": "OvO Zhuri",
+    "user_id": 2646366015,
+    "user_location": "Cleveland, OH",
+    "address": "New Jersey, United States of America",
+    "tweet_id": "726257169578905602",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -74.24390061,
+            40.96211333
+        ]
+    },
+    "state": "New Jersey"
+},
+{
+    "tweet": "I'm at AMC Dine-in Theatres Esplanade 14 - @amctheatres for The Huntsman: Winter's War in Phoenix, AZ https://t.co/MlcPovwtzf",
+    "user_name": "James Ryan Storey",
+    "user_id": 1364726646,
+    "user_location": "Phoenix, Arizona",
+    "tweet_id": "726262797001195520",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -112.02769979,
+            33.50843627
+        ]
+    }
+},
+{
+    "tweet": "edisi nonton T-Cash bulan April\n.\nThe Jungle Book (Dolby Atmos)\nThe Huntsman : Winter's War\nEye\u2026 https://t.co/5QDNsbi6UH",
+    "user_name": "Riduan McQueen",
+    "user_id": 139292138,
+    "user_location": "Balikpapan-Samarinda-Surabaya ",
+    "tweet_id": "726266591600631808",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            116.85887116,
+            -1.27340823
+        ]
+    }
+},
+{
+    "tweet": "I'm at Pacific Theatres Winnetka 21 for The Huntsman: Winter's War in Chatsworth, CA https://t.co/AhZAAcSH4c",
+    "user_name": "Broy\u2661",
+    "user_id": 907412576,
+    "user_location": "Kuwait / Los Angeles, Ca. ",
+    "tweet_id": "726273375975432192",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.57406616,
+            34.23823767
+        ]
+    }
+},
+{
+    "tweet": "My son and darling watching Huntsman xx @ Event Cinemas Manukau https://t.co/tpWZjZAaaO",
+    "user_name": "Karl Vasau",
+    "user_id": 186280057,
+    "user_location": "Takanini, Auckland City",
+    "tweet_id": "726274403533606912",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            174.88044,
+            -36.99053
+        ]
+    }
+},
+{
+    "tweet": "I'm at Century Cinema 16 - @cinemark for The Huntsman: Winter's War in Mountain View, CA w/ @manyi_tan https://t.co/Egvnmtgy8v",
+    "user_name": "Kenneth Lim \u2122",
+    "user_id": 227224857,
+    "user_location": null,
+    "tweet_id": "726288294875664384",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.08072722,
+            37.41471641
+        ]
+    }
+},
+{
+    "tweet": "Anti mainstream dong... \u2605 The Huntsman: Winter's War (at @cinemaxxtheater) \u2014 https://t.co/nrthQnQDrL",
+    "user_name": "Sinta K. Maharani",
+    "user_id": 73789029,
+    "user_location": "DKI Jakarta - DI Yogyakarta",
+    "tweet_id": "726297977011073024",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.81446,
+            -6.21988
+        ]
+    }
+},
+{
+    "tweet": "The Huntsman: Winter's War \ud83d\udc4c\ud83c\udffb\ud83c\udfac\ud83d\udcfd (@ J Centre Cinema in Mandaue City) https://t.co/YJ30h1F7gS",
+    "user_name": "Michiko Yap",
+    "user_id": 488364031,
+    "user_location": null,
+    "tweet_id": "726305318939009024",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            123.93424113,
+            10.3359958
+        ]
+    }
+},
+{
+    "tweet": "Huntsman Winter's War. \ud83c\udfa5",
+    "user_name": "\u2654Jazmin Angelique\u2654",
+    "user_id": 93619902,
+    "user_location": "|instagram: jazangelique \u2661\u2655",
+    "tweet_id": "726307081385463808",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.02372864,
+            14.46588012
+        ]
+    }
+},
+{
+    "tweet": "Movie-ing with love \ud83d\udc6b\ud83d\udc95 (The Huntsman : Winter's War) (@ Golden Screen Cinemas (GSC) - @gscinemas) https://t.co/pKxFRTnT5Z",
+    "user_name": "\u262e Irfan Roslan \u262e",
+    "user_id": 805857852,
+    "user_location": "Kuala Lumpur",
+    "tweet_id": "726310855604887552",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.68721346,
+            3.13310827
+        ]
+    }
+},
+{
+    "tweet": "Man this movie is so cringeworthy.... (@ AMC Cupertino Square 16 - @amctheatres for The Huntsman: Winter's War) https://t.co/O0dzXE9hx0",
+    "user_name": "Papa Rinasu",
+    "user_id": 197796433,
+    "user_location": "San Jose, CA",
+    "tweet_id": "726320740027478016",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.01519012,
+            37.32601085
+        ]
+    }
+},
+{
+    "tweet": "Jungle book, the huntsman, civil war. Movie marathon! (@ Pavilion Kuala Lumpur - @pavilion_kl) https://t.co/dZGqt6aDwr",
+    "user_name": "\u265b FIQ \u265b",
+    "user_id": 249686984,
+    "user_location": "\u27bd \u24bf\u24c4\u24bd\u24c4\u24c7 ",
+    "tweet_id": "726322782435459072",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.71306921,
+            3.14866975
+        ]
+    }
+},
+{
+    "tweet": "huntsman with da real snow white @sloweychloe (@ Golden Screen Cinemas (GSC) - @gscinemas) https://t.co/6UA4wj74n5",
+    "user_name": "wei vern",
+    "user_id": 90379464,
+    "user_location": null,
+    "tweet_id": "726323882806890496",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.71249187,
+            3.14940492
+        ]
+    }
+},
+{
+    "tweet": "Ke-tentram-an\ud83c\udf5f\ud83c\udf7a \u2605 The Huntsman: Winter's War (at Azizah's Crib) \u2014 https://t.co/GDQxxLHIEV",
+    "user_name": "Azizah",
+    "user_id": 293430036,
+    "user_location": "Depok, West Java",
+    "tweet_id": "726351702358552576",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.77627,
+            -6.35044
+        ]
+    }
+},
+{
+    "tweet": "Civil war checked so huntsman now (at @CathayCineplex in Singapore) https://t.co/0FYHca7qZ3",
+    "user_name": "\u263eh\u269crms",
+    "user_id": 76024450,
+    "user_location": null,
+    "tweet_id": "726360213108973569",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            103.74355316,
+            1.33353828
+        ]
+    }
+},
+{
+    "tweet": "Coz it's just us and it's a Saturday!! Watching The Huntsman: Winter's War after.\u2026 https://t.co/9h3kyL6wdZ",
+    "user_name": "Clara Lara",
+    "user_id": 396449828,
+    "user_location": "Manila, PH",
+    "tweet_id": "726361880541990912",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.03625743,
+            14.5650834
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at @reelcinemas) \u2014 https://t.co/sAxTvnBL1Q",
+    "user_name": "Rawan Jambi",
+    "user_id": 281151152,
+    "user_location": "Saudi Arabia-Jeddah",
+    "address": "\u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "tweet_id": "726367695482982400",
+    "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.28234,
+            25.1973
+        ]
+    },
+    "state": "\u062f\u0628\u064a\u200e"
+},
+{
+    "tweet": "\ud83d\ude0a \u2605 Snow White and the Huntsman (with Helen and Veren at Lincoln Drive Dormitory) \u2014 https://t.co/m4GxaB6if3",
+    "user_name": "Irene Andriani",
+    "user_id": 197796142,
+    "user_location": null,
+    "tweet_id": "726382015738564608",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.58728,
+            -6.22935
+        ]
+    }
+},
+{
+    "tweet": "Huntsman \ud83d\ude4c\ud83c\udffb https://t.co/A5ADkIqAhx",
+    "user_name": "Hidayah",
+    "user_id": 3108504174,
+    "user_location": "Parit Buntaq, Perak",
+    "tweet_id": "726393224491724800",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            100.48269,
+            5.1275519
+        ]
+    },
+    "state": "England"
+},
+{
+    "tweet": "Enriching lives through innovation. (@ Huntsman Colombia) https://t.co/L0y1fJwibx",
+    "user_name": "pia buelvasM",
+    "user_id": 183372955,
+    "user_location": "#Coste\u00f1aSabanera",
+    "address": "Bol\u00edvar, Colombia",
+    "tweet_id": "726436276665241601",
+    "country": "Colombia",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -75.515343,
+            10.386433
+        ]
+    },
+    "state": "Bol\u00edvar"
+},
+{
+    "tweet": "Huntsman!",
+    "user_name": "Ikaa Rejab",
+    "user_id": 810174853,
+    "user_location": "kedah-perak-penang",
+    "tweet_id": "726441053834776576",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.59601218,
+            3.12836697
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at The Mines) \u2014 https://t.co/hIkuMGtI9I",
+    "user_name": "TL",
+    "user_id": 207939114,
+    "user_location": "Setiawangsa KL",
+    "tweet_id": "726454241506693120",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.7188,
+            3.02447
+        ]
+    }
+},
+{
+    "tweet": "I'm at @Cinesystem for The Huntsman: Winter's War 3D in Arapiraca, Alagoas https://t.co/oTlwxmObVn",
+    "user_name": "\u25e4\u2720\u25e2 ClEvSoOn AdIrLaN",
+    "user_id": 404750831,
+    "user_location": "FEIRA GRANDE - AL",
+    "address": "AL, Brasil",
+    "tweet_id": "726456223856480256",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -36.65558338,
+            -9.73473258
+        ]
+    },
+    "state": "AL"
+},
+{
+    "tweet": "I'm at Megaplex 17 - @megaplextheatre for The Huntsman: Winter's War in Sandy, UT https://t.co/gAvWbfi2n2",
+    "user_name": "Meli",
+    "user_id": 182563990,
+    "user_location": "Salt Lake City",
+    "tweet_id": "726461550710673409",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -111.88948631,
+            40.58179063
+        ]
+    }
+},
+{
+    "tweet": "Let's see how bad The Huntsman and Holoqram for a King are? (@ Writers Guild Theater in Beverly Hills, CA) https://t.co/kzBsVXL6qL",
+    "user_name": "Colin Costello",
+    "user_id": 16812518,
+    "user_location": "Los Angeles",
+    "tweet_id": "726470676702466050",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.38974368,
+            34.06603399
+        ]
+    }
+},
+{
+    "tweet": "I'm at Paragon Chateau 14 for The Huntsman: Winter's War in Rochester, MN https://t.co/BFsOdxhOAy",
+    "user_name": "Todd Cage",
+    "user_id": 71430751,
+    "user_location": "St. Charles, Minnesota",
+    "tweet_id": "726474623987142656",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -92.4504507,
+            44.05910326
+        ]
+    }
+},
+{
+    "tweet": "I'm at Cinemark for The Huntsman: Winter's War in Bras\u00edlia, DF https://t.co/v3QNlclFoW",
+    "user_name": "Vivs",
+    "user_id": 65880651,
+    "user_location": "Bras\u00edlia, Distrito Federal",
+    "address": "DF, Brasil",
+    "tweet_id": "726475018310406144",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -48.0440712,
+            -15.84155439
+        ]
+    },
+    "state": "DF"
+},
+{
+    "tweet": "I'm at @HarkinsTheatres Norterra 14 for The Huntsman: Winter's War in Phoenix, AZ https://t.co/fNBasiDNMC",
+    "user_name": "Mark Taylor",
+    "user_id": 23316791,
+    "user_location": "#Arizonamortgage #awesomerates",
+    "tweet_id": "726488370600353792",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -112.11451292,
+            33.71542475
+        ]
+    }
+},
+{
+    "tweet": "I'm at Cinemark for The Huntsman: Winter's War in Natal, RN https://t.co/frSBOpp8PQ",
+    "user_name": "Ralyson Soares \u30c4",
+    "user_id": 56760258,
+    "user_location": "Natal - RN - Brasil",
+    "address": "RN, Brasil",
+    "tweet_id": "726498253202706432",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -35.20689547,
+            -5.8115668
+        ]
+    },
+    "state": "RN"
+},
+{
+    "tweet": "With the minis! (@ AMC St. Charles Town Center 9 - @amctheatres for The Huntsman: Winter's War in Waldorf, MD) https://t.co/yoSWMm1tVO",
+    "user_name": "P Mitch",
+    "user_id": 39486640,
+    "user_location": null,
+    "address": "Maryland, United States of America",
+    "tweet_id": "726499147428319234",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -76.92783613,
+            38.62017743
+        ]
+    },
+    "state": "Maryland"
+},
+{
+    "tweet": "I'm at Harkins Queen Creek 14 for The Huntsman: Winter's War in Queen Creek, AZ https://t.co/1WxJGn1J7D",
+    "user_name": "Steve S",
+    "user_id": 20993312,
+    "user_location": "San Tan Valley, AZ",
+    "tweet_id": "726507527622549510",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -111.64205809,
+            33.25879652
+        ]
+    }
+},
+{
+    "tweet": "Had me a frap from starbucks before hitting regal promenade to see the huntsman winters war with\u2026 https://t.co/TMSgFGCII0",
+    "user_name": "Natalhie Camacho",
+    "user_id": 266759654,
+    "user_location": "San Pedro, Los Angeles",
+    "tweet_id": "726508518119989248",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.37311606,
+            33.77202967
+        ]
+    }
+},
+{
+    "tweet": "I'm at Arcoplex Cinemas for The Huntsman: Winter's War in Limeira, SP https://t.co/AFporzbnsH",
+    "user_name": "wallyfer",
+    "user_id": 91896362,
+    "user_location": null,
+    "address": "SP, Brasil",
+    "tweet_id": "726525892957184000",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -47.40799332,
+            -22.57096181
+        ]
+    },
+    "state": "SP"
+},
+{
+    "tweet": "I'm at @Kinoplex for The Huntsman: Winter's War in Bras\u00edlia, DF https://t.co/zo691d9WZB",
+    "user_name": "Barbie morena \u2122",
+    "user_id": 161276594,
+    "user_location": "Brasil",
+    "address": "DF, Brasil",
+    "tweet_id": "726528861610119168",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -47.955543,
+            -15.832705
+        ]
+    },
+    "state": "DF"
+},
+{
+    "tweet": "I'm at @Cinemark Tinseltown Lubbock for The Huntsman: Winter's War in Lubbock, TX https://t.co/pzLC2shhq4",
+    "user_name": "KC\u2655$trongDuchess\u265b",
+    "user_id": 21406083,
+    "user_location": "Lubbock TX",
+    "tweet_id": "726536163343884288",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -101.87284645,
+            33.51800069
+        ]
+    }
+},
+{
+    "tweet": "I'm at Cinemark for The Huntsman: Winter's War in Natal, RN https://t.co/sT3vCe5yyS",
+    "user_name": "alexandre soares",
+    "user_id": 103611242,
+    "user_location": "natal",
+    "address": "RN, Brasil",
+    "tweet_id": "726541605482692612",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -35.20689547,
+            -5.8115668
+        ]
+    },
+    "state": "RN"
+},
+{
+    "tweet": "Date day continues (@ Regal Cinemas Biltmore Grande  15 &amp; RPX - @regalmovies for The Huntsman: Winter's War) https://t.co/D1YUAI8nT5",
+    "user_name": "Ema Murphy",
+    "user_id": 506737551,
+    "user_location": "arden, nc",
+    "address": "North Carolina, United States of America",
+    "tweet_id": "726548813708689408",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -82.55787385,
+            35.48498858
+        ]
+    },
+    "state": "North Carolina"
+},
+{
+    "tweet": "I'm at Cin\u00e9polis - @cinepolis for The Huntsman: Winter's War 3D in Villahermosa, Tab., Villahermosa https://t.co/a6epOuUw9W",
+    "user_name": "Jocelyne.",
+    "user_id": 101851280,
+    "user_location": "Tabasco, M\u00e9xico",
+    "tweet_id": "726552989020868609",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -92.96522498,
+            17.98843775
+        ]
+    }
+},
+{
+    "tweet": "I'm at @Kinoplex for The Huntsman: Winter's War 3D in Macei\u00f3, AL w/ @renaneslima @brnmichael @marcelomfisio https://t.co/00DGQXuSQk",
+    "user_name": "Drica Medeiros",
+    "user_id": 108345508,
+    "user_location": "Penedo",
+    "address": "AL, Brasil",
+    "tweet_id": "726567119702396929",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -35.71378738,
+            -9.64801695
+        ]
+    },
+    "state": "AL"
+},
+{
+    "tweet": "I'm at @Moviecom for The Huntsman: Winter's War in Marab\u00e1, PA w/ @thecianealyne @anny_pattz @cliudy https://t.co/RF2BFBEV0Q",
+    "user_name": "edersousabgd",
+    "user_id": 1546789549,
+    "user_location": null,
+    "address": "PA, Brasil",
+    "tweet_id": "726568683536039937",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -49.08623897,
+            -5.35644247
+        ]
+    },
+    "state": "PA"
+},
+{
+    "tweet": "Pues otro cine (at @Cinemex for The Huntsman: Winter's War in Monterrey, NL) https://t.co/o2wlHDidru",
+    "user_name": "Carolina",
+    "user_id": 277289325,
+    "user_location": null,
+    "tweet_id": "726574390473793537",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -100.28193712,
+            25.63663211
+        ]
+    }
+},
+{
+    "tweet": "I'm at @UCICinemas for The Huntsman: Winter's War 3D in Fortaleza, CE https://t.co/REjsbecInr",
+    "user_name": "danoninho",
+    "user_id": 226270426,
+    "user_location": "Fortaleza | Cear\u00e1 | Brasil",
+    "address": "CE, Brasil",
+    "tweet_id": "726575047855464448",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -38.48839045,
+            -3.75729983
+        ]
+    },
+    "state": "Florida"
+},
+{
+    "tweet": "Our last movie date... (@ Regal Cinemas Avalon 12 - @regalmovies for The Huntsman: Winter's War in Alpharetta, GA) https://t.co/uhyIA6JbDT",
+    "user_name": "Caroline Dauz-Endaya",
+    "user_id": 37858100,
+    "user_location": null,
+    "address": "Georgia, United States of America",
+    "tweet_id": "726579934399987712",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -84.27662754,
+            34.07087435
+        ]
+    },
+    "state": "Georgia"
+},
+{
+    "tweet": "I'm at @CinemarkArg for The Huntsman: Winter's War 3D in Godoy Cruz, Mendoza https://t.co/a1mL5dkwAo",
+    "user_name": "Adri\u00e1n Ortol\u00e1n",
+    "user_id": 2257429801,
+    "user_location": "Mendoza, Argentina",
+    "address": "Mza., Argentina",
+    "tweet_id": "726588245795069952",
+    "country": "Argentina",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -68.85979414,
+            -32.95511465
+        ]
+    },
+    "state": "Mza."
+},
+{
+    "tweet": "My weekend \ud83e\udd84\ud83e\udd84\ud83e\udd84 \u2605 The Huntsman: Winter's War (at Kost Putri Pondok Puang) \u2014 https://t.co/nXrC0qniiz",
+    "user_name": "Hime",
+    "user_id": 601541582,
+    "user_location": "Monopoly World",
+    "tweet_id": "726591554765221888",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            107.59319,
+            -6.86809
+        ]
+    }
+},
+{
+    "tweet": "I'm at Sunnyland Cinemas for The Huntsman: Winter's War in Washington, IL https://t.co/gBFdfBYFeD",
+    "user_name": "Carlos Von Laravel",
+    "user_id": 230079033,
+    "user_location": "Peoria, IL",
+    "address": "Illinois, United States of America",
+    "tweet_id": "726598139277357057",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -89.48212065,
+            40.69138305
+        ]
+    },
+    "state": "Illinois"
+},
+{
+    "tweet": "I'm at Regal Cinemas Hollywood 10 - St. Joseph - @regalmovies for The Huntsman: Winter's War in St. Joseph, MO https://t.co/FNQmUrl0Oz",
+    "user_name": "gnot",
+    "user_id": 893438401,
+    "user_location": "Missouri, USA",
+    "tweet_id": "726611589923745792",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -94.81226713,
+            39.81908494
+        ]
+    }
+},
+{
+    "tweet": "I'm at Alamo Drafthouse Dallas - @alamodfw for The Huntsman: Winter's War in Dallas, TX https://t.co/fTtBIpL60C https://t.co/FFzaD467dK",
+    "user_name": "VINNIE",
+    "user_id": 26184789,
+    "user_location": "Dallas, Tx",
+    "tweet_id": "726613978718298113",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -96.79940983,
+            32.77002894
+        ]
+    }
+},
+{
+    "tweet": "Ready to watch The Huntsman: Winter's War wit the Ladies. #TEAMHAHAHAHA &amp; #KAVAFORNIA living @\u2026 https://t.co/KDUsXRLFC0",
+    "user_name": "SEF SAMATUA",
+    "user_id": 464484989,
+    "user_location": "San Jose, Kavafornia",
+    "tweet_id": "726618050041024512",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.88747,
+            37.33297
+        ]
+    },
+    "state": "Sta. Fe"
+},
+{
+    "tweet": "\ud83d\ude0d\ud83c\udfa5 \u2605 The Huntsman: Winter's War (with Sarah Saad at @amctheatres) \u2014 https://t.co/1oxAyJnAT1",
+    "user_name": "Mariam",
+    "user_id": 361064195,
+    "user_location": "Tempe, AZ - Jubail, SA",
+    "tweet_id": "726634030091755521",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -111.94092,
+            33.42339
+        ]
+    }
+},
+{
+    "tweet": "Al cine con CLAUDITA : ***** (@ Cin\u00e9polis for The Huntsman: Winter's War in Aguascalientes) https://t.co/SdFnYzLayi https://t.co/Vnrgr2VV6p",
+    "user_name": "Pedro Tinoco",
+    "user_id": 15081136,
+    "user_location": "AGUASCALIENTES",
+    "tweet_id": "726672820743315456",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -102.26212673,
+            21.88056232
+        ]
+    }
+},
+{
+    "tweet": "The Huntsman : Winter War (@ Kinta City Shopping Centre in Ipoh, Perak) https://t.co/jNr6zy3ZAS",
+    "user_name": "\u24d5\u24d0\u24e1\u24d7\u24d0\u24dd\u24d0",
+    "user_id": 269181371,
+    "user_location": "malaysia",
+    "tweet_id": "726682555190235138",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.11863683,
+            4.61335849
+        ]
+    }
+},
+{
+    "tweet": "\ud83d\udc78\ud83c\udf85\ud83d\udc82 \u2605 Snow White and the Huntsman (at Ganesha XXXIII) \u2014 https://t.co/GsHmdk2HPJ",
+    "user_name": "Nadhifhk",
+    "user_id": 131773682,
+    "user_location": null,
+    "tweet_id": "726682865799286784",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            110.44547,
+            -6.99261
+        ]
+    }
+},
+{
+    "tweet": "The Huntsman winter's War (@ Golden Screen Cinemas (GSC) - @gscinemas in Alor Star, Kedah w/ @nemanawi_) https://t.co/9aZuAv5Jno",
+    "user_name": "Alif Ta Ya Kaf",
+    "user_id": 977552694,
+    "user_location": null,
+    "tweet_id": "726707253496131584",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            100.3667615,
+            6.12560649
+        ]
+    }
+},
+{
+    "tweet": "After huntsman... Capt. America the civil war! Movie alone again... (@ Greenbelt 3 Cinemas - @mysureseats) https://t.co/B3jL41I2Ae",
+    "user_name": "Raymond L. Ebu\u00f1a",
+    "user_id": 455715385,
+    "user_location": "Pacific Ocean",
+    "tweet_id": "726716621755142144",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.02161407,
+            14.5517879
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at T4 T!duR) \u2014 https://t.co/klgc6ngiKV",
+    "user_name": "djajatsparrow",
+    "user_id": 149417797,
+    "user_location": "Depok, jabar",
+    "tweet_id": "726733396580265985",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.85012,
+            -6.38438
+        ]
+    }
+},
+{
+    "tweet": "I'm at Cinemark North Hills and XD for The Huntsman: Winter's War in Pittsburgh, PA https://t.co/Ko0OlXu4kV",
+    "user_name": "J. Raven",
+    "user_id": 2192467219,
+    "user_location": "Pittsburgh, PA",
+    "address": "Pennsylvania, United States of America",
+    "tweet_id": "726800881870626816",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -80.01735,
+            40.57156
+        ]
+    },
+    "state": "Pennsylvania"
+},
+{
+    "tweet": "I'm at @Moviecom for The Huntsman: Winter's War in Bel\u00e9m, PA w/ @michelpantojaa https://t.co/ZeHpFvM6t2",
+    "user_name": "Juliana",
+    "user_id": 209552083,
+    "user_location": "+55PA091",
+    "address": "PA, Brasil",
+    "tweet_id": "726814347092234240",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -48.43066958,
+            -1.40288301
+        ]
+    },
+    "state": "PA"
+},
+{
+    "tweet": "Gonna watch Huntsman Winters War.\n#burjuman #burjumanmall\n#voxcinemas #voxmax #huntsman\u2026 https://t.co/Aqhf8AejNz",
+    "user_name": "Ruel",
+    "user_id": 121665643,
+    "user_location": "Dubai, UAE",
+    "address": "\u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "tweet_id": "726827627474907137",
+    "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.30212159,
+            25.2531609
+        ]
+    },
+    "state": "\u062f\u0628\u064a\u200e"
+},
+{
+    "tweet": "I'm at AMC Colonial 18 - @amctheatres for The Huntsman: Winter's War in Lawrenceville, GA https://t.co/JspbfeYRW0",
+    "user_name": "Sheena J",
+    "user_id": 37311554,
+    "user_location": "Atlanta",
+    "address": "Georgia, United States of America",
+    "tweet_id": "726833814580920321",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -84.0185677,
+            33.96935195
+        ]
+    },
+    "state": "Georgia"
+},
+{
+    "tweet": "The Huntsman: Winters War #AmericanGirl #MyBirthayGirl #Mines\u2026 https://t.co/cyMJwhtY9v",
+    "user_name": "Luisa Montalvo",
+    "user_id": 36735363,
+    "user_location": "Anywhere The Wind Blows.",
+    "address": "New York, United States of America",
+    "tweet_id": "726840390746267649",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.82579681,
+            40.86705315
+        ]
+    },
+    "state": "New York"
+},
+{
+    "tweet": "The Huntsman: Winter's War (at @Cinemaximum in Istanbul) https://t.co/FzeJU7m1pK",
+    "user_name": "\u00d6zg\u00fcn \u00d6mer",
+    "user_id": 1538970080,
+    "user_location": "K\u00fc\u00e7\u00fckyal\u0131 / Istanbul",
+    "address": "\u0130stanbul, T\u00fcrkiye",
+    "tweet_id": "726849160834605056",
+    "country": "T\u00fcrkiye",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            29.05492229,
+            41.00245667
+        ]
+    },
+    "state": "\u0130stanbul"
+},
+{
+    "tweet": "Gonna watch some Queens. (@ ShowPlace ICON Theater for The Huntsman: Winter's War in Saint Louis Park, MN) https://t.co/Jtm5EjpSI6",
+    "user_name": "Evan M. Williams",
+    "user_id": 45462565,
+    "user_location": "Minneapolis, Minnesota",
+    "tweet_id": "726851486341287936",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -93.34763288,
+            44.96767488
+        ]
+    }
+},
+{
+    "tweet": "I'm at Cinespa\u00e7o - @cinespaco for The Huntsman: Winter's War 3D in Porto Alegre, RS https://t.co/ny8cmfdefF",
+    "user_name": "L\u00facio Brum",
+    "user_id": 100019775,
+    "user_location": "brasil",
+    "address": "RS, Brasil",
+    "tweet_id": "726855655492059136",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -51.1605835,
+            -30.01318267
+        ]
+    },
+    "state": "RS"
+},
+{
+    "tweet": "#twerkNOTwerk (@ Cineplex Cinemas Langley for The Huntsman: Winter's War in Langley, BC) https://t.co/Q0AYhFnMZ9",
+    "user_name": "Mark Iglesias",
+    "user_id": 14527139,
+    "user_location": "Surrey, BC Canada",
+    "tweet_id": "726862512491237376",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.66557217,
+            49.16826459
+        ]
+    }
+},
+{
+    "tweet": "I'm at Amstar Cinema 16 for The Huntsman: Winter's War in Macon, GA https://t.co/AqUtJc5jOB",
+    "user_name": "\u2764Julia\u2764\ufe0f",
+    "user_id": 24298337,
+    "user_location": "Macon, Ga",
+    "address": "Georgia, United States of America",
+    "tweet_id": "726865427201150976",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -83.76240274,
+            32.87848461
+        ]
+    },
+    "state": "Georgia"
+},
+{
+    "tweet": "I'm at Cin\u00e9polis - @cinepolisbrasil for The Huntsman: Winter's War 3D in Natal, RN w/ @jhonsphyllyppe https://t.co/1s118YBqRD",
+    "user_name": "MISS AMOR",
+    "user_id": 387296591,
+    "user_location": "Natal, Rio Grande do Norte",
+    "address": "RN, Brasil",
+    "tweet_id": "726877229049909249",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -35.2112165,
+            -5.8419463
+        ]
+    },
+    "state": "RN"
+},
+{
+    "tweet": "I'm at @Cinesystem for The Huntsman: Winter's War 3D in Arapiraca, Alagoas w/ @dayanesantos172 @fabiov6 https://t.co/iWEUmH1aO7",
+    "user_name": "Complicada & Confusa",
+    "user_id": 2153856742,
+    "user_location": "arapiraca",
+    "address": "AL, Brasil",
+    "tweet_id": "726894486027165696",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -36.65558338,
+            -9.73473258
+        ]
+    },
+    "state": "AL"
+},
+{
+    "tweet": "Going to watch the huntsman: Winters War (@ Leisure Village in NJ) https://t.co/ROBxgtBx65",
+    "user_name": "Elzabeth Morawe",
+    "user_id": 37780495,
+    "user_location": "Lakewood, NJ",
+    "address": "New Jersey, United States of America",
+    "tweet_id": "726902523378978816",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -74.1843009,
+            40.04259776
+        ]
+    },
+    "state": "RS"
+},
+{
+    "tweet": "The Huntsman. Winter's war. @ Cine Colombia https://t.co/VCaBYVxmNx",
+    "user_name": "MAO",
+    "user_id": 62829214,
+    "user_location": "Bogot\u00e1 - Colombia",
+    "address": "Bogot\u00e1, Colombia",
+    "tweet_id": "726911160100999170",
+    "country": "Colombia",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -74.04144717,
+            4.70305081
+        ]
+    },
+    "state": "Bogot\u00e1"
+},
+{
+    "tweet": "with my loves (@ Edwards West Covina 18 - @regalmovies for The Huntsman: Winter's War in West Covina, CA) https://t.co/EhMioDw3id",
+    "user_name": "regene balajadia",
+    "user_id": 127166966,
+    "user_location": "FONTANA, CA",
+    "tweet_id": "726917715005444096",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.9234351,
+            34.07010018
+        ]
+    }
+},
+{
+    "tweet": "Igtkn civil war dh keluar, huntsman pon boleh la (@ ShowPlace ICON at Roosevelt Collection) https://t.co/tI9DrE71oU https://t.co/QwgAMUkeFw",
+    "user_name": "WOWWAA",
+    "user_id": 452835674,
+    "user_location": "NaaSaa",
+    "address": "Illinois, United States of America",
+    "tweet_id": "726918277356773376",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -87.63275743,
+            41.8693531
+        ]
+    },
+    "state": "Illinois"
+},
+{
+    "tweet": "I'm at Cin\u00e9polis - @cinepolis for The Huntsman: Winter's War in Villahermosa, Tab., Villahermosa w/ @sariaso https://t.co/0KD6RI0NIH",
+    "user_name": "\u2022Rebeca",
+    "user_id": 977017836,
+    "user_location": "Villahermosa,Tab.",
+    "tweet_id": "726918809441951746",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -92.96522498,
+            17.98843775
+        ]
+    }
+},
+{
+    "tweet": "M.A crew! (@ Cinemark Movies 10 - @cinemarkusa for The Huntsman: Winter's War in Weslaco, TX) https://t.co/FBAw9591DB",
+    "user_name": "E \u221e",
+    "user_id": 64316216,
+    "user_location": "Weslaco, TX",
+    "tweet_id": "726926991799259137",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -98.01165104,
+            26.17030608
+        ]
+    }
+},
+{
+    "tweet": "I'm at @Kinoplex for The Huntsman: Winter's War in Rio de Janeiro, RJ https://t.co/NRqVqfVM9J",
+    "user_name": "Thamires Pilar",
+    "user_id": 134876232,
+    "user_location": "Brasil",
+    "address": "RJ, Brasil",
+    "tweet_id": "726927341042171904",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -43.27145576,
+            -22.87842895
+        ]
+    },
+    "state": "RJ"
+},
+{
+    "tweet": "I'm at @CinemarkOficial for The Huntsman: Winter's War in Rio de Janeiro, RJ https://t.co/7k0Kul5wuD",
+    "user_name": "Lu\u00eds Felipe Baltazar",
+    "user_id": 46395153,
+    "user_location": "Brazil - Rio de Janeiro",
+    "address": "RJ, Brasil",
+    "tweet_id": "726932783835271169",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -43.18298578,
+            -22.94755563
+        ]
+    },
+    "state": "RJ"
+},
+{
+    "tweet": "yay\ud83d\ude0d (@ AMC Assembly Row 12 for The Huntsman: Winter's War in Somerville, MA) https://t.co/4xCd8uHwGK",
+    "user_name": "\u0641\u0640\u0627\u0637\u0640\u0645\u0647\u0640\u0670",
+    "user_id": 356489689,
+    "user_location": "Boston, MA",
+    "address": "Massachusetts, United States of America",
+    "tweet_id": "726942338476552192",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -71.07991079,
+            42.3948212
+        ]
+    },
+    "state": "Massachusetts"
+},
+{
+    "tweet": "I'm at Cine Ara\u00fajo - @cinemasaraujo for The Huntsman: Winter's War in Rio Branco, AC https://t.co/aTXY67IVq5",
+    "user_name": "Mirain",
+    "user_id": 115813951,
+    "user_location": "Rio Branco - Acre",
+    "address": "AC, Brasil",
+    "tweet_id": "726951809709932544",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -67.84810781,
+            -9.985736
+        ]
+    },
+    "state": "AC"
+},
+{
+    "tweet": "She's watching The Huntsman. I'm watching her. @ Cinemark Robinson\u2026 https://t.co/jXnGhqU8vr",
+    "user_name": "WUUNAMdUP",
+    "user_id": 453025424,
+    "user_location": "Pixburgh",
+    "address": "Pennsylvania, United States of America",
+    "tweet_id": "726951925518852096",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -80.14677365,
+            40.43889609
+        ]
+    },
+    "state": "Pennsylvania"
+},
+{
+    "tweet": "I'm at @Cinemex for The Huntsman: Winter's War in Canc\u00fan, QR w/ @javi_reylez https://t.co/3mSMJANUgy",
+    "user_name": "Francisco Fuentes",
+    "user_id": 105869964,
+    "user_location": "M\u00e9xico",
+    "address": "Quintana Roo, M\u00e9xico",
+    "tweet_id": "726952075616198656",
+    "country": "M\u00e9xico",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -86.76415191,
+            21.11139246
+        ]
+    }
+},
+{
+    "tweet": "#movietime #beforesleep \u2605 The Huntsman: Winter's War (at Bi\u00f1an City) \u2014 https://t.co/ewqbDz6u4S",
+    "user_name": "Joel Sabado",
+    "user_id": 79291173,
+    "user_location": "Laguna",
+    "tweet_id": "726974599762599940",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.07591,
+            14.32228
+        ]
+    }
+},
+{
+    "tweet": "Movie night. (@ Cinemark Napa Valley for The Huntsman: Winter's War in Napa, CA) https://t.co/ZVdQfmogoI",
+    "user_name": "Angel AguirreBenites",
+    "user_id": 19275256,
+    "user_location": "Napa, CA",
+    "tweet_id": "726975444067737601",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.28051424,
+            38.28279532
+        ]
+    }
+},
+{
+    "tweet": "Words cannot describe how bad this movie was. (at @HarkinsTheatres Tempe Marketplace 16 for The Huntsman: Winter...) https://t.co/ZdZuWRqlsI",
+    "user_name": "Shiny and Chrome",
+    "user_id": 21467835,
+    "user_location": "Humpty Doo, Northern Territory",
+    "tweet_id": "726990056381100033",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -111.90177083,
+            33.43376927
+        ]
+    }
+},
+{
+    "tweet": "I'm at Regal Cinemas Prince Kuhio 9 - @regalmovies for The Huntsman: Winter's War in Hilo, HI https://t.co/31Oo9ZgDw5",
+    "user_name": "Jana-Mae De Cambra",
+    "user_id": 56950776,
+    "user_location": "Makawao",
+    "tweet_id": "727002972006289409",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -155.0638127,
+            19.69769326
+        ]
+    }
+},
+{
+    "tweet": "just watched huntsman and i fell asleep",
+    "user_name": "khyns \u265a",
+    "user_id": 1655689446,
+    "user_location": "pink makes me happy  \u2765",
+    "tweet_id": "727048014930432000",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.56530728,
+            15.15279935
+        ]
+    }
+},
+{
+    "tweet": "\ud83d\udcfd done watching The Huntsman \u263a so awesome! \ud83d\udc4f\ud83c\udffb my gash chris\u2026 https://t.co/YU7mRJSfFo",
+    "user_name": "ajanananana\u2728",
+    "user_id": 3306868500,
+    "user_location": "milky way galaxy",
+    "tweet_id": "727069578363293696",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.05814016,
+            14.24084386
+        ]
+    }
+},
+{
+    "tweet": "\ud83d\udcfd done watching The Huntsman \u263a\ufe0f so awesome! \ud83d\udc4f\ud83c\udffb my gash chris\u2026 https://t.co/si7BB8IgPv",
+    "user_name": "ajanananana\u2728",
+    "user_id": 3306868500,
+    "user_location": "milky way galaxy",
+    "tweet_id": "727072345479847936",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.05747122,
+            14.23654606
+        ]
+    }
+},
+{
+    "tweet": "The Huntsman: Winter's War (@ Golden Screen Cinemas (GSC) - @gscinemas in Alor Star, Kedah) https://t.co/wvI7SF59Dp",
+    "user_name": "Lim Keat Chung",
+    "user_id": 162724769,
+    "user_location": "Alor Setar/Penang, Malaysia",
+    "tweet_id": "727101469476982784",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            100.3667615,
+            6.12560649
+        ]
+    }
+},
+{
+    "tweet": "The Huntsman: Winter's War \ud83c\udfa5\ud83d\ude0e (@ Cinemaximum in Bolu) https://t.co/gLNpayPRsi",
+    "user_name": "Merve Ayd\u0131n",
+    "user_id": 1294404139,
+    "user_location": "Giresun - Bolu",
+    "address": "Bolu, T\u00fcrkiye",
+    "tweet_id": "727133395571081217",
+    "country": "T\u00fcrkiye",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            31.56265821,
+            40.73199254
+        ]
+    },
+    "state": "Bolu"
+},
+{
+    "tweet": "Huntsman! W/ @danialshamzarii @syahirsuki @iriazziqirzaa (at @TGVCinemas in George Town, Penang) https://t.co/EGYovxiw8U",
+    "user_name": "\u0631\u0650\u064a\u0652\u062c\u0627\u064e\u0627",
+    "user_id": 418786566,
+    "user_location": "undefined",
+    "tweet_id": "727142012336635905",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            100.33124753,
+            5.41263793
+        ]
+    }
+},
+{
+    "tweet": "Movie (@ MJR Brighton Towne Square Digital Cinema 20 for The Huntsman: Winter's War in Brighton, MI) https://t.co/EINEVeYb9t",
+    "user_name": "Mike Briggs",
+    "user_id": 2627822089,
+    "user_location": "Michigan, USA",
+    "address": "Michigan, United States of America",
+    "tweet_id": "727175296714194944",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -83.79862119,
+            42.54823293
+        ]
+    },
+    "state": "Michigan"
+},
+{
+    "tweet": "I'm at @CityBaseCinema for The Huntsman: Winter's War in San Antonio, TX https://t.co/2cTk698fbg",
+    "user_name": "ShyDawgUSMC",
+    "user_id": 151751738,
+    "user_location": "Tri-City, USA",
+    "tweet_id": "727189692563771392",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -98.45108886,
+            29.35429346
+        ]
+    }
+},
+{
+    "tweet": "Begadang \ud83d\ude0c \u2605 The Huntsman: Winter's War (with Bella., SoniaAprilyani\ud83d\udc84, and Yennichoye at Wisma BR3YS) \u2014 https://t.co/aUfzRU9eT7",
+    "user_name": "EvyRezekiPradila",
+    "user_id": 585618738,
+    "user_location": "Palangkaraya,Kalimantan Tengah",
+    "tweet_id": "727189732938014722",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            113.89877,
+            -2.20336
+        ]
+    }
+},
+{
+    "tweet": "I'm at Cin\u00e9polis - @cinepolisbrasil for The Huntsman: Winter's War 3D in Belo Horizonte, MG w/ @grassacostta https://t.co/wZyXsdp1qL",
+    "user_name": "Leandro#Betelab#",
+    "user_id": 152725451,
+    "user_location": null,
+    "address": "MG, Brasil",
+    "tweet_id": "727191213749719040",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -43.94722223,
+            -19.82073174
+        ]
+    },
+    "state": "MG"
+},
+{
+    "tweet": "I'm at Westown Movies for The Huntsman: Winter's War in Middletown, DE https://t.co/2lKZ21fJWO",
+    "user_name": "Kristina Leeann",
+    "user_id": 48756987,
+    "user_location": "Richmond, VA ",
+    "address": "Delaware, United States of America",
+    "tweet_id": "727191573444870144",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -75.74105285,
+            39.44688904
+        ]
+    },
+    "state": "Amman"
+},
+{
+    "tweet": "I'm at UCI Orient Shopping da Bahia - @ucicinemas for The Huntsman: Winter's War 3D in Salvador, BA w/ @moiseisraton https://t.co/NArqv75Xo3",
+    "user_name": "Anderson Cezar",
+    "user_id": 3108787863,
+    "user_location": "Salvador, Bahia",
+    "address": "BA, Brasil",
+    "tweet_id": "727203482718052352",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -38.46365251,
+            -12.98200053
+        ]
+    },
+    "state": "BA"
+},
+{
+    "tweet": "I'm at AMC First Colony 24 - @amctheatres for The Huntsman: Winter's War in Sugar Land, TX https://t.co/pRiE0geJhL",
+    "user_name": "Elizabeth",
+    "user_id": 118348928,
+    "user_location": "Missouri City, TX",
+    "tweet_id": "727212236108894208",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -95.62735662,
+            29.58707986
+        ]
+    }
+},
+{
+    "tweet": "I'm at UCI Kinoplex - @ucicinemas for The Huntsman: Winter's War in Recife, PE https://t.co/7JVy1Vc8zK https://t.co/mKBe7Bhzte",
+    "user_name": "Fernando Bomfim",
+    "user_id": 307376170,
+    "user_location": "Recife, Pernambuco - Brasil",
+    "address": "PE, Brasil",
+    "tweet_id": "727224054248296449",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -34.91260886,
+            -8.03705908
+        ]
+    },
+    "state": "PE"
+},
+{
+    "tweet": "Watched Huntsman with these gals during our 7 hour-vacant yesterday \ud83c\udfac @ Burgoo, Solenad Nuvali https://t.co/lszDlqz4sL",
+    "user_name": "Allen Tesoro",
+    "user_id": 77333344,
+    "user_location": "point zero",
+    "tweet_id": "727249110554673152",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.05750413,
+            14.23672844
+        ]
+    }
+},
+{
+    "tweet": "I'm at UCI Kinoplex for The Huntsman: Winter's War in Recife, PE https://t.co/88j8G8G8fz",
+    "user_name": "joselma mary",
+    "user_id": 2439417704,
+    "user_location": null,
+    "address": "PE, Brasil",
+    "tweet_id": "727254628111409153",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -34.87253666,
+            -8.03857823
+        ]
+    },
+    "state": "PE"
+},
+{
+    "tweet": "I'm at UCI Kinoplex for The Huntsman: Winter's War 3D in Recife, PE https://t.co/1wXZ6IFBXm",
+    "user_name": "joselma mary",
+    "user_id": 2439417704,
+    "user_location": null,
+    "address": "PE, Brasil",
+    "tweet_id": "727254678665310210",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -34.87253666,
+            -8.03857823
+        ]
+    },
+    "state": "PE"
+},
+{
+    "tweet": "I'm at @UCICinemas for The Huntsman: Winter's War in Fortaleza, CE https://t.co/FeF8Vy8Bdz",
+    "user_name": "baby tiger",
+    "user_id": 99016506,
+    "user_location": "fortaleza",
+    "address": "CE, Brasil",
+    "tweet_id": "727275538084159490",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -38.48839045,
+            -3.75729983
+        ]
+    },
+    "state": "CE"
+},
+{
+    "tweet": "About to watch The Huntsman. @ Krikorian Downey Cinema 10 https://t.co/XbqTSpP4rY",
+    "user_name": "Ivan Von Ginnungagap",
+    "user_id": 165271746,
+    "user_location": "Melrose Ave, Hollywood, CA",
+    "tweet_id": "727277797182296064",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.1333,
+            33.94226
+        ]
+    }
+},
+{
+    "tweet": "Wicked (@ AMC Irving Mall Cinemas 14 - @amctheatres for The Huntsman: Winter's War) https://t.co/JBtbQovGyY https://t.co/BVzVJn16fe",
+    "user_name": "\u00d3scar",
+    "user_id": 275419943,
+    "user_location": "Dallas ",
+    "tweet_id": "727293364815728641",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -96.9953084,
+            32.84121336
+        ]
+    }
+},
+{
+    "tweet": "I'm at Cineart - @cinemas_cineart for The Huntsman: Winter's War in Belo Horizonte, MG w/ @luis_derson https://t.co/XuVNZkw2ds",
+    "user_name": "Breno Barroso",
+    "user_id": 87771226,
+    "user_location": "BH - MG - Brasil",
+    "address": "MG, Brasil",
+    "tweet_id": "727296376334327809",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -43.91950965,
+            -19.92033085
+        ]
+    },
+    "state": "MG"
+},
+{
+    "tweet": "#CinitoTime con Glow (at @Cinemex for The Huntsman: Winter's War in Cuauthemoc, Distrito Federal) https://t.co/QVRriwleue",
+    "user_name": "Maurizio",
+    "user_id": 618366097,
+    "user_location": "M\u00e9xico, D.F. ",
+    "tweet_id": "727308360345894912",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -99.14725029,
+            19.43641937
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at Cinemaxx Plaza Semanggi) \u2014 https://t.co/0shP0FIUkD",
+    "user_name": "Putri Alifiandini",
+    "user_id": 186378815,
+    "user_location": "Kind of Bogor...",
+    "tweet_id": "727351435826855936",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.81377,
+            -6.22071
+        ]
+    }
+},
+{
+    "tweet": "Huntsman (@ Cathay Cineplex in Singapore) https://t.co/rClFilcmFJ",
+    "user_name": "princessSHEman",
+    "user_id": 1369590464,
+    "user_location": "hougang Avenue 6",
+    "tweet_id": "727379570844925952",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            103.83691875,
+            1.30129854
+        ]
+    }
+},
+{
+    "tweet": "alright the second one is the huntsman. time to blow the imagination\u2026 https://t.co/oiGeHVN8MO",
+    "user_name": "123SharkUpToLand",
+    "user_id": 144519650,
+    "user_location": "Pluto",
+    "tweet_id": "727400152474914816",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            100.53896018,
+            13.74698386
+        ]
+    }
+},
+{
+    "tweet": "the huntsman (@ Golden Screen Cinemas (GSC) - @gscinemas in Alor Star, Kedah w/ @pyanlele) https://t.co/hySabhHjO6",
+    "user_name": "Anfal",
+    "user_id": 850468860,
+    "user_location": null,
+    "tweet_id": "727407745184485376",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            100.3667615,
+            6.12560649
+        ]
+    }
+},
+{
+    "tweet": "The Huntsman: Winter's War (@ MBO Cineplex in Johor Bahru, Johor) https://t.co/TqkkGAhHK1",
+    "user_name": "Elysia",
+    "user_id": 113908214,
+    "user_location": "Ig: Elysiawong",
+    "tweet_id": "727419975288377344",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            103.76257473,
+            1.48554141
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (with Kevin and Dhea at @welovesf) \u2014 https://t.co/7peEF8DYk4",
+    "user_name": "Maresta Tri Cahyani",
+    "user_id": 162589837,
+    "user_location": null,
+    "tweet_id": "727428007799844864",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            98.30054,
+            7.88978
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at @cinemaxxtheater) \u2014 https://t.co/yNlmPwjHol",
+    "user_name": "irvan siregar",
+    "user_id": 148352880,
+    "user_location": "dimana mana",
+    "tweet_id": "727487794126286848",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.60663,
+            -6.22846
+        ]
+    }
+},
+{
+    "tweet": "huntsman \ud83d\ude33 (@ Shaw Theatres - @shawsg in Singapore w/ @stainedlovee) https://t.co/rgQAf8yIvr",
+    "user_name": "johy.",
+    "user_id": 1073444306,
+    "user_location": "lost",
+    "tweet_id": "727489677578670081",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            103.8722536,
+            1.35045167
+        ]
+    }
+},
+{
+    "tweet": "At the Movies Watching: The Huntsman: Winter's War !! I hope it's\u2026 https://t.co/sJQcjSuUMt",
+    "user_name": "CHARICA GRIER",
+    "user_id": 191548357,
+    "user_location": "New Haven, CT",
+    "address": "Connecticut, United States of America",
+    "tweet_id": "727507610862112770",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.0373229,
+            41.23486519
+        ]
+    },
+    "state": "Connecticut"
+},
+{
+    "tweet": "I'm at @GNCCinemas for The Huntsman: Winter's War in Blumenau, SC https://t.co/jrNbs23Dpz",
+    "user_name": "nath\u00e1lia",
+    "user_id": 855291187,
+    "user_location": "29.09.2015",
+    "address": "SC, Brasil",
+    "tweet_id": "727538667514941441",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -49.06991959,
+            -26.92065413
+        ]
+    },
+    "state": "SC"
+},
+{
+    "tweet": "the huntsman (@ Golden Screen Cinemas (GSC) - @gscinemas in Melaka) https://t.co/huCRg1WlLg",
+    "user_name": "TK",
+    "user_id": 153370227,
+    "user_location": "Budak Subang Jaya",
+    "tweet_id": "727538923233247232",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            102.25265265,
+            2.18991942
+        ]
+    }
+},
+{
+    "tweet": "I'm at Regal Cinemas Sunset Station 13 &amp; IMAX - @regalmovies for The Huntsman: Winter's War in Henderson, NV https://t.co/rm94Qen4UD",
+    "user_name": "Arbitrage Asshole",
+    "user_id": 15152205,
+    "user_location": "Not where I want to be",
+    "tweet_id": "727548268293570565",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.0419098,
+            36.06136568
+        ]
+    }
+},
+{
+    "tweet": "Was too late to see The Huntsman. Killing time before Keanu and hopefully Ratchet and Clank. (@ Barnes &amp; Noble) https://t.co/s8bmLIfh5J",
+    "user_name": "Joey Hubbard",
+    "user_id": 206515336,
+    "user_location": "Chicago IL",
+    "address": "Illinois, United States of America",
+    "tweet_id": "727573004604051456",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -87.68192274,
+            42.0483247
+        ]
+    },
+    "state": "Illinois"
+},
+{
+    "tweet": "I'm at Cin\u00e9polis for The Huntsman: Winter's War in Puebla, Pue., PUE w/ @majoanzures https://t.co/GBLQvxvr9S",
+    "user_name": "Bay Harbor Butcher",
+    "user_id": 874520834,
+    "user_location": "Puebla, Mexico",
+    "tweet_id": "727579677578104833",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -98.2150054,
+            19.02234199
+        ]
+    }
+},
+{
+    "tweet": "Thanks so much for my Met Gala outfit!!! @11savilerow #manusxmachina #metgala #huntsman @ The\u2026 https://t.co/ot1epUGrJa",
+    "user_name": "Gareth Pugh Studio",
+    "user_id": 600944450,
+    "user_location": "London",
+    "address": "New York, United States of America",
+    "tweet_id": "727590685969285120",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.9873,
+            40.72181
+        ]
+    },
+    "state": "New York"
+},
+{
+    "tweet": "Decided to wait and see The Huntsman at the 400. And Mother's Day can wait too. So I'm seeing Ratchet and... https://t.co/1KzQOXU53J",
+    "user_name": "Joey Hubbard",
+    "user_id": 206515336,
+    "user_location": "Chicago IL",
+    "address": "Illinois, United States of America",
+    "tweet_id": "727613596365144065",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -87.6847293,
+            42.04895655
+        ]
+    },
+    "state": "Illinois"
+},
+{
+    "tweet": "Huntsman - $4 seats! (@ AMC Palm Promenade 24 - @amctheatres for The Huntsman: Winter's War in San Diego, CA) https://t.co/MevUYuBNbi",
+    "user_name": "Dan B",
+    "user_id": 44997377,
+    "user_location": "San Diego, CA",
+    "tweet_id": "727613673737457665",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.03636646,
+            32.57907599
+        ]
+    }
+},
+{
+    "tweet": "The Huntsman: Winter's War (@ AMC Palm Promenade 24 - @amctheatres for The Huntsman: Winter's War in San Diego, CA) https://t.co/plVWR83rXR",
+    "user_name": "KrystoferDevlinReich",
+    "user_id": 31046047,
+    "user_location": "within the ether",
+    "tweet_id": "727614686120775681",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.03636646,
+            32.57907599
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (with Dan at @amctheatres) \u2014 https://t.co/y0ExQwuBeo",
+    "user_name": "KrystoferDevlinReich",
+    "user_id": 31046047,
+    "user_location": "within the ether",
+    "tweet_id": "727615069010321409",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.03694,
+            32.579
+        ]
+    }
+},
+{
+    "tweet": "I'm at Cinemark for The Huntsman: Winter's War in Campo Grande, MS https://t.co/rhM1MJGQcX",
+    "user_name": "Vanessa Velasques",
+    "user_id": 66688445,
+    "user_location": "Campo Grande - MS Brasil",
+    "address": "MS, Brasil",
+    "tweet_id": "727618771477798912",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -54.58669245,
+            -20.45793636
+        ]
+    },
+    "state": "MS"
+},
+{
+    "tweet": "I'm at Penn Cinema Riverfront IMAX - @pcriverfront for The Huntsman: Winter's War in Wilmington, DE https://t.co/aBgEGg9qkC",
+    "user_name": "D\uf8ffniel \u30c3 Schmitt",
+    "user_id": 232310538,
+    "user_location": "Wilmington, DE & New York, NY",
+    "address": "Delaware, United States of America",
+    "tweet_id": "727626898117931008",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -75.56215191,
+            39.73610745
+        ]
+    },
+    "state": "Delaware"
+},
+{
+    "tweet": "I'm at Regal Cinemas Park Place 16 &amp; RPX - @regalmovies for The Huntsman: Winter's War in Pinellas Park, FL https://t.co/3nfm1FJPmn",
+    "user_name": "Brittany",
+    "user_id": 23461289,
+    "user_location": null,
+    "address": "Florida, United States of America",
+    "tweet_id": "727627133623873541",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -82.68587764,
+            27.83667608
+        ]
+    },
+    "state": "Florida"
+},
+{
+    "tweet": "I'm at Regal Cinemas Nanuet 12 &amp; RPX - @regalmovies for The Huntsman: Winter's War in Nanuet, NY https://t.co/yjHOumv4Ka",
+    "user_name": "Matt Wolfson",
+    "user_id": 251674845,
+    "user_location": null,
+    "address": "New York, United States of America",
+    "tweet_id": "727630987014836224",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -74.01643876,
+            41.09486237
+        ]
+    },
+    "state": "New York"
+},
+{
+    "tweet": "I'm at Cineart - @cinemas_cineart for The Huntsman: Winter's War in Belo Horizonte, MG https://t.co/ALM8hDYO6i",
+    "user_name": "Tyciano Maia Ribeiro",
+    "user_id": 25429552,
+    "user_location": "Belo Horizonte",
+    "address": "MG, Brasil",
+    "tweet_id": "727642143607631873",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -43.91950965,
+            -19.92033085
+        ]
+    },
+    "state": "MG"
+},
+{
+    "tweet": "I'm at @Cinemark Stadium for The Huntsman: Winter's War in Sandusky, OH https://t.co/djXDNN1Lg6",
+    "user_name": "Amy Lee Keller",
+    "user_id": 8776002,
+    "user_location": "Ohio",
+    "address": "Ohio, United States of America",
+    "tweet_id": "727643130976153601",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -82.66787052,
+            41.42094356
+        ]
+    },
+    "state": "North Carolina"
+},
+{
+    "tweet": "I'm at AMC Palace 9 - @amctheatres for The Huntsman: Winter's War in Fort Worth, TX https://t.co/9XmO9glnE5",
+    "user_name": "Granger",
+    "user_id": 318677438,
+    "user_location": "Fort Worth, Texas",
+    "tweet_id": "727647127459991552",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -97.33048797,
+            32.75539358
+        ]
+    }
+},
+{
+    "tweet": "Packed house for The Huntsman. @ Regal College Station Stadium 14 https://t.co/HclVSjFsbM",
+    "user_name": "Seeko",
+    "user_id": 2305494788,
+    "user_location": null,
+    "tweet_id": "727649413171187712",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -93.29523,
+            37.20939
+        ]
+    }
+},
+{
+    "tweet": "I'm at AMC Loews Danbury 16 - @amctheatres for The Huntsman: Winter's War in Danbury, CT https://t.co/mcAKg6058X",
+    "user_name": "JackBouffard",
+    "user_id": 17983932,
+    "user_location": "Danbury, CT",
+    "address": "Connecticut, United States of America",
+    "tweet_id": "727673671960174593",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.414376,
+            41.4174
+        ]
+    },
+    "state": "Connecticut"
+},
+{
+    "tweet": "The Huntsman: Winter's War (@ Megaplex at Valley Fair Mall - @megaplextheatre for The Huntsman: Winter's War) https://t.co/MPlUcYeJ5s",
+    "user_name": "Aubri Gunderson",
+    "user_id": 572013535,
+    "user_location": null,
+    "tweet_id": "727675914750967809",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -111.95446443,
+            40.69379915
+        ]
+    }
+},
+{
+    "tweet": "Now watching Snow White and The Huntsman #movieaddiction #marathon #magical @ Manila, Philippines https://t.co/Nmm7YUOFRR",
+    "user_name": "William Thomas",
+    "user_id": 1659887108,
+    "user_location": "Tarlac City",
+    "tweet_id": "727810899885559808",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.982,
+            14.6042
+        ]
+    }
+},
+{
+    "tweet": "Watching huntsman later @ Tyson's Corner Mall https://t.co/fPTW3AN4pe",
+    "user_name": "Patrick Ambrose",
+    "user_id": 2247555270,
+    "user_location": "Ambrose Asylum",
+    "address": "Virginia, United States of America",
+    "tweet_id": "727919691826499585",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -77.22074808,
+            38.91793197
+        ]
+    },
+    "state": "Virginia"
+},
+{
+    "tweet": "I'm at @CinemarkOficial for The Huntsman: Winter's War in Canoas, RS https://t.co/52NVMjn6vP",
+    "user_name": "Fefa \u263c",
+    "user_id": 2283236001,
+    "user_location": "Camaqu\u00e3, Brasil",
+    "address": "RS, Brasil",
+    "tweet_id": "727948748916183041",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -51.18350029,
+            -29.91075176
+        ]
+    },
+    "state": "RS"
+},
+{
+    "tweet": "Next \u2605 The Huntsman: Winter's War (at limliemliem bed rooms \ud83c\udfe0\ud83c\udfe0) \u2014 https://t.co/2qVhXTZIew",
+    "user_name": "~",
+    "user_id": 224171347,
+    "user_location": "Kota Batam - KepRi, Indonesia ",
+    "tweet_id": "727955920513159169",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            104.12537,
+            1.03314
+        ]
+    }
+},
+{
+    "tweet": "Review: \u2018The Huntsman: Winter's War' https://t.co/m5Om1hckM3",
+    "user_name": "Parker, TX News",
+    "user_id": 1327331208,
+    "user_location": "Parker, Texas",
+    "tweet_id": "727962118503452672",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -96.61699677,
+            33.08710098
+        ]
+    }
+},
+{
+    "tweet": "Review: \u2018The Huntsman: Winter's War' https://t.co/eDpIsaWRxE",
+    "user_name": "Allen, TX News",
+    "user_id": 418869637,
+    "user_location": "Allen, Texas",
+    "tweet_id": "727962635275210753",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -96.61699677,
+            33.08710098
+        ]
+    }
+},
+{
+    "tweet": "Cineminha com a Mamy \u2665 (@ Moviecom Cinemas for The Huntsman: Winter's War in Macap\u00e1, AP) https://t.co/UL0vJaafde",
+    "user_name": "Namja",
+    "user_id": 2310884630,
+    "user_location": "Brasil",
+    "address": "AP, Brasil",
+    "tweet_id": "727970175056789505",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -51.06357664,
+            0.03110187
+        ]
+    },
+    "state": "AP"
+},
+{
+    "tweet": "I'm at Suma\u00fama Park Shopping - @sumaumaparkshop for The Huntsman: Winter's War in Manaus, Amazonas https://t.co/NOwt2FX5cV",
+    "user_name": "Ketemilla Sotero",
+    "user_id": 211361717,
+    "user_location": "Manaus, AM, Brasil",
+    "address": "AM, Brasil",
+    "tweet_id": "727978133794766853",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -59.97733596,
+            -3.03081845
+        ]
+    },
+    "state": "AM"
+},
+{
+    "tweet": "Gonna watch sam claflin. The huntsman \ud83c\udfac (@ Golden Screen Cinemas (GSC) - @gscinemas in Seremban) https://t.co/0s7fcxlY5o",
+    "user_name": "za",
+    "user_id": 397869790,
+    "user_location": "Malaysia ",
+    "tweet_id": "728143271248035840",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.921947,
+            2.71967148
+        ]
+    },
+    "state": "England"
+},
+{
+    "tweet": "\ud83c\udfac\ud83c\udfac\ud83c\udfac \u2605 The Huntsman: Winter's War (at Home) \u2014 https://t.co/kfOYIxDH2b",
+    "user_name": "Agisna\u064e",
+    "user_id": 387613127,
+    "user_location": "Rio de Janeiro, Brazil",
+    "tweet_id": "728199439102283776",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            108.32283,
+            -7.31882
+        ]
+    }
+},
+{
+    "tweet": "The huntsman (@ Golden Screen Cinemas (GSC) - @gscinemas in Seremban) https://t.co/ihAJFDB4TT",
+    "user_name": "\u2022_\u2022",
+    "user_id": 41091697,
+    "user_location": "ThisIsKotaBharu",
+    "tweet_id": "728254199671164928",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.921947,
+            2.71967148
+        ]
+    }
+},
+{
+    "tweet": "\ud83d\ude38\ud83d\ude38 \u2605 Snow White and the Huntsman (at Hotel Lodaya - Bandung) \u2014 https://t.co/02Ipy7Fg8Z",
+    "user_name": "Khairunnisa saragih",
+    "user_id": 524903143,
+    "user_location": "Bandung, Indonesia",
+    "tweet_id": "728272252987314176",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            107.62302,
+            -6.93109
+        ]
+    }
+},
+{
+    "tweet": "I'm at Cin\u00e9polis - @cinepolisbrasil for The Huntsman: Winter's War 3D in Natal, RN https://t.co/paPq01wS1h",
+    "user_name": "Neyla Varela",
+    "user_id": 300969297,
+    "user_location": null,
+    "address": "RN, Brasil",
+    "tweet_id": "728312190655156224",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -35.2112165,
+            -5.8419463
+        ]
+    },
+    "state": "RN"
+},
+{
+    "tweet": "Huntsman checken (@ Kinepolis in Brugge) https://t.co/u7BhqEqj1X",
+    "user_name": "Arthur",
+    "user_id": 1446048518,
+    "user_location": "Oostduinkerke, Belgi\u00eb",
+    "address": "Vlaanderen, Belgi\u00eb - Belgique - Belgien",
+    "tweet_id": "728316610692456452",
+    "country": "Belgi\u00eb - Belgique - Belgien",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            3.20251465,
+            51.17974652
+        ]
+    },
+    "state": "Vlaanderen"
+},
+{
+    "tweet": "I'm at Regal Cinemas Union Square 14 - @regalmovies for The Huntsman: Winter's War in New York, NY w/ @alexblack1982 https://t.co/Bayt8SBh8L",
+    "user_name": "Dorice C",
+    "user_id": 2736648671,
+    "user_location": "Brooklyn, NY",
+    "address": "New York, United States of America",
+    "tweet_id": "728361746562469888",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.99073727,
+            40.73405166
+        ]
+    }
+},
+{
+    "tweet": "The Huntsman: Winter's War! (@ Cineplanet in Chorrillos) https://t.co/bFWCbEFHxb",
+    "user_name": "Chris Leon",
+    "user_id": 19094958,
+    "user_location": "Lima, Peru",
+    "address": "Lima, Per\u00fa",
+    "tweet_id": "728412716273119232",
+    "country": "Per\u00fa",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -76.99224403,
+            -12.17216665
+        ]
+    },
+    "state": "Lima"
+},
+{
+    "tweet": "I'm at Huntsman Red Carpet in Singapore https://t.co/fqLEq8Q9Q8",
+    "user_name": "MinMiz \u2605",
+    "user_id": 145320859,
+    "user_location": null,
+    "tweet_id": "728450471896047616",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            103.82187799,
+            1.2552737
+        ]
+    }
+},
+{
+    "tweet": "Watching Snow White and the Huntsman (with \ud83d\udc69\ud83d\udc67 at D'Bungurs) \u2014 https://t.co/ua7y1LnGZg",
+    "user_name": "Fajri Aulia Putri",
+    "user_id": 381406840,
+    "user_location": null,
+    "tweet_id": "728470273855356928",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.78284,
+            -6.24866
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at JL. Nginden Jaya 2 /16) \u2014 https://t.co/NUhXRestaL",
+    "user_name": "Pe A Ye De Je O E",
+    "user_id": 97581462,
+    "user_location": "suROCKboyo",
+    "tweet_id": "728508259544358914",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            112.76859,
+            -7.30279
+        ]
+    }
+},
+{
+    "tweet": "The Huntsman: Winter's war\nBarberShop: The Next cut \n\n        OR\n\nCaptain America: Civil War??\nOr All?",
+    "user_name": "TouchSTONE \u270f",
+    "user_id": 119704677,
+    "user_location": "highway 2 Heaven",
+    "address": "Lagos, Nigeria",
+    "tweet_id": "728542583773921280",
+    "country": "Nigeria",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            3.3993985,
+            6.5924226
+        ]
+    },
+    "state": "Lagos"
+},
+{
+    "tweet": "Movie marathon \u2605 The Huntsman: Winter's War (with Anggi at Alda's Room) \u2014 https://t.co/LRLaPUi5VQ",
+    "user_name": "aldaoliviam",
+    "user_id": 2303125393,
+    "user_location": null,
+    "tweet_id": "728611744579358722",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.99069,
+            -6.70059
+        ]
+    }
+},
+{
+    "tweet": "Huntsman alone \ud83d\ude4c\ud83c\udffb (@ Golden Screen Cinemas (GSC) - @gscinemas in George Town, Penang) https://t.co/UNHMuPmfHV",
+    "user_name": "Syed Muhammad Aiman",
+    "user_id": 711313086800474112,
+    "user_location": "George Town, Pinang",
+    "tweet_id": "728614982577950720",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            100.30931711,
+            5.43760454
+        ]
+    }
+},
+{
+    "tweet": "I'm at Cinemark for The Huntsman: Winter's War in Bras\u00edlia, DF https://t.co/Vd7UFP5VW0",
+    "user_name": "Bruna Oliveira",
+    "user_id": 59478535,
+    "user_location": "Bras\u00edlia - DF",
+    "address": "DF, Brasil",
+    "tweet_id": "728633115778887680",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -48.0440712,
+            -15.84155439
+        ]
+    }
+},
+{
+    "tweet": "I really wanna see that movie \ud83d\ude22\"@yoclaire_: I wish I had watched \"the huntsman instead \ud83d\ude2d\"",
+    "user_name": "V I E W S",
+    "user_id": 960354678,
+    "user_location": "Johannesburg, South Africa",
+    "address": "Gauteng, South Africa",
+    "tweet_id": "728694462919131136",
+    "country": "South Africa",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            28.0546514,
+            -26.1887045
+        ]
+    },
+    "state": "Gauteng"
+},
+{
+    "tweet": "Celebrating my fabulous nephew! College=check! Law School=look out, world! So proud. @ Huntsman\u2026 https://t.co/UCImWagahC",
+    "user_name": "tamara park",
+    "user_id": 16629084,
+    "user_location": "portland, or ",
+    "tweet_id": "728714014176337920",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -111.83871002,
+            40.76194606
+        ]
+    }
+},
+{
+    "tweet": "\u2b55\ufe0fBAR tonight my huntsman, don't miss it! \ud83d\udc51\u2744\ufe0f #thehuntsman #thehuntsmanwinterswar\u2026 https://t.co/NTOmGz0gKo",
+    "user_name": "Captivating Katkat",
+    "user_id": 143169217,
+    "user_location": "Quezon City, Philippines",
+    "tweet_id": "728723425632522240",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0664363,
+            14.58547638
+        ]
+    }
+},
+{
+    "tweet": "Huntsman (@ Cheri Theatre in Murray, KY) https://t.co/dZgIicWrzc",
+    "user_name": "\u2022Charlie K\u2022",
+    "user_id": 18140778,
+    "user_location": "Murray, Kentucky",
+    "address": "Kentucky, United States of America",
+    "tweet_id": "728729986438447105",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -88.31323187,
+            36.61774359
+        ]
+    },
+    "state": "Kentucky"
+},
+{
+    "tweet": "I'm at Cinemark for The Huntsman: Winter's War in Curitiba, PR https://t.co/cIe79Q0VBP",
+    "user_name": "JF",
+    "user_id": 23076306,
+    "user_location": "Curitiba, Brazil",
+    "address": "PR, Brasil",
+    "tweet_id": "728733000184307712",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -49.31638241,
+            -25.43552376
+        ]
+    },
+    "state": "PR"
+},
+{
+    "tweet": "Decent straight out the can. - Drinking  The Huntsman Red Ale by @BarleyMowBrew @ Riggs Brewing  \u2014 https://t.co/N8jP2tkThu",
+    "user_name": "Matthew Riggs",
+    "user_id": 144607760,
+    "user_location": "Florida",
+    "address": "Florida, United States of America",
+    "tweet_id": "728747979687997441",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -86.5855,
+            30.8108
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (with Dewinna at TGV Cinemas Suria KLCC) \u2014 https://t.co/O5Lxbpivsv",
+    "user_name": "Oshi | \u062a\u0627\u0646\u064a \u064a\u0648\u0631\u0648\u0634\u064a",
+    "user_id": 116420334,
+    "user_location": "Kuala Lumpur, Malaysia",
+    "tweet_id": "728785015836794880",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.71234,
+            3.15851
+        ]
+    }
+},
+{
+    "tweet": "\ud83c\udfac \u2605 Snow White and the Huntsman (with \ud83d\udc67 at Keyyo Room) \u2014 https://t.co/zYRzMjJUJC",
+    "user_name": "Key",
+    "user_id": 1079101651,
+    "user_location": null,
+    "tweet_id": "728791363194478592",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.86588,
+            -6.27497
+        ]
+    }
+},
+{
+    "tweet": "El casador!!! (at @Cinemex for The Huntsman: Winter's War in Villahermosa, TAB) https://t.co/J9FmktHIb3",
+    "user_name": "iJohan A. M\u00e1rquez",
+    "user_id": 108816611,
+    "user_location": null,
+    "tweet_id": "728799704541171714",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -92.94017315,
+            17.96675207
+        ]
+    }
+},
+{
+    "tweet": "Huntsman Winters War with \u2764\ufe0f (@ Golden Screen Cinemas (GSC) - @gscinemas in Seremban) https://t.co/HhpGY9CwK1",
+    "user_name": "ANIS ",
+    "user_id": 1032368773,
+    "user_location": null,
+    "tweet_id": "728838451211214848",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.921947,
+            2.71967148
+        ]
+    }
+},
+{
+    "tweet": "Now i feel like a huntsman \ud83d\udcaa\ud83d\udcaa\n\n#blogbearyblossom #lifestyleblogger #shorttrip #sportarchery\u2026 https://t.co/ZPwLNodQwO",
+    "user_name": "emilicious",
+    "user_id": 235998305,
+    "user_location": null,
+    "tweet_id": "728864416423395328",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.89468402,
+            3.5666969
+        ]
+    }
+},
+{
+    "tweet": "Huntsman? No. Hunts you hehe (@ Golden Screen Cinemas (GSC) in Kuala Lumpur w/ @amalinanorizan_) https://t.co/P8t4jMYgJb",
+    "user_name": "Hyzo\u2122",
+    "user_id": 519526921,
+    "user_location": null,
+    "tweet_id": "728877496062578688",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.70036078,
+            3.15964014
+        ]
+    }
+},
+{
+    "tweet": "Huntsman with the fam (at @MBOCinemas in Kuching, Sarawak) https://t.co/E6OhDGWKNq",
+    "user_name": "Amethyst",
+    "user_id": 2338158528,
+    "user_location": "Kuching, Sarawak",
+    "tweet_id": "728951245256404992",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            110.35776398,
+            1.53570368
+        ]
+    }
+},
+{
+    "tweet": "I'm at Cinemark for The Huntsman: Winter's War in Bras\u00edlia, DF https://t.co/MrndPrZi5I",
+    "user_name": "Erick com CK",
+    "user_id": 33648758,
+    "user_location": "Bras\u00edlia, Brasil",
+    "address": "DF, Brasil",
+    "tweet_id": "728993001977057280",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -47.87471652,
+            -15.81796871
+        ]
+    },
+    "state": "DF"
+},
+{
+    "tweet": "I'm at @Kinoplex for The Huntsman: Winter's War in Bras\u00edlia, DF https://t.co/KfC0PTqPMO",
+    "user_name": "Pejoz\u00earo\u2122",
+    "user_id": 93411164,
+    "user_location": "Bras\u00edlia, Brazil",
+    "address": "DF, Brasil",
+    "tweet_id": "729004157466775552",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -47.891998,
+            -15.795472
+        ]
+    },
+    "state": "DF"
+},
+{
+    "tweet": "I'm at @CinemarkBh for The Huntsman: Winter's War 3D in Belo Horizonte, MG https://t.co/LWz3GY77sP",
+    "user_name": "M\u00e1rcio Melo",
+    "user_id": 394140321,
+    "user_location": "Campinas, S\u00e3o Paulo",
+    "address": "MG, Brasil",
+    "tweet_id": "729007887075397632",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -43.94406796,
+            -19.97409496
+        ]
+    },
+    "state": "MG"
+},
+{
+    "tweet": "I'm at Cinemark Tinseltown USA for The Huntsman: Winter's War in Grapevine, TX https://t.co/GmnukfeiM7",
+    "user_name": "erin",
+    "user_id": 428338162,
+    "user_location": "Texas",
+    "tweet_id": "729010473144860673",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -97.085495,
+            32.91978165
+        ]
+    }
+},
+{
+    "tweet": "I'm at Cinemark for The Huntsman: Winter's War 3D in Salvador, BA https://t.co/jxg6Xe6V8K",
+    "user_name": "RENATA (TIM BETA)",
+    "user_id": 164481328,
+    "user_location": "SALVADOR",
+    "address": "BA, Brasil",
+    "tweet_id": "729032790365360128",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -38.45503045,
+            -12.97834735
+        ]
+    },
+    "state": "BA"
+},
+{
+    "tweet": "I'm at Regal Cinemas Hollywood 20 - Naples - @regalmovies for The Huntsman: Winter's War https://t.co/mI6LCTPhvV https://t.co/fyGYN46Xdb",
+    "user_name": "Jordan Owens",
+    "user_id": 37986852,
+    "user_location": null,
+    "address": "Florida, United States of America",
+    "tweet_id": "729040259028242432",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -81.77185392,
+            26.21705499
+        ]
+    },
+    "state": "Florida"
+},
+{
+    "tweet": "Bea, Alice, David, Lucas e @_monikitas2 (@ PlayArte Multiplex - @grupoplayarte for The Huntsman: Winter's War) https://t.co/VGMDSKC2d2",
+    "user_name": "\u274c",
+    "user_id": 1029538964,
+    "user_location": null,
+    "address": "AM, Brasil",
+    "tweet_id": "729069150295961600",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -60.01225948,
+            -3.10379225
+        ]
+    },
+    "state": "AM"
+},
+{
+    "tweet": "Hope you enjoyed our HUNTSMAN performance last night and thanks everyone for partying with us,\u2026 https://t.co/wnCsHBczVa",
+    "user_name": "Captivating Katkat",
+    "user_id": 143169217,
+    "user_location": "Quezon City, Philippines",
+    "tweet_id": "729072062938021889",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.0664363,
+            14.58547638
+        ]
+    }
+},
+{
+    "tweet": "I'm at Cin\u00e9polis - @cinepolisbrasil for The Huntsman: Winter's War 3D in Caxias do Sul, RS https://t.co/REREGaxYXm",
+    "user_name": "Ja\u00edne Webber",
+    "user_id": 172101189,
+    "user_location": "Bom Princ\u00edpio, Brasil",
+    "address": "RS, Brasil",
+    "tweet_id": "729072071033106433",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -51.19139671,
+            -29.17123643
+        ]
+    },
+    "state": "RS"
+},
+{
+    "tweet": "I'm at Carmike Lakeview Square Cinemas for The Huntsman: Winter's War in Battle Creek, MI https://t.co/ueKbji6nh8",
+    "user_name": "Leslie Ockerman",
+    "user_id": 107170588,
+    "user_location": "\u00dcT: 42.31126,-85.205568",
+    "address": "Michigan, United States of America",
+    "tweet_id": "729079632050434049",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -85.18547011,
+            42.26263681
+        ]
+    },
+    "state": "Michigan"
+},
+{
+    "tweet": "Drinking  The Huntsman Red Ale by @BarleyMowBrew @ Pareidolia Brewing Company \u2014 https://t.co/4kBfc0LZcU",
+    "user_name": "The Super Russell",
+    "user_id": 26255362,
+    "user_location": "Micco, Florida",
+    "address": "Florida, United States of America",
+    "tweet_id": "729088974334136320",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -80.4648,
+            27.8076
+        ]
+    },
+    "state": "Florida"
+},
+{
+    "tweet": "I'm at @Kinoplex for The Huntsman: Winter's War in Bras\u00edlia, DF https://t.co/EdopmzWhU9",
+    "user_name": "sr monanges",
+    "user_id": 88477696,
+    "user_location": "monangestown",
+    "address": "DF, Brasil",
+    "tweet_id": "729090010998288384",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -47.891998,
+            -15.795472
+        ]
+    }
+},
+{
+    "tweet": "I'm at @Moviecom for The Huntsman: Winter's War in Natal, RN https://t.co/RFPAt9Y1Un",
+    "user_name": "Ralyson Soares \u30c4",
+    "user_id": 56760258,
+    "user_location": "Natal - RN - Brasil",
+    "address": "RN, Brasil",
+    "tweet_id": "729106689820086272",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -35.18562555,
+            -5.866016
+        ]
+    },
+    "state": "RN"
+},
+{
+    "tweet": "Huntsman (@ Theatres at @MallofAmerica for The Huntsman: Winter's War in Bloomington, MN w/ @tyenelsen) https://t.co/gG1MYGeWrF",
+    "user_name": "Alan Stump",
+    "user_id": 529556135,
+    "user_location": "Minneapolis, MN",
+    "tweet_id": "729106821814816769",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -93.24209332,
+            44.85345782
+        ]
+    }
+},
+{
+    "tweet": "I'm at @Kinoplex for The Huntsman: Winter's War in Bras\u00edlia, DF w/ @2015mariaxavier https://t.co/gGw3vNDRtJ",
+    "user_name": "Vic",
+    "user_id": 432424501,
+    "user_location": null,
+    "address": "DF, Brasil",
+    "tweet_id": "729108436139577344",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -47.955543,
+            -15.832705
+        ]
+    },
+    "state": "DF"
+},
+{
+    "tweet": "Me and my sister at the movies watching huntsman kimberly_gotthejuice_  #family #life #love\u2026 https://t.co/tFCpsITPT0",
+    "user_name": "Josmanuel Aybar",
+    "user_id": 2237565400,
+    "user_location": "Washington Heights, NY, USA",
+    "address": "New York, United States of America",
+    "tweet_id": "729110510638145538",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.976644,
+            40.7431211
+        ]
+    },
+    "state": "New York"
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at Rumah Abie Pojok Garum) \u2014 https://t.co/7a6IPeDfPo",
+    "user_name": "Achmad Febria Habibi",
+    "user_id": 67259699,
+    "user_location": "Surabaya - Blitar, Indonesia",
+    "tweet_id": "729119387857227776",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            112.20062,
+            -8.0761
+        ]
+    }
+},
+{
+    "tweet": "Drinking  The Huntsman Red Ale by @BarleyMowBrew @ Pareidolia Brewing Company \u2014 https://t.co/DxG9bobm2x",
+    "user_name": "The Super Russell",
+    "user_id": 26255362,
+    "user_location": "Micco, Florida",
+    "address": "Florida, United States of America",
+    "tweet_id": "729138146315800576",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -80.4648,
+            27.8076
+        ]
+    },
+    "state": "Florida"
+},
+{
+    "tweet": "The Huntsman (@ KFC in Springwood, QLD) https://t.co/GjOm7DGr4g",
+    "user_name": "Anthony Webb",
+    "user_id": 20757984,
+    "user_location": "Brisbane",
+    "tweet_id": "729142862940676096",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            153.12784642,
+            -27.62164929
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at Y' Home) \u2014 https://t.co/j2AdsIsKqx",
+    "user_name": "Y U D A",
+    "user_id": 81067970,
+    "user_location": "Bogor, west java",
+    "tweet_id": "729154058057961473",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            119.45566,
+            -5.14023
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (with Lutfi at Taman mutiara cimahi) \u2014 https://t.co/WXber7UyVf",
+    "user_name": "VIA",
+    "user_id": 96065481,
+    "user_location": "Bandung",
+    "tweet_id": "729155185734344704",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            107.54883,
+            -6.88059
+        ]
+    }
+},
+{
+    "tweet": "Movie marathon (1) \u2605 The Huntsman: Winter's War (with Anindyadevi at condongcatur) \u2014 https://t.co/D15As5YgbG",
+    "user_name": "Brahmantari Arindita",
+    "user_id": 125907211,
+    "user_location": "N-8",
+    "tweet_id": "729165738271854593",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            110.40234,
+            -7.75416
+        ]
+    }
+},
+{
+    "tweet": "Cool (@ Santa Fe Station Century 16 Theaters - @stationcasinos for The Huntsman: Winter's War in Las Vegas, NV) https://t.co/PSGFB7Iwmm",
+    "user_name": "Bobby E Paul Jr.",
+    "user_id": 1138519298,
+    "user_location": null,
+    "tweet_id": "729179529269391361",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.24533749,
+            36.24859949
+        ]
+    }
+},
+{
+    "tweet": "Does the kingsman worth dying for? @ Huntsman https://t.co/CiCqNtHrrn",
+    "user_name": "Kent Lee",
+    "user_id": 80855949,
+    "user_location": "Kuala Lumpur",
+    "address": "England, UK",
+    "tweet_id": "729222985777811456",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.1402089,
+            51.5109103
+        ]
+    }
+},
+{
+    "tweet": "Huntsman! (@ Cathay Cineplex in Singapore) https://t.co/pgqF9QRhX6",
+    "user_name": "\u0e0b\u0e35\u0e2d\u0e32\u0e19\u0e2e\u0e38\u0e22 \u2603",
+    "user_id": 210739709,
+    "user_location": "East Region, Singapore",
+    "tweet_id": "729297635811659777",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            103.74355316,
+            1.33353828
+        ]
+    }
+},
+{
+    "tweet": "The Huntsman (@ Golden Screen Cinemas (GSC) - @gscinemas in Putrajaya) https://t.co/cMPE2D88Dm",
+    "user_name": "Bruce Wayne",
+    "user_id": 50549878,
+    "user_location": null,
+    "tweet_id": "729310875673366528",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.7131428,
+            2.97002558
+        ]
+    },
+    "state": "England"
+},
+{
+    "tweet": "\ud83c\udfa5\ud83c\udfa5\ud83c\udfa5 \u2605 The Huntsman: Winter's War (at Kost 145) \u2014 https://t.co/gR0uM7kzBC",
+    "user_name": "Nikenshi Ganggut",
+    "user_id": 626384688,
+    "user_location": "Jakarta",
+    "tweet_id": "729342565888098304",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.78367,
+            -6.18189
+        ]
+    }
+},
+{
+    "tweet": "Not a huntsman. @gabefelicetti @ Burlingame State Park https://t.co/m859cyhaLg",
+    "user_name": "Dfel25",
+    "user_id": 3225669874,
+    "user_location": "United States",
+    "address": "Rhode Island, United States of America",
+    "tweet_id": "729355374315200512",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -71.7012809,
+            41.3615717
+        ]
+    },
+    "state": "Rhode Island"
+},
+{
+    "tweet": "Huntsman. nathaniel.felicetti @ Burlingame State Park https://t.co/6kY1tuFU8P",
+    "user_name": "Dfel25",
+    "user_id": 3225669874,
+    "user_location": "United States",
+    "address": "Rhode Island, United States of America",
+    "tweet_id": "729355548789854212",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -71.7012809,
+            41.3615717
+        ]
+    },
+    "state": "Rhode Island"
+},
+{
+    "tweet": "The Huntsman: Winter's War (VF 2D) (@ Path\u00e9 Paris in Nice, PACA) https://t.co/uoRwfIAc2C",
+    "user_name": "Christophe Dondon",
+    "user_id": 19871005,
+    "user_location": "Nice, France",
+    "address": "Provence-Alpes-C\u00f4te d'Azur, France",
+    "tweet_id": "729370389101592577",
+    "country": "France",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.26608276,
+            43.7040103
+        ]
+    },
+    "state": "Provence-Alpes-C\u00f4te d'Azur"
+},
+{
+    "tweet": "First time here...this theater is so nice! Watching The Huntsman: Winters War https://t.co/AhyiDOwfWg https://t.co/bnlX4bqAlD",
+    "user_name": "Jen",
+    "user_id": 28535149,
+    "user_location": "29.786106,-94.876684",
+    "tweet_id": "729381659301294087",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -94.90068,
+            29.81819
+        ]
+    }
+},
+{
+    "tweet": "I'm at Regal Cinemas Park Place 16 &amp; RPX - @regalmovies for The Huntsman: Winter's War in Pinellas Park, FL https://t.co/Yaxi6dvCDw",
+    "user_name": "shane byler",
+    "user_id": 27475067,
+    "user_location": "St Petersburg, FL",
+    "address": "Florida, United States of America",
+    "tweet_id": "729402448935268352",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -82.68587764,
+            27.83667608
+        ]
+    }
+},
+{
+    "tweet": "Drinking  The Huntsman Red Ale by @BarleyMowBrew @ Pareidolia Brewing Company \u2014 https://t.co/XmjlGRnFq5",
+    "user_name": "The Super Russell",
+    "user_id": 26255362,
+    "user_location": "Micco, Florida",
+    "address": "Florida, United States of America",
+    "tweet_id": "729412507337674752",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -80.4648,
+            27.8076
+        ]
+    },
+    "state": "Florida"
+},
+{
+    "tweet": "I'm at Cinemark for The Huntsman: Winter's War in Guarulhos, SP https://t.co/sFOKahYrcV",
+    "user_name": "Paulo",
+    "user_id": 56240920,
+    "user_location": "Guarulhos, Brasil",
+    "address": "SP, Brasil",
+    "tweet_id": "729416005882097664",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -46.5489121,
+            -23.48920516
+        ]
+    },
+    "state": "SP"
+},
+{
+    "tweet": "I'm at Arcoplex Aldeota - @arcoiriscinema for The Huntsman: Winter's War in Fortaleza, CE https://t.co/BIwcvnNJ8o",
+    "user_name": "Ofir de Andrade",
+    "user_id": 206217795,
+    "user_location": "Fortaleza",
+    "address": "CE, Brasil",
+    "tweet_id": "729443566716620800",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -38.49709421,
+            -3.73420717
+        ]
+    },
+    "state": "CE"
+},
+{
+    "tweet": "I'm at Cin\u00e9polis for The Huntsman: Winter's War 3D in Aguascalientes https://t.co/ysvYmRq02P",
+    "user_name": "Daniel Macias",
+    "user_id": 231528271,
+    "user_location": "Aguascalientes",
+    "tweet_id": "729448574245867520",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -102.26212673,
+            21.88056232
+        ]
+    }
+},
+{
+    "tweet": "I'm at Cin\u00e9polis for The Huntsman: Winter's War in Celaya, Gto., GTO https://t.co/UZvqlFAT8A",
+    "user_name": "Pamela Romero",
+    "user_id": 224480066,
+    "user_location": "Mexico",
+    "tweet_id": "729481040671219715",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -100.77969786,
+            20.5312464
+        ]
+    }
+},
+{
+    "tweet": "\ud83c\udfac (@ AMC Loews Foothills 15 - @amctheatres for The Huntsman: Winter's War in Tucson, AZ) https://t.co/BfwVwI8uI0",
+    "user_name": "Music Is Life \u2764",
+    "user_id": 113822956,
+    "user_location": "Tucson, AZ ",
+    "tweet_id": "729493611205758979",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -111.0151433,
+            32.34146566
+        ]
+    }
+},
+{
+    "tweet": "About to do the Mother's Day Movie thing. The Huntsman: Winter's War, not my choice, but I don't often turn... https://t.co/OhNXSwg4cp",
+    "user_name": "Richard Porter",
+    "user_id": 90806043,
+    "user_location": "Fort Worth, Tx",
+    "tweet_id": "729508138706214912",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -97.17116845,
+            32.75703929
+        ]
+    }
+},
+{
+    "tweet": "\ud83c\udf7f\ud83c\udf7b \u2605 Snow White and the Huntsman (Extended Version) (with Riskanrhlz at Home Riska) \u2014 https://t.co/I7eOo0GWLa",
+    "user_name": "nicklong",
+    "user_id": 712085588,
+    "user_location": null,
+    "tweet_id": "729512565642960897",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.84694,
+            -6.18395
+        ]
+    }
+},
+{
+    "tweet": "The huntsman (@ AMC Newpark 12 for The Huntsman: Winter's War in Newark, CA) https://t.co/cOsbs9pybV",
+    "user_name": "Bikash Chatterjee",
+    "user_id": 77317102,
+    "user_location": "Fremont, California",
+    "tweet_id": "729538990886535168",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.0015,
+            37.52733
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at President University Dormitory) \u2014 https://t.co/4LDuqyVp1b",
+    "user_name": "Selya Elinta Tarigan",
+    "user_id": 585310417,
+    "user_location": "Indonesia",
+    "tweet_id": "729542913500139520",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            107.17006,
+            -6.28261
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at @priandha_oke) \u2014 https://t.co/7USMFozsKF",
+    "user_name": "Priandha Oke F",
+    "user_id": 65830183,
+    "user_location": "Blitar, Indonesia",
+    "tweet_id": "729544263860543489",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            112.1576,
+            -8.11277
+        ]
+    }
+},
+{
+    "tweet": "Huntsman! Movie alone \ud83d\udc4d\ud83c\udffb\ud83d\ude0d (at @CathayCineplex in Singapore) https://t.co/ugJIGBOHqC",
+    "user_name": "Jasmine",
+    "user_id": 172346721,
+    "user_location": "Singapore",
+    "tweet_id": "729554350406807552",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            103.74355316,
+            1.33353828
+        ]
+    }
+},
+{
+    "tweet": "The Huntsman: Winters war (@ Golden Screen Cinemas (GSC) in Kuala Lumpur) https://t.co/fYoLxYFpSc",
+    "user_name": "Jia",
+    "user_id": 1422377689,
+    "user_location": null,
+    "tweet_id": "729599151676248064",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.70036078,
+            3.15964014
+        ]
+    }
+},
+{
+    "tweet": "AT LAST \ud83d\ude2d huntsman \ud83d\ude09 (@ Golden Screen Cinemas (GSC) in Kuala Lumpur w/ @pipicomell) https://t.co/rSTyV3OEtS",
+    "user_name": "Tinkerbay",
+    "user_id": 883798184,
+    "user_location": null,
+    "tweet_id": "729599567411433473",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.70036078,
+            3.15964014
+        ]
+    }
+},
+{
+    "tweet": "I'm at @Moviecom for The Huntsman: Winter's War in Marab\u00e1, PA w/ @thecianealyne @anny_pattz @cliudy https://t.co/45VqkYOpLu",
+    "user_name": "edersousabgd",
+    "user_id": 1546789549,
+    "user_location": null,
+    "address": "PA, Brasil",
+    "tweet_id": "729687934379687937",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -49.08623897,
+            -5.35644247
+        ]
+    },
+    "state": "PA"
+},
+{
+    "tweet": "Movie Time...wat pengantar tidur...\ud83d\ude00\ud83d\ude00\ud83d\ude00 \u2605 The Huntsman: Winter's War (at My Home) \u2014 https://t.co/gEKmU0xAgI",
+    "user_name": "C~Ferry~N",
+    "user_id": 356506220,
+    "user_location": "The City Of LM09",
+    "tweet_id": "729697274922565636",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            117.15644,
+            -0.48767
+        ]
+    }
+},
+{
+    "tweet": "La leyenda del cazador, vista. Cap you're next. (@ Cines ABC for The Huntsman: Winter's War in Xirivella, Valencia) https://t.co/ErtR8iRDfz",
+    "user_name": "Danilovick",
+    "user_id": 146664987,
+    "user_location": "Traben-Trarbach",
+    "address": "Comunitat Valenciana, Espa\u00f1a",
+    "tweet_id": "730065191556272131",
+    "country": "Espa\u00f1a",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.41410355,
+            39.46522705
+        ]
+    },
+    "state": "Comunitat Valenciana"
+},
+{
+    "tweet": "I'm at Cin\u00e9polis - @cinepolis for The Huntsman: Winter's War in Villahermosa, Tab., Villahermosa https://t.co/MBAjOFSGd6",
+    "user_name": "Isis Le\u00f3n",
+    "user_id": 95669270,
+    "user_location": null,
+    "tweet_id": "730091515310182400",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -92.91957378,
+            18.01497739
+        ]
+    }
+},
+{
+    "tweet": "I'm at Cine Ritz Sul for The Huntsman: Winter's War https://t.co/4vaXZ7E8Ch",
+    "user_name": "Gustavo Viza \u2693",
+    "user_id": 272053265,
+    "user_location": "Esp\u00edrito Santo, Brazil",
+    "address": "ES, Brasil",
+    "tweet_id": "730129997566980096",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -41.15080497,
+            -20.85646772
+        ]
+    },
+    "state": "ES"
+},
+{
+    "tweet": "I'm at Century 16 and Imax Theaters - @cinemark for The Huntsman: Winter's War in Corpus Christi, TX https://t.co/G2FiaxWVfy",
+    "user_name": "Victoria",
+    "user_id": 548019007,
+    "user_location": "Corpus Christi,TEXAS",
+    "tweet_id": "730144025521618948",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -97.35256791,
+            27.69708946
+        ]
+    }
+},
+{
+    "tweet": "Drinking a By George by @ossettbrewery @ The Huntsman \u2014 https://t.co/0Iy8pR7H2z",
+    "user_name": "Ian Moody",
+    "user_id": 106226265,
+    "user_location": "Yorkshire",
+    "address": "England, UK",
+    "tweet_id": "730163192995909632",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -1.65202,
+            53.5275
+        ]
+    },
+    "state": "England"
+},
+{
+    "tweet": "Drinking a Secret by @smallworldbeers @ The Huntsman \u2014 https://t.co/wS5wULB25u",
+    "user_name": "Ian Moody",
+    "user_id": 106226265,
+    "user_location": "Yorkshire",
+    "address": "England, UK",
+    "tweet_id": "730163502510411776",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -1.65202,
+            53.5275
+        ]
+    },
+    "state": "England"
+},
+{
+    "tweet": "Drinking a No. 216 Saint Clements by @TomWoodsBeer @ The Huntsman \u2014 https://t.co/FavJ2tMheK",
+    "user_name": "Ian Moody",
+    "user_id": 106226265,
+    "user_location": "Yorkshire",
+    "address": "England, UK",
+    "tweet_id": "730164629968695297",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -1.65202,
+            53.5275
+        ]
+    },
+    "state": "England"
+},
+{
+    "tweet": "I'm at Cinemark for The Huntsman: Winter's War 3D in Campinas, SP https://t.co/gAPHKxQahH",
+    "user_name": "Michelle Paterno.",
+    "user_id": 59895055,
+    "user_location": null,
+    "address": "SP, Brasil",
+    "tweet_id": "730166897765928960",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -47.02735841,
+            -22.89237571
+        ]
+    },
+    "state": "New York"
+},
+{
+    "tweet": "I'm at Moviecom Cinemas for The Huntsman: Winter's War in Macap\u00e1, AP w/ @__khaleeesi @ysagnclvs @xdarkholme https://t.co/BvRqRZzGqR",
+    "user_name": "The Magnificent",
+    "user_id": 390273270,
+    "user_location": "Mcp City",
+    "address": "AP, Brasil",
+    "tweet_id": "730194484147982336",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -51.06357664,
+            0.03110187
+        ]
+    },
+    "state": "AP"
+},
+{
+    "tweet": "The Huntsman (@ Cinemark in Curridabat, Costa Rica) https://t.co/Nk4gXZLlGZ",
+    "user_name": "Monica Mora Mata",
+    "user_id": 363986602,
+    "user_location": "San Jose, Costa Rica",
+    "address": "Provincia San Jos\u00e9, Costa Rica",
+    "tweet_id": "730197058917912577",
+    "country": "Costa Rica",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -84.046163,
+            9.917058
+        ]
+    },
+    "state": "Provincia San Jos\u00e9"
+},
+{
+    "tweet": "Dtime. (at @Cinemark Artegon Marketplace for The Huntsman: Winter's War in Orlando, FL) https://t.co/IsyejDAgzi",
+    "user_name": "Angelos\u00e9",
+    "user_id": 118059160,
+    "user_location": "Orlando, FL",
+    "address": "Florida, United States of America",
+    "tweet_id": "730207467813081088",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -81.44705603,
+            28.47015304
+        ]
+    },
+    "state": "Florida"
+},
+{
+    "tweet": "The Huntsman: Winters War - 2nd time (@ Golden Screen Cinemas (GSC) in Kuala Lumpur) https://t.co/44kIFcaEDy",
+    "user_name": "Jia",
+    "user_id": 1422377689,
+    "user_location": null,
+    "tweet_id": "730332255953014784",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.70036078,
+            3.15964014
+        ]
+    }
+},
+{
+    "tweet": "Yeheeeee \ud83d\ude4c \u2605 The Huntsman: Winter's War (at Primagama Training Center) \u2014 https://t.co/3qjVvn5reH",
+    "user_name": "Nirdha Apriliani",
+    "user_id": 1458635178,
+    "user_location": "west borneo",
+    "tweet_id": "730335050005241856",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            109.31368,
+            -0.01765
+        ]
+    }
+},
+{
+    "tweet": "#LaFiestaDelCine \ud83d\ude46\ud83d\ude46 (at @Cinesa for The Huntsman: Winter's War) https://t.co/5dH6e61nVH",
+    "user_name": "laura",
+    "user_id": 14964269,
+    "user_location": "Spain",
+    "address": "Comunitat Valenciana, Espa\u00f1a",
+    "tweet_id": "730393602501844992",
+    "country": "Espa\u00f1a",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.06443739,
+            39.97988247
+        ]
+    },
+    "state": "Comunitat Valenciana"
+},
+{
+    "tweet": "\ud83d\udc78\ud83c\udf4e \u2605 Snow White and the Huntsman (at Patricia's room) \u2014 https://t.co/ICwrnIjjEm",
+    "user_name": "Patricia \ub808\ub098\ud0c0 \uc6c0\ubc27",
+    "user_id": 38194288,
+    "user_location": null,
+    "tweet_id": "730431702770671616",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.78926,
+            -6.1745
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at Grand City XXI) \u2014 https://t.co/Mkc26OeOzM",
+    "user_name": "Shella Pharamitha",
+    "user_id": 325467548,
+    "user_location": "Surabaya, Indonesia",
+    "tweet_id": "730431823071707140",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            112.76132,
+            -7.28974
+        ]
+    }
+},
+{
+    "tweet": "Interviewed for an upcoming feature about #CecilBeaton at #Huntsman (Repost inhae.yeo) ~ it was\u2026 https://t.co/A2HCgNiViO",
+    "user_name": "Dr Benjamin Wild",
+    "user_id": 281476444,
+    "user_location": null,
+    "address": "England, UK",
+    "tweet_id": "730476722483646465",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.13875941,
+            51.51072281
+        ]
+    },
+    "state": "England"
+},
+{
+    "tweet": "I'm at Moviecom Cinemas for The Huntsman: Winter's War in Macap\u00e1, AP w/ @kdeniur https://t.co/4fBs4LUgDn",
+    "user_name": "Karen  \uf8ff",
+    "user_id": 389267096,
+    "user_location": "Macap\u00e1, Amap\u00e1",
+    "address": "AP, Brasil",
+    "tweet_id": "730517891901235201",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -51.06357664,
+            0.03110187
+        ]
+    },
+    "state": "AP"
+},
+{
+    "tweet": "I'm at Huntsman ITSSC https://t.co/97ell68WAv",
+    "user_name": "Giovanny",
+    "user_id": 57809415,
+    "user_location": "Malaysia",
+    "tweet_id": "730552377992982529",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.60990869,
+            3.06977735
+        ]
+    }
+},
+{
+    "tweet": "Watching Huntsman (@ Regal Cinemas St. Louis 18 &amp; IMAX - @regalmovies for The Huntsman: Winter's War) https://t.co/GWHfgrI6ra",
+    "user_name": "Barbado Rey De Ebano",
+    "user_id": 158111526,
+    "user_location": "St. Louis, MO USA",
+    "tweet_id": "730561263407931392",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -90.41307044,
+            38.79026902
+        ]
+    }
+},
+{
+    "tweet": "I'm at Shopping Ponta Negra - @spontanegra for The Huntsman: Winter's War in Manaus, AM w/ @dddnegreiros https://t.co/dS8MnlqBY8",
+    "user_name": "Victor Nery",
+    "user_id": 41832555,
+    "user_location": "Manaus, Amazonas, Brasil",
+    "address": "AM, Brasil",
+    "tweet_id": "730570952828985344",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -60.07265431,
+            -3.08491531
+        ]
+    },
+    "state": "AM"
+},
+{
+    "tweet": "I'm at Cin\u00e9polis - @cinepolisbrasil for The Huntsman: Winter's War 3D in Natal, RN w/ @emanuellcnb https://t.co/yHHYhQKy3V",
+    "user_name": "J\u00fanior Medeiros",
+    "user_id": 160062072,
+    "user_location": "Natal-RN / Brasil",
+    "address": "RN, Brasil",
+    "tweet_id": "730597767538720768",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -35.21122187,
+            -5.84218019
+        ]
+    },
+    "state": "RN"
+},
+{
+    "tweet": "\ud83d\udc70\ud83c\udff0 \u2605 The Huntsman: Winter's War (with Dita, azizah, and 3 others at D.01.102) \u2014 https://t.co/CRvIbbsdQY",
+    "user_name": "\u2655RISKY MELASARI\u00b7\u032e\u00b7\u032e",
+    "user_id": 604326118,
+    "user_location": "EVERYWHERE I WALK IN",
+    "tweet_id": "730667787245342720",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            110.38653,
+            -7.77441
+        ]
+    }
+},
+{
+    "tweet": "Watching movie \u2605 The Huntsman: Winter's War (with M. at Cluster Pesona Florence) \u2014 https://t.co/TxtrkfXhxN",
+    "user_name": "\u30a2\u30fc\u30c8\u30d5\u30a1\u30c3\u30b7",
+    "user_id": 185138550,
+    "user_location": "FLORENCE",
+    "tweet_id": "730759113089552384",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.95539,
+            -6.37316
+        ]
+    }
+},
+{
+    "tweet": "I'm at Century 12 Evanston/Cin\u00e9Arts 6 and XD - @cinemark for The Huntsman: Winter's War in Evanston, IL https://t.co/ybHbT1Sb19",
+    "user_name": "Noel Harari",
+    "user_id": 35785552,
+    "user_location": "Chicago",
+    "address": "Illinois, United States of America",
+    "tweet_id": "730797251749138436",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -87.6847293,
+            42.04895655
+        ]
+    },
+    "state": "Illinois"
+},
+{
+    "tweet": "Part 2 \u2605 The Huntsman: Winter's War (at Victoria) \u2014 https://t.co/hN7AzT2eOw",
+    "user_name": "Cindy Dwitanti",
+    "user_id": 449359885,
+    "user_location": "Karawang, Jawa Barat",
+    "tweet_id": "730810230003531776",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            107.63322,
+            -6.97682
+        ]
+    }
+},
+{
+    "tweet": "The huntsman: winter's war (@ Grand Cinemas - @gc_kuwait in Kuwait City) https://t.co/zswiN0TDA2",
+    "user_name": "27-5?almsh3al",
+    "user_id": 2443956976,
+    "user_location": "\u0631\u0627\u0634\u062f\u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646 \u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632 \u0627\u0644\u0645\u0627\u062c\u062f",
+    "address": "\u0627\u0644\u0639\u0627\u0635\u0645\u0629, \u200f\u0627\u0644\u0643\u0648\u064a\u062a\u200e",
+    "tweet_id": "730824470605275140",
+    "country": "\u200f\u0627\u0644\u0643\u0648\u064a\u062a\u200e",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.99279689,
+            29.37830093
+        ]
+    },
+    "state": "\u0627\u0644\u0639\u0627\u0635\u0645\u0629"
+},
+{
+    "tweet": "The huntsman: winter's war (@ Grand Cinemas - @gc_kuwait in Kuwait City) https://t.co/hHoaJXu8ir",
+    "user_name": "27-5?almsh3al",
+    "user_id": 2443956976,
+    "user_location": "\u0631\u0627\u0634\u062f\u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646 \u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632 \u0627\u0644\u0645\u0627\u062c\u062f",
+    "address": "\u0627\u0644\u0639\u0627\u0635\u0645\u0629, \u200f\u0627\u0644\u0643\u0648\u064a\u062a\u200e",
+    "tweet_id": "730825090632437765",
+    "country": "\u200f\u0627\u0644\u0643\u0648\u064a\u062a\u200e",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.99279689,
+            29.37830093
+        ]
+    },
+    "state": "\u0627\u0644\u0639\u0627\u0635\u0645\u0629"
+},
+{
+    "tweet": "I'm at Regal Cinemas Waterford Lakes 20 IMAX - @regalmovies for The Huntsman: Winter's War in Orlando, FL https://t.co/BLv08xZpCR",
+    "user_name": "Simone Furtado",
+    "user_id": 48184502,
+    "user_location": "Orlando",
+    "address": "Florida, United States of America",
+    "tweet_id": "730834896780984320",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -81.20062092,
+            28.55594022
+        ]
+    },
+    "state": "Florida"
+},
+{
+    "tweet": "\ud83d\ude47\ud83c\udffb \u2605 The Huntsman: Winter's War (with RandyTanjung at Grand Palm Residence\ud83c\udf34) \u2014 https://t.co/MDyReP2N6p",
+    "user_name": "Abdul Gafur",
+    "user_id": 128794058,
+    "user_location": "Pekanbaru - Balikpapan",
+    "tweet_id": "730847971810512896",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.41984,
+            0.49735
+        ]
+    }
+},
+{
+    "tweet": "\ud83d\udc34\ud83d\udc34\ud83d\udc34 \u2605 The Huntsman: Winter's War (with sherly at Sherly's) \u2014 https://t.co/WwNEa8K8iq",
+    "user_name": "Irene Indah ss",
+    "user_id": 252974900,
+    "user_location": "Cek fav @ireneolshop ;)",
+    "tweet_id": "731029597446279168",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            107.75986,
+            -6.97014
+        ]
+    }
+},
+{
+    "tweet": "The Huntsman: Winter's War (at @Cinemaximum in Konya w/ @kocak_handan) https://t.co/dGC1MZPPrk",
+    "user_name": "Merve Ko\u00e7",
+    "user_id": 356892517,
+    "user_location": "\u0130stanbul, Konya ",
+    "address": "Konya, T\u00fcrkiye",
+    "tweet_id": "731076657595985920",
+    "country": "T\u00fcrkiye",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.49513412,
+            37.90612362
+        ]
+    },
+    "state": "Konya"
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (with Efraim at XXI taman cibodas) \u2014 https://t.co/165uA1gmP2",
+    "user_name": "ndy.",
+    "user_id": 209579661,
+    "user_location": "BONBON RUMAHKAMI w/ @kathpangs",
+    "tweet_id": "731090020342239233",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.59983,
+            -6.18167
+        ]
+    }
+},
+{
+    "tweet": "The huntsman winters war movie \ud83c\udf7f\ud83c\udf6b\ud83c\udf7a (at @reelcinemas) \u2014 https://t.co/zktYNfpMFM",
+    "user_name": "\u0631\u0650\u0646\u0640\u0627\u062f \u0627\u0644\u062d\u064a\u062f\u0631\u064a",
+    "user_id": 835723862,
+    "user_location": "Saudi arabia | Almadinah",
+    "address": "\u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "tweet_id": "731095800764194816",
+    "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.28061,
+            25.19704
+        ]
+    },
+    "state": "\u062f\u0628\u064a\u200e"
+},
+{
+    "tweet": "\u2744 \u2605 The Huntsman: Winter's War (at Chintia's Room \u2764) \u2014 https://t.co/zn0DeAkCBB",
+    "user_name": "chinti\u03b1\u03b1meli\u03b1t\u03b1nzil",
+    "user_id": 1339764630,
+    "user_location": "+62",
+    "tweet_id": "731118933244186624",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.82085,
+            -6.18957
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at Arini Es Campur Mie Putih Blangpidie) \u2014 https://t.co/xPPL3CNtLY",
+    "user_name": "Koko Arieef",
+    "user_id": 54007439,
+    "user_location": "Banda Aceh, Indonesia",
+    "tweet_id": "731177940428292096",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            95.34459,
+            5.55581
+        ]
+    }
+},
+{
+    "tweet": "The Huntsman : Winter's  War (@ Reel Cinemas in Dubai) https://t.co/0m9QUaNhjv",
+    "user_name": "Talal Alyamani",
+    "user_id": 176721245,
+    "user_location": null,
+    "address": "\u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "tweet_id": "731228623328428032",
+    "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.28010249,
+            25.19643722
+        ]
+    },
+    "state": "\u062f\u0628\u064a\u200e"
+},
+{
+    "tweet": "Not a bad driving range view! #GOLFSHOTS #tetons @ Huntsman Springs https://t.co/fKZcTe4zyT",
+    "user_name": "Clifford Roberts",
+    "user_id": 22712057,
+    "user_location": "Jackson, WY",
+    "tweet_id": "731257091852251140",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -111.11144,
+            43.73728
+        ]
+    }
+},
+{
+    "tweet": "I'm at Cinemark for The Huntsman: Winter's War in Santos, SP https://t.co/MH5JVhsCS3",
+    "user_name": "e-milio",
+    "user_id": 14494348,
+    "user_location": "Santos, SP",
+    "address": "SP, Brasil",
+    "tweet_id": "731292632991866880",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -46.30874634,
+            -23.97797917
+        ]
+    },
+    "state": "Provincia de Panam\u00e1"
+},
+{
+    "tweet": "I'm at Regal Cinemas Dole Cannery 18 IMAX &amp; RPX - @regalmovies for The Huntsman: Winter's War in Honolulu, HI https://t.co/UDm5rmjnWR",
+    "user_name": "Paul Klink",
+    "user_id": 20324912,
+    "user_location": "Honolulu, Hawaii, USA",
+    "tweet_id": "731324925433249792",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -157.870715,
+            21.31571395
+        ]
+    }
+},
+{
+    "tweet": "Watching Snow White and the Huntsman (at Acropolis De'Wijaya) \u2014 https://t.co/gfX9XaD1s3",
+    "user_name": "anggie\u2600",
+    "user_id": 239181411,
+    "user_location": "Mars.",
+    "tweet_id": "731332143083753474",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.81496,
+            -6.49568
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (with Mama at Jl. bronggalan sawah 6b/10) \u2014 https://t.co/fEmMcBX4Jy",
+    "user_name": "Riski Aditya",
+    "user_id": 475587738,
+    "user_location": "Surabaya",
+    "tweet_id": "731364784331886592",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            112.7662,
+            -7.26039
+        ]
+    }
+},
+{
+    "tweet": "The Benjamin Huntsman (Wetherspoon) https://t.co/HMQ2XbeMys #Sheffield #girlsnight #prosecco https://t.co/GjboKDNoFJ",
+    "user_name": "foodplaces",
+    "user_id": 269022582,
+    "user_location": "London, UK",
+    "address": "England, UK",
+    "tweet_id": "731364934529900545",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -1.472435,
+            53.379978
+        ]
+    },
+    "state": "England"
+},
+{
+    "tweet": "The Huntsman Winter's War as requested by my princess Lisah.... @\u2026 https://t.co/BzNhUkNqCs",
+    "user_name": "Aidah",
+    "user_id": 926391572,
+    "user_location": null,
+    "tweet_id": "731401058094743552",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            103.87703301,
+            1.39133907
+        ]
+    }
+},
+{
+    "tweet": "\ud83c\udfac\ud83c\udfac \u2605 The Huntsman: Winter's War (at Kost Bu Tini) \u2014 https://t.co/0IQsiyk9uC",
+    "user_name": "Nikke Ellisse",
+    "user_id": 114405244,
+    "user_location": "Jakarta - Purwokerto",
+    "tweet_id": "731421050416697346",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.85044,
+            -6.21766
+        ]
+    }
+},
+{
+    "tweet": "Death by #HIIT this morning. 20 minutes and I was a sweaty, snotty mess \ud83d\ude2f @ CrossFit Huntsman https://t.co/tbILtJA81W",
+    "user_name": "Carly",
+    "user_id": 27641742,
+    "user_location": "Hertfordshire",
+    "address": "England, UK",
+    "tweet_id": "731427143570329600",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.02397791,
+            51.77785112
+        ]
+    },
+    "state": "England"
+},
+{
+    "tweet": "The huntsman winter's war",
+    "user_name": "\u264b",
+    "user_id": 377775246,
+    "user_location": "Selangor, Malaysia",
+    "tweet_id": "731525190635552768",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.8104192,
+            2.9822256
+        ]
+    }
+},
+{
+    "tweet": "I'm at @Cinemark Tinseltown for The Huntsman: Winter's War in Jacksonville, FL https://t.co/xT1277npzX",
+    "user_name": "Frankie Crews",
+    "user_id": 16419786,
+    "user_location": "Jacksonville, FL",
+    "address": "Florida, United States of America",
+    "tweet_id": "731538049516048385",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -81.55416906,
+            30.26337167
+        ]
+    },
+    "state": "Florida"
+},
+{
+    "tweet": "Cinema Time\nThe Huntsman: Winter's War\n@gc_kuwait \n.\n#TheHuntsmanWintersWar #gc_kuwait #movie\u2026 https://t.co/B4rPOOcu7Z",
+    "user_name": "\u0639\u0631\u0628 \u0647\u0648\u0644\u064a\u0648\u0648\u062f",
+    "user_id": 561487091,
+    "user_location": null,
+    "address": "\u0627\u0644\u0639\u0627\u0635\u0645\u0629, \u200f\u0627\u0644\u0643\u0648\u064a\u062a\u200e",
+    "tweet_id": "731550872493281284",
+    "country": "\u200f\u0627\u0644\u0643\u0648\u064a\u062a\u200e",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.99255835,
+            29.37838064
+        ]
+    },
+    "state": "\u0627\u0644\u0639\u0627\u0635\u0645\u0629"
+},
+{
+    "tweet": "the huntsman: winter's war (@ Grand Cinemas - @gc_kuwait in Kuwait City w/ @omaymahalyasin) https://t.co/OQuAXbEGdk",
+    "user_name": "\u0645\u064e\u0640\u0631\u0639\u064a\u2022",
+    "user_id": 65772586,
+    "user_location": "Kuwait",
+    "address": "\u0627\u0644\u0639\u0627\u0635\u0645\u0629, \u200f\u0627\u0644\u0643\u0648\u064a\u062a\u200e",
+    "tweet_id": "731555443810664448",
+    "country": "\u200f\u0627\u0644\u0643\u0648\u064a\u062a\u200e",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.99279689,
+            29.37830093
+        ]
+    },
+    "state": "\u0627\u0644\u0639\u0627\u0635\u0645\u0629"
+},
+{
+    "tweet": "I'm at Cin\u00e9polis VIP - @cinepolisbrasil for The Huntsman: Winter's War in Curitiba, PR https://t.co/7EYfUtVwbx",
+    "user_name": "Taay",
+    "user_id": 385705939,
+    "user_location": "Arauc\u00e1ria - PR",
+    "address": "PR, Brasil",
+    "tweet_id": "731558512074067968",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -49.29075658,
+            -25.44300576
+        ]
+    }
+},
+{
+    "tweet": "At the drive in watching Captain America and the Huntsman - Jon and (at @CoyoteDriveIn for Captain America: Civi...) https://t.co/aywlghmbjT",
+    "user_name": "Robin Rife",
+    "user_id": 15258131,
+    "user_location": "Dallas/Fort Worth, Texas",
+    "tweet_id": "731621503465328641",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -97.33547679,
+            32.76516098
+        ]
+    },
+    "state": "Michigan"
+},
+{
+    "tweet": "Guerra Civil #TeamIronMan (at @CinemarkOficial for The Huntsman: Winter's War in Betim, MG) https://t.co/MdxM5vShtb",
+    "user_name": "Richardson Lopes",
+    "user_id": 210444205,
+    "user_location": null,
+    "address": "MG, Brasil",
+    "tweet_id": "731641274164514816",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -44.16049004,
+            -19.96253889
+        ]
+    },
+    "state": "MG"
+},
+{
+    "tweet": "\ud83c\udfa5 #OCa\u00e7adorEARainhaDeGelo (@ Centerplex Limeira for The Huntsman: Winter's War in Limeira, SP) https://t.co/pp9LLXlQIL",
+    "user_name": "#GuiiFavero \u24df",
+    "user_id": 246515923,
+    "user_location": "S\u00e3o Paulo, Brasil",
+    "address": "SP, Brasil",
+    "tweet_id": "731648982569635840",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -47.38626401,
+            -22.53296629
+        ]
+    },
+    "state": "SP"
+},
+{
+    "tweet": "The Huntsman: Winter\u2019s War was weird as shit and so much fun.",
+    "user_name": "Jonathan",
+    "user_id": 23377856,
+    "user_location": "New York City. ",
+    "address": "New York, United States of America",
+    "tweet_id": "731664065626574848",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.9901922,
+            40.73435692
+        ]
+    },
+    "state": "New York"
+},
+{
+    "tweet": "The Huntsman with my girl. Great movie (@ Mann Theaters in Plymouth, MN) https://t.co/AN4mqQXC4W",
+    "user_name": "crystal",
+    "user_id": 223227186,
+    "user_location": "Minneapolis",
+    "tweet_id": "731667024208887808",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -93.48124981,
+            45.01933675
+        ]
+    }
+},
+{
+    "tweet": "I'm at Marcus Point Cinema - @marcus_theatres for The Huntsman: Winter's War in Madison, WI w/ @afiq_shahrom https://t.co/jRoNiF7hA6",
+    "user_name": "Shariff",
+    "user_id": 1220537150,
+    "user_location": "Wisconsin, USA",
+    "address": "Wisconsin, United States of America",
+    "tweet_id": "731691407665156096",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -89.51900482,
+            43.05797663
+        ]
+    },
+    "state": "Wisconsin"
+},
+{
+    "tweet": "A love story\ud83d\ude06\ud83d\ude06 \u2605 The Huntsman: Winter's War (at @acehstudent) \u2014 https://t.co/PmW8G0slTE",
+    "user_name": "YASSER 09\u265a",
+    "user_id": 271625839,
+    "user_location": "Di manaa dimanaa dimanaaaaa,,,",
+    "tweet_id": "731703233832329217",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            95.37066,
+            5.56584
+        ]
+    }
+},
+{
+    "tweet": "Majestic but cruel \ud83d\udc78 \u2605 The Huntsman: Winter's War (at Kertoasri 97) \u2014 https://t.co/ZGE5V8wIab",
+    "user_name": "Cahya Rizqy Hammami",
+    "user_id": 272818163,
+    "user_location": "Malang, East Java",
+    "tweet_id": "731778477746085890",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            112.61216,
+            -7.94922
+        ]
+    }
+},
+{
+    "tweet": "Can't help it\ud83d\ude1c love this movie\ud83d\ude18 \u2605 The Huntsman: Winter's War (at Kawaii Nita's Place) \u2014 https://t.co/4N2xRT69Yv",
+    "user_name": "Nietha",
+    "user_id": 91593963,
+    "user_location": "\u2665Indonesia\u2665",
+    "tweet_id": "731830939014205440",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.4184,
+            1.67854
+        ]
+    }
+},
+{
+    "tweet": "Huntsman Put up great fight against King James Ohio Varsity for the Win. #HiddenGemsGemboree @\u2026 https://t.co/eCLDCy0YuV",
+    "user_name": "HIDDEN GEMS",
+    "user_id": 243478337,
+    "user_location": "#TeamHiddenGems",
+    "address": "Ohio, United States of America",
+    "tweet_id": "731898928803774464",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -82.4734,
+            40.37153
+        ]
+    },
+    "state": "Ohio"
+},
+{
+    "tweet": "The Huntsman Winter Snow rn \u2744\ud83c\udfa5",
+    "user_name": "\u2692",
+    "user_id": 538034829,
+    "user_location": null,
+    "tweet_id": "731902324801568768",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.00749546,
+            14.53719158
+        ]
+    }
+},
+{
+    "tweet": "I'm at Beacon Theaters for The Huntsman: Winter's War in Brooksville, FL https://t.co/7Eext7fVTv",
+    "user_name": "Crystal Smith",
+    "user_id": 981261944,
+    "user_location": "Florida, USA",
+    "address": "Florida, United States of America",
+    "tweet_id": "731929666475425792",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -82.51398301,
+            28.53395761
+        ]
+    },
+    "state": "Florida"
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at RS Jasa Kartini) \u2014 https://t.co/q9zOMWS2Wj",
+    "user_name": "T Y A S",
+    "user_id": 457229160,
+    "user_location": null,
+    "tweet_id": "731934243845066752",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            108.22279,
+            -7.3262
+        ]
+    }
+},
+{
+    "tweet": "I'm at AMC Arizona Center 24 - @amctheatres for The Huntsman: Winter's War in Phoenix, AZ https://t.co/PFDuLZzxlF",
+    "user_name": "Ryan 'Reat' Eaton",
+    "user_id": 168420178,
+    "user_location": "Scottsdale, AZ",
+    "tweet_id": "731988240060809216",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -112.06919432,
+            33.45357207
+        ]
+    }
+},
+{
+    "tweet": "Next movie for us\nThe Huntsman Winter's War @ Lantana Apartments https://t.co/07VkivgdGX",
+    "user_name": "maywess francis",
+    "user_id": 541222480,
+    "user_location": "San Antonio, TX",
+    "tweet_id": "732010140711452672",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -98.535457,
+            29.518087
+        ]
+    }
+},
+{
+    "tweet": "I'm at @CinemarkOficial for The Huntsman: Winter's War 3D in Rio de Janeiro, RJ https://t.co/LQgWQuyckF",
+    "user_name": "Lu\u00eds Felipe Baltazar",
+    "user_id": 46395153,
+    "user_location": "Brazil - Rio de Janeiro",
+    "address": "RJ, Brasil",
+    "tweet_id": "732014183353614337",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -43.18298578,
+            -22.94755563
+        ]
+    },
+    "state": "RJ"
+},
+{
+    "tweet": "I'm at Harkins Camelview 14 for The Huntsman: Winter's War in Scottsdale, AZ https://t.co/d5gb2QV9QI",
+    "user_name": "qubaisi",
+    "user_id": 258311757,
+    "user_location": "AbuDhabi / Arizona",
+    "tweet_id": "732077171473305600",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -111.92741485,
+            33.50406121
+        ]
+    }
+},
+{
+    "tweet": "Latepost doang :v \u2605 The Huntsman: Winter's War (with Herty and Nova at Universitas Ibnu Chaldun) \u2014 https://t.co/egcYYZbcKb",
+    "user_name": "\u15e2 Widya Astari",
+    "user_id": 106694335,
+    "user_location": "SJBB",
+    "tweet_id": "732125016196714496",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.8801,
+            -6.19292
+        ]
+    }
+},
+{
+    "tweet": "#RoadAlert via @carlow_co_co:\n\"Resurfacing works Fenagh. Lumcloon to Huntsman Cro...\"\nhttps://t.co/649WXnnU2c",
+    "user_name": "MapAlerter",
+    "user_id": 182441551,
+    "user_location": "Ireland",
+    "address": "Ireland",
+    "tweet_id": "732198473257324544",
+    "country": "Ireland",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -6.8540265,
+            52.7228923
+        ]
+    }
+},
+{
+    "tweet": "#RoadAlert via @mapalerter:\n\"Resurfacing works Fenagh. Lumcloon to Huntsman Cro...\"\nhttps://t.co/74l6TjwZyN",
+    "user_name": "CarlowCountyCouncil",
+    "user_id": 80127885,
+    "user_location": "Carlow,Ireland",
+    "address": "Ireland",
+    "tweet_id": "732198476486983680",
+    "country": "Ireland",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -6.8540265,
+            52.7228923
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (with Rummy Islami  at Zalni Residence) \u2014 https://t.co/Yj6nFoU7Us",
+    "user_name": "Yofi Seprianto",
+    "user_id": 96480319,
+    "user_location": "Pekanbaru Kota Bertuah",
+    "tweet_id": "732201922111803392",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.44034,
+            0.49702
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at My Black Room) \u2014 https://t.co/7fihKjO5Az",
+    "user_name": "Sandi muhamad",
+    "user_id": 108795067,
+    "user_location": "\u00dcT: -6.895529,107.655631",
+    "tweet_id": "732214364262961152",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            107.56059,
+            -6.99539
+        ]
+    }
+},
+{
+    "tweet": "I'm at CineRitz for The Huntsman: Winter's War in Divin\u00f3polis, MG https://t.co/VpACImK0dt",
+    "user_name": "Marcos Paulo",
+    "user_id": 2177122476,
+    "user_location": "Divinopolis",
+    "address": "MG, Brasil",
+    "tweet_id": "732253583329112064",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -44.88202572,
+            -20.12769193
+        ]
+    },
+    "state": "MG"
+},
+{
+    "tweet": "Lanjutttt \ud83c\udfa5\ud83d\udcf9...\ud83d\ude01\ud83d\ude0a\ud83d\ude04\ud83d\ude09\u263a\ufe0f\n#BioskopRumah \u2605 The Huntsman: Winter's War (at Na' Home sweet home ) \u2014 https://t.co/bwgh0hLp6e",
+    "user_name": "ladyvirna",
+    "user_id": 338428817,
+    "user_location": "Malang-Surabaya-Jakarta",
+    "tweet_id": "732266234444546048",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            112.62378,
+            -7.94533
+        ]
+    },
+    "state": "\u0627\u0644\u0639\u0627\u0635\u0645\u0629"
+},
+{
+    "tweet": "The Huntsman (@ Reel Cinemas in Dubai) https://t.co/gS3pwU2i46",
+    "user_name": "Ahmed Safder",
+    "user_id": 144800564,
+    "user_location": "Dubai, UAE",
+    "address": "\u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "tweet_id": "732282698904043521",
+    "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.28010249,
+            25.19643722
+        ]
+    },
+    "state": "\u062f\u0628\u064a\u200e"
+},
+{
+    "tweet": "I'm at @Moviecom for The Huntsman: Winter's War in Bel\u00e9m, PA https://t.co/JEHCS3mcmd",
+    "user_name": "Ercilia #TimBeta",
+    "user_id": 70025672,
+    "user_location": "Bel\u00e9m - Par\u00e1 - Brasil",
+    "address": "PA, Brasil",
+    "tweet_id": "732321695353217024",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -48.43047452,
+            -1.40280695
+        ]
+    },
+    "state": "PA"
+},
+{
+    "tweet": "I'm at Cinesystem for The Huntsman: Winter's War in Rio de Janeiro, RJ https://t.co/DxmcLaSUgV",
+    "user_name": "Carolina",
+    "user_id": 212704914,
+    "user_location": " snapchat: anacbfr",
+    "address": "RJ, Brasil",
+    "tweet_id": "732330520160407558",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -43.46668327,
+            -22.87873707
+        ]
+    },
+    "state": "RJ"
+},
+{
+    "tweet": "#OCa\u00e7adorEaRainhaDoGelo #Boulevard #Tatuap\u00e9 !!! (@ Cinemark for The Huntsman: Winter's War) https://t.co/lwbEEOEX8E https://t.co/w2ZNhjT7w6",
+    "user_name": "ed motoka",
+    "user_id": 182914654,
+    "user_location": "S. Paulo - SP - Brasil",
+    "address": "SP, Brasil",
+    "tweet_id": "732336129337372674",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -46.57632351,
+            -23.5392026
+        ]
+    },
+    "state": "SP"
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at @regalmovies) \u2014 https://t.co/S6Nksq0qsy",
+    "user_name": "Ivan Chandra",
+    "user_id": 52702042,
+    "user_location": "New York, USA",
+    "address": "New York, United States of America",
+    "tweet_id": "732351392262688768",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.84348,
+            40.72076
+        ]
+    },
+    "state": "New York"
+},
+{
+    "tweet": "The Huntsman (at @TGVCinemas in George Town, Penang) https://t.co/u9SSx6J9j0",
+    "user_name": "\u03c9\u025b\u0273\u2763",
+    "user_id": 914672826,
+    "user_location": null,
+    "tweet_id": "732469031744086018",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            100.31087279,
+            5.43535093
+        ]
+    }
+},
+{
+    "tweet": "\u2744\u2744\u2744 \u2605 The Huntsman: Winter's War (at Jam's Relax Room) \u2014 https://t.co/BwchfOeuo5",
+    "user_name": "Mhmmdzakimbrk",
+    "user_id": 605100267,
+    "user_location": "Bogor, Indonesia",
+    "tweet_id": "732546004298301440",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            107.58748,
+            -6.86675
+        ]
+    }
+},
+{
+    "tweet": "Film\u00a0\"The Huntsman Winters War\"\u00a0menceritakan tentang nasib\u2026 \u2605 The Huntsman: Winter's War (at Starbucks Coffee) \u2014 https://t.co/RMWJ4MOi3s",
+    "user_name": "Hendra Halim\u2122",
+    "user_id": 423437202,
+    "user_location": "Banda Aceh",
+    "tweet_id": "732552889084706818",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            98.87913,
+            3.63615
+        ]
+    }
+},
+{
+    "tweet": "Made to measure on our shoot for @hellofashion_uk  today @ H Huntsman &amp; Sons https://t.co/OTc7YmCTek",
+    "user_name": "Deborah Castle",
+    "user_id": 20998491,
+    "user_location": "London",
+    "address": "England, UK",
+    "tweet_id": "732562540341891072",
+    "country": "UK",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -0.14021886,
+            51.51099011
+        ]
+    },
+    "state": "England"
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (with Angie\ud83c\udf6d at Kontrakan) \u2014 https://t.co/sIvfXM2cqO",
+    "user_name": "Juliandro Chandra",
+    "user_id": 166933492,
+    "user_location": null,
+    "tweet_id": "732577165917622272",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.77883,
+            -6.18201
+        ]
+    }
+},
+{
+    "tweet": "Huntsman spider, Sparassidae sp.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nEarly in the morning, before the sun\u2026 https://t.co/6v3D0x8TtC",
+    "user_name": "George Lonsdale",
+    "user_id": 90458058,
+    "user_location": "United Kingdom",
+    "tweet_id": "732656167160254468",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            118.03438584,
+            5.41617661
+        ]
+    }
+},
+{
+    "tweet": "Ready and see \"The Huntsman Winter War\" #thehuntsmanwinterswar #chrishemsworth #charlizetheron\u2026 https://t.co/wGOJECwM85",
+    "user_name": "Joana Catarina",
+    "user_id": 412437346,
+    "user_location": "Humanoid City;",
+    "address": "\u00c1rea Metropolitana de Lisboa, Portugal",
+    "tweet_id": "732665303633559552",
+    "country": "Portugal",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -9.17505267,
+            38.6605821
+        ]
+    },
+    "state": "\u00c1rea Metropolitana de Lisboa"
+},
+{
+    "tweet": "NW : The Huntsman Winter's War",
+    "user_name": "Teboho Mantje",
+    "user_id": 549997983,
+    "user_location": "Welkom, Free State",
+    "address": "Free State, South Africa",
+    "tweet_id": "732701851825606656",
+    "country": "South Africa",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            26.80793,
+            -27.96619
+        ]
+    },
+    "state": "Free State"
+},
+{
+    "tweet": "Movie day with the crew (@ Century 18 Theatres (Sam's Town) for The Huntsman: Winter's War) https://t.co/4iFEu9y0iC https://t.co/9JhhauF1qJ",
+    "user_name": "Tat2 King Dre",
+    "user_id": 16504426,
+    "user_location": "las vegas, nv",
+    "tweet_id": "732706237213708289",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.06155121,
+            36.11240479
+        ]
+    }
+},
+{
+    "tweet": "The Huntsman: \"Love does not make you weak. It's all that ever gave\u2026 https://t.co/rmtKEagrD2",
+    "user_name": "\u0187\u210bI\u2133",
+    "user_id": 3605080879,
+    "user_location": null,
+    "address": "\u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "tweet_id": "732876403000086528",
+    "country": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.264379,
+            25.222926
+        ]
+    },
+    "state": "\u062f\u0628\u064a\u200e"
+},
+{
+    "tweet": "Layarkaca21\ud83d\ude02\ud83d\ude02 \u2605 The Huntsman: Winter's War (at Samsung Service Center) \u2014 https://t.co/J4EPPrcJuX",
+    "user_name": "Cinyoo",
+    "user_id": 79991837,
+    "user_location": "Manado, North Sulawesi",
+    "tweet_id": "732894226891956224",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            124.83714,
+            1.48267
+        ]
+    }
+},
+{
+    "tweet": "The Huntsman Winter's War and the tired little boy background \ud83d\ude02 #uss #singapore #tbt\u2026 https://t.co/J0JFYGOyWt",
+    "user_name": "rousy azcuna",
+    "user_id": 74078405,
+    "user_location": "singapore",
+    "tweet_id": "732964779237777408",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            103.824,
+            1.254
+        ]
+    }
+},
+{
+    "tweet": "Birthday movie (@ Houston Lakes Stadium Cinemas 10 for The Huntsman: Winter's War in Warner Robins, GA) https://t.co/C4C1JwLZ2n",
+    "user_name": "Akilah",
+    "user_id": 15517647,
+    "user_location": "Feeling peachy",
+    "address": "Georgia, United States of America",
+    "tweet_id": "733045848209301504",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -83.69376183,
+            32.55317985
+        ]
+    },
+    "state": "Georgia"
+},
+{
+    "tweet": "I'm at Cinemark for The Huntsman: Winter's War 3D in Bras\u00edlia, DF https://t.co/R832F4ONfH",
+    "user_name": "Lustosa",
+    "user_id": 845695405,
+    "user_location": "Bras\u00edlia",
+    "address": "DF, Brasil",
+    "tweet_id": "733079969367248900",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -48.0440712,
+            -15.84155439
+        ]
+    },
+    "state": "DF"
+},
+{
+    "tweet": "I'm at UCI Kinoplex - @ucicinemas for The Huntsman: Winter's War in Recife, PE w/ @daviqueiroga https://t.co/zQvLZhBP8v",
+    "user_name": "Marcella Queiroga",
+    "user_id": 40105664,
+    "user_location": null,
+    "address": "PE, Brasil",
+    "tweet_id": "733088074507374592",
+    "country": "Brasil",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -34.90489483,
+            -8.11926565
+        ]
+    },
+    "state": "PE"
+},
+{
+    "tweet": "#TheHuntsman #girlsnightout with Linda, Marina and @lsud (@ Krikorian Buena Park Metroplex for The Huntsman: Win...) https://t.co/JDJMkZsiGG",
+    "user_name": "Karen Capone",
+    "user_id": 95397129,
+    "user_location": "Orange County, CA",
+    "tweet_id": "733125631941214208",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.98934191,
+            33.8437827
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at Technip Indonesia) \u2014 https://t.co/P5pqdDtH7O",
+    "user_name": "Agam \u2122",
+    "user_id": 150372929,
+    "user_location": null,
+    "tweet_id": "733132686420676608",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.82648,
+            -6.22441
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at Griya Baji Areng) \u2014 https://t.co/VixBDyx7lt",
+    "user_name": "Alamsyah Prawira.N",
+    "user_id": 763859124,
+    "user_location": "Makassar, gowa",
+    "tweet_id": "733168570335518721",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            119.46852,
+            -5.21367
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at Iris Worlwide - RM 3rd Floor) \u2014 https://t.co/XI5KiyNPmi",
+    "user_name": "Suc\u01d0 Fi\u2020ria S\u0251nt\u01d0N\u0308\u0251",
+    "user_id": 225012660,
+    "user_location": "\u00dcT: -6.2580785,106.7558716",
+    "tweet_id": "733181333241913345",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.83057,
+            -6.2653
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at Kamar Kos Tercinta) \u2014 https://t.co/ofMk8XdtJx",
+    "user_name": "Rahardian Nur Aisyah",
+    "user_id": 351297220,
+    "user_location": "Tuban - Malang",
+    "tweet_id": "733183473217724416",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            112.60742,
+            -7.95782
+        ]
+    }
+},
+{
+    "tweet": "\ud83d\ude0f \u2605 The Huntsman: Winter's War (at Sudewo's Room) \u2014 https://t.co/DRTCMAhAyz",
+    "user_name": "Rizqy Sudewo",
+    "user_id": 198851136,
+    "user_location": "Indonesia",
+    "tweet_id": "733210621294993408",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            107.00024,
+            -6.17629
+        ]
+    }
+},
+{
+    "tweet": "Najib must be proud of me #2kerja @ Huntsman KL https://t.co/z2RibHV43V",
+    "user_name": "Diba K.",
+    "user_id": 310912808,
+    "user_location": null,
+    "tweet_id": "733263215493185536",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.69711,
+            3.15499
+        ]
+    }
+},
+{
+    "tweet": "\ud83d\ude06\ud83d\ude0c \u2605 The Huntsman: Winter's War (at Cokiz's Room) \u2014 https://t.co/LgcaMnZKZ1",
+    "user_name": "cokiz_kencana",
+    "user_id": 60260569,
+    "user_location": "indonesia",
+    "tweet_id": "733266299741044736",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            115.26308,
+            -8.50578
+        ]
+    }
+},
+{
+    "tweet": "Wintersnow and the huntsman (di ko alam yung exact title\ud83d\ude1c) https://t.co/rwja9lRGvR",
+    "user_name": "charlaynesana",
+    "user_id": 2840137268,
+    "user_location": "Manila, Philippines",
+    "tweet_id": "733297243793457152",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.07244903,
+            13.78521862
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (with Jakobus at Hom3 sweet hom3) \u2014 https://t.co/WO6Ydc0MSd",
+    "user_name": "Cheryll Young",
+    "user_id": 910266690,
+    "user_location": "\u00dcT: -1.59104,103.61949",
+    "tweet_id": "733310111012130817",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.80909,
+            -6.18073
+        ]
+    }
+},
+{
+    "tweet": "\u2744\ufe0f\u2744\ufe0f\u2744\ufe0f \u2605 The Huntsman: Winter's War (at @lambadacafe) \u2014 https://t.co/HjXzlp1VVv",
+    "user_name": "ARM",
+    "user_id": 2148268063,
+    "user_location": " Cirebon - West Java",
+    "tweet_id": "733313661691781121",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            108.55285,
+            -6.71426
+        ]
+    },
+    "state": "England"
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at Jl Raya Nanjung) \u2014 https://t.co/2EYJVF6mFX",
+    "user_name": "Hilman Irfa Firdaus",
+    "user_id": 595665093,
+    "user_location": "Magnolia , Bandung",
+    "tweet_id": "733360699062296576",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            107.53737,
+            -6.9359
+        ]
+    }
+},
+{
+    "tweet": "Just finished The Huntsman Winter's War. Whoa! Awesome movie.",
+    "user_name": "FrankFLR",
+    "user_id": 4853900717,
+    "user_location": "Texas, USA",
+    "tweet_id": "733469470698561537",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -96.7480193,
+            33.0598942
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (with Agnes at @smalan_bl) \u2014 https://t.co/BhkRkC6rCk",
+    "user_name": "Dinda P Yana",
+    "user_id": 296054383,
+    "user_location": null,
+    "tweet_id": "733498050530791424",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            105.24867,
+            -5.39095
+        ]
+    }
+},
+{
+    "tweet": "\"Love conquers all\" - Eric \u2605 The Huntsman: Winter's War (at Wisma Galasri) \u2014 https://t.co/SuUr3zXtMn",
+    "user_name": "*GODELVA*",
+    "user_id": 3189864038,
+    "user_location": "Salatiga, Central Java",
+    "tweet_id": "733510677399097344",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            110.49676,
+            -7.32043
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at Wisma Edelweis) \u2014 https://t.co/fOpYbl4SZi",
+    "user_name": "Ikka Ida Rokhyani \u2665",
+    "user_id": 458086181,
+    "user_location": "AA - AB",
+    "tweet_id": "733530452577812481",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            110.3867,
+            -7.77037
+        ]
+    }
+},
+{
+    "tweet": "I'm at AMC Fashion Valley 18 - @amctheatres for The Huntsman: Winter's War in San Diego, CA https://t.co/x3FGelcCt5",
+    "user_name": "Nino Ashour",
+    "user_id": 15452016,
+    "user_location": "Kuwait / USA",
+    "tweet_id": "733537249145446403",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.16603518,
+            32.76762769
+        ]
+    }
+},
+{
+    "tweet": "Now On Tv :) \u2605 The Huntsman: Winter's War (at FDR (Fedry,Dedhe &amp; Rifan) House) \u2014 https://t.co/AwFigosKTq",
+    "user_name": "fedry soedrajat",
+    "user_id": 270324596,
+    "user_location": "Serpong, Banten",
+    "tweet_id": "733561164358025216",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.66476,
+            -6.31577
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at Parkview Condominium, LIPPO HOMES) \u2014 https://t.co/X2gaJLU1UQ",
+    "user_name": "LeNni_ToOns",
+    "user_id": 109803563,
+    "user_location": "\u00dcT: -6.340509,106.7922083",
+    "tweet_id": "733581549430411264",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.83148,
+            -6.37242
+        ]
+    }
+},
+{
+    "tweet": "Huntsman (@ Shaw Theatres in Singapore) https://t.co/SDUSzJQTbg",
+    "user_name": "\u2716\ufe0fJeremy\u2716\ufe0f",
+    "user_id": 404412111,
+    "user_location": null,
+    "tweet_id": "733616660138053632",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            103.87618303,
+            1.39130745
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at @ugmyogyakarta) \u2014 https://t.co/rWMCSMKq9o",
+    "user_name": "GAN",
+    "user_id": 170521170,
+    "user_location": "Ujung kandang",
+    "tweet_id": "733640317950271489",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            110.38557,
+            -7.76771
+        ]
+    }
+},
+{
+    "tweet": "Thor numpang maen di film ini \ud83d\ude02 \ud83d\ude05 \u2605 The Huntsman: Winter's War (at Kos Putra \"White House\") \u2014 https://t.co/4Yiu43wDTc",
+    "user_name": "Wahyu F",
+    "user_id": 578927564,
+    "user_location": "Kepulauan Riau, Indonesia",
+    "tweet_id": "733655609258598400",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.38939,
+            0.46378
+        ]
+    }
+},
+{
+    "tweet": "NP: The Huntsman winters war",
+    "user_name": "edrianmagbago",
+    "user_id": 996908263,
+    "user_location": "philippines",
+    "tweet_id": "733672268362960897",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9658878,
+            14.3205338
+        ]
+    }
+},
+{
+    "tweet": "Midnight \u2744\ufe0f\u2744\ufe0f\u2744\ufe0f\u2744\ufe0f\u2744\ufe0f \ud83d\ude0e\ud83e\udd13 \u2605 The Huntsman: Winter's War (at Dumai XXI) \u2014 https://t.co/5IAe4XCeE1",
+    "user_name": "\u30a2\u30fc\u30ce\u30eb\u30c9",
+    "user_id": 96557258,
+    "user_location": "dumai, riau",
+    "tweet_id": "733680473323409408",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.44811,
+            1.67171
+        ]
+    }
+},
+{
+    "tweet": "Finally watching The Hunstman (@ AMC Palm Promenade 24 - @amctheatres for The Huntsman: Winter's War) https://t.co/fyta1EGVIP",
+    "user_name": "\u26a1\ufe0fCharger Girl JEN\u26a1\ufe0f",
+    "user_id": 184936371,
+    "user_location": "America's FINEST City",
+    "tweet_id": "733725841948069888",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -117.03636646,
+            32.57907599
+        ]
+    }
+},
+{
+    "tweet": "I'm at Regal Cinemas Kingstowne 16 &amp; RPX - @regalmovies for The Huntsman: Winter's War in Alexandria, VA https://t.co/qFouJSKYsV",
+    "user_name": "That damn Yinka!",
+    "user_id": 20022522,
+    "user_location": "Snuggling in ya dad's lap!",
+    "address": "Virginia, United States of America",
+    "tweet_id": "733756434576494597",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -77.138342,
+            38.77199748
+        ]
+    },
+    "state": "Virginia"
+},
+{
+    "tweet": "Might be good. (at @HarkinsTheatres Chandler Crossroads 12 for The Huntsman: Winter's War in Chandler, AZ) https://t.co/9PQXfgOHDm",
+    "user_name": "Patrick McLeod",
+    "user_id": 14133920,
+    "user_location": "Phoenix, AZ",
+    "tweet_id": "733881645749702656",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -111.79065228,
+            33.27816218
+        ]
+    }
+},
+{
+    "tweet": "\ud83c\udfac\ud83d\udcfa \u2605 The Huntsman: Winter's War (at Kamar Neng Fani) \u2014 https://t.co/v37COnwy0a",
+    "user_name": "Azani Rosefani Nst.",
+    "user_id": 60213086,
+    "user_location": "\u00dcT: 0.475645,101.422055",
+    "tweet_id": "733882961829859328",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.41213,
+            0.45102
+        ]
+    }
+},
+{
+    "tweet": "Asikin \u2605 The Huntsman: Winter's War (at Novi's DVD) \u2014 https://t.co/aLy2Et40yM",
+    "user_name": "Novi",
+    "user_id": 2331901861,
+    "user_location": null,
+    "tweet_id": "733900225635438592",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.68758,
+            -6.17622
+        ]
+    }
+},
+{
+    "tweet": "The Huntsman: Winter's War \u2744\ufe0f\u2744\ufe0f\u2744\ufe0f\u2026 https://t.co/HQNYz1D68k",
+    "user_name": "RamZ Kie",
+    "user_id": 184838263,
+    "user_location": "\u2740Cebu, Philippines\u2740",
+    "tweet_id": "733911083614932992",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            123.62023862,
+            10.02066401
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at Oriental Post Jakarta) \u2014 https://t.co/n5f1dm63AA",
+    "user_name": "ajeng jeng",
+    "user_id": 66166764,
+    "user_location": "Jakarta, Indonesia",
+    "tweet_id": "733914268089733120",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.81239,
+            -6.23505
+        ]
+    }
+},
+{
+    "tweet": "Watching Snow White and the Huntsman (with Laranisa, Indira, and 2 others at @mregencymks) \u2014 https://t.co/OysaUZsBNL",
+    "user_name": "dibaaa",
+    "user_id": 757206680,
+    "user_location": "SWRfam's.",
+    "tweet_id": "733967176894287872",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            119.40908,
+            -5.14054
+        ]
+    }
+},
+{
+    "tweet": "HOME MOVIE MODE!... &lt;3 IT!\n~ WATCHING ON HD THE HUNTSMAN WINTER'S\u2026 https://t.co/3nUOcXBnPx",
+    "user_name": "Elmer C. Gatchalian",
+    "user_id": 56751972,
+    "user_location": "21.499962,39.185532",
+    "address": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "tweet_id": "733985503398236160",
+    "country": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.18509754,
+            21.50024982
+        ]
+    }
+},
+{
+    "tweet": "Watching The Huntsman: Winter's War (at Kristal Hotel &amp; Apartment) \u2014 https://t.co/WpkFr761NI",
+    "user_name": "Deanne Adriani",
+    "user_id": 79711444,
+    "user_location": "indonesia, jakarta",
+    "tweet_id": "733988835248340992",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.79037,
+            -6.28383
+        ]
+    }
+},
+{
+    "tweet": "\"Do not love, it's a sin\". \u2605 The Huntsman: Winter's War (with Yolanda and Retno at Asrama Kebidanan) \u2014 https://t.co/moQUxe6JKL",
+    "user_name": "Danilla",
+    "user_id": 179864154,
+    "user_location": "South Sumatra, Indonesia",
+    "tweet_id": "734005393693630464",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            104.75211,
+            -2.96889
+        ]
+    }

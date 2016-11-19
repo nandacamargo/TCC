@@ -1,0 +1,54 @@
+{
+    "tweet": "\"From Light Comes Darkness And From Darkness Comes Light\" #Warcraft #warcraft #light #darkness @\u2026 https://t.co/HMj2AkV3r0",
+    "user_name": "VDHMakeupHairstyling",
+    "user_id": 1348601707,
+    "user_location": "Toronto, ON",
+    "address": "Ontario, Canada",
+    "tweet_id": "745756116231954432",
+    "country": "Canada",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -79.2883,
+            43.78328
+        ]
+    },
+    "state": "Ontario",
+	"movie": "Warcraft: The Beginning",
+	"label": "neg"
+},
+{
+    "tweet": "Check out my first ever Movie Review Video!\nI'm starting with Warcraft! https://t.co/r2UJHTWNBu https://t.co/Z8WJ5AaSpU",
+    "user_name": "Chelsea",
+    "user_id": 346400194,
+    "user_location": "AZ, USA",
+    "tweet_id": "746541636046360576",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -111.093731,
+            34.048928
+        ]
+    },
+	"movie": "Warcraft: The Beginning",
+	"label": "neg"
+},
+{
+    "tweet": "I got dragged to Warcraft and it was horrible but at least I had Publix subs in the theater",
+    "user_name": "Derek",
+    "user_id": 38517920,
+    "user_location": "Duval, FL",
+    "address": "Florida, United States of America",
+    "tweet_id": "749696238300307458",
+    "country": "United States of America",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -81.5659411,
+            30.2642211
+        ]
+    },
+    "state": "Florida",
+	"movie": "Warcraft: The Beginning",
+	"label": "neg"
+},

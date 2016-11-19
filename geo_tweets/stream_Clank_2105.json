@@ -1,0 +1,629 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -8.09536454,
+            40.76876063
+        ]
+    },
+    "properties": {
+        "user_location": "Portugal",
+        "user_id": 1187219803,
+        "user_name": "Regedit.exe",
+        "address": "Tanzania"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.79096,
+            -6.17737
+        ]
+    },
+    "properties": {
+        "user_location": "Parent's Heart \u2665",
+        "user_id": 248587859,
+        "user_name": "Jennifer Gunawan",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            106.60631,
+            -6.22862
+        ]
+    },
+    "properties": {
+        "user_location": "Under God's protection.",
+        "user_id": 88450847,
+        "user_name": "Rinda Ashiami",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -6.64677894,
+            55.20400164
+        ]
+    },
+    "properties": {
+        "user_location": "@BelieversBcraft",
+        "user_id": 62101442,
+        "user_name": "Clinton  K",
+        "address": "Sesel"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.31200361,
+            34.1819236
+        ]
+    },
+    "properties": {
+        "user_location": "West Coast",
+        "user_id": 391179187,
+        "user_name": "Anthony Armstrong",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.15460062,
+            47.75590845
+        ]
+    },
+    "properties": {
+        "user_location": "Close to Seattle, WA",
+        "user_id": 82775305,
+        "user_name": "Jordan Rinehart",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            88.39234172,
+            22.48723133
+        ]
+    },
+    "properties": {
+        "user_location": "Kolkata, India",
+        "user_id": 3063151545,
+        "user_name": "Ryan Basu",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -46.40818119,
+            -23.99683868
+        ]
+    },
+    "properties": {
+        "user_location": "Brazil",
+        "user_id": 55906457,
+        "user_name": "Vinicius Martins",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.10669748,
+            49.28019353
+        ]
+    },
+    "properties": {
+        "user_location": "Vancouver, BC",
+        "user_id": 334832804,
+        "user_name": "Rainmaker Ent",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.10669748,
+            49.28019353
+        ]
+    },
+    "properties": {
+        "user_location": "Vancouver, BC",
+        "user_id": 334832804,
+        "user_name": "Rainmaker Ent",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -38.45503045,
+            -12.97834735
+        ]
+    },
+    "properties": {
+        "user_location": "SALVADOR",
+        "user_id": 164481328,
+        "user_name": "RENATA (TIM BETA)",
+        "address": "Saint Helena, Ascension and Tristan da Cunha"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -38.48839045,
+            -3.75729983
+        ]
+    },
+    "properties": {
+        "user_location": "Brasil",
+        "user_id": 104535814,
+        "user_name": "Binho (Beta)RT",
+        "address": "Saint Helena, Ascension and Tristan da Cunha"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -80.3875,
+            43.4054
+        ]
+    },
+    "properties": {
+        "user_location": "\u00dcT: 43.680201,-79.678514",
+        "user_id": 17735965,
+        "user_name": "Paakkonen  Photo",
+        "address": "Saint Helena, Ascension and Tristan da Cunha"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -87.73340464,
+            41.75380964
+        ]
+    },
+    "properties": {
+        "user_location": null,
+        "user_id": 274852801,
+        "user_name": "Beautiful Savage",
+        "address": "Saint Helena, Ascension and Tristan da Cunha"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -48.0440712,
+            -15.84155439
+        ]
+    },
+    "properties": {
+        "user_location": "BSB, Brasil",
+        "user_id": 371746140,
+        "user_name": "Isabella Oliveira",
+        "address": "Saint Helena, Ascension and Tristan da Cunha"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -79.97028147,
+            40.28752891
+        ]
+    },
+    "properties": {
+        "user_location": "Crushin' on Cocoa Pebbles!",
+        "user_id": 41151264,
+        "user_name": "unrecognized selecta",
+        "address": "Antarctica"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -75.51569626,
+            45.44873776
+        ]
+    },
+    "properties": {
+        "user_location": "Ottawa, Ontario, Canada",
+        "user_id": 498358653,
+        "user_name": "Franklin on Food",
+        "address": "Antarctica"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.40542221,
+            49.90248518
+        ]
+    },
+    "properties": {
+        "user_location": "Canada",
+        "user_id": 252336282,
+        "user_name": "Kendra Kirai",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -34.91260886,
+            -8.03705908
+        ]
+    },
+    "properties": {
+        "user_location": "Apipucos, Recife",
+        "user_id": 127937023,
+        "user_name": "Diego Salatiel",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -84.08333,
+            9.93333
+        ]
+    },
+    "properties": {
+        "user_location": null,
+        "user_id": 709833275666259968,
+        "user_name": "Nidux Comercial",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -4.2571312,
+            55.85915815
+        ]
+    },
+    "properties": {
+        "user_location": "Glasgow, Scotland",
+        "user_id": 624771315,
+        "user_name": "GAME Glasgow UnionSt",
+        "address": "Sesel"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -49.31638241,
+            -25.43552376
+        ]
+    },
+    "properties": {
+        "user_location": "Brazil",
+        "user_id": 52277047,
+        "user_name": "Rafael A. Calomeno",
+        "address": "Sesel"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -38.56604576,
+            -3.73544907
+        ]
+    },
+    "properties": {
+        "user_location": "Fortaleza - Ce",
+        "user_id": 141016811,
+        "user_name": "Marcio Paulo",
+        "address": "Sesel"
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -94.48631443,
+            39.15054167
+        ]
+    },
+    "properties": {
+        "user_location": "Smithville MO USA",
+        "user_id": 6286022,
+        "user_name": "Philip C. Robinson",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.09962249,
+            47.68357386
+        ]
+    },
+    "properties": {
+        "user_location": "Derpville",
+        "user_id": 111306087,
+        "user_name": "Wanderpus",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.07439699,
+            50.99553659
+        ]
+    },
+    "properties": {
+        "user_location": "Calgary, AB ",
+        "user_id": 14092408,
+        "user_name": "Michelle Mackintosh",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -79.55238058,
+            8.97399561
+        ]
+    },
+    "properties": {
+        "user_location": "Arraij\u00e1n, Panam\u00e1",
+        "user_id": 94842633,
+        "user_name": "Alejandro Mena Mej\u00eda",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.63781053,
+            37.11358005
+        ]
+    },
+    "properties": {
+        "user_location": "San Jose, CA",
+        "user_id": 15743290,
+        "user_name": "Kelly's Chaos",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -78.31840994,
+            44.30403714
+        ]
+    },
+    "properties": {
+        "user_location": "Lakefield ON",
+        "user_id": 739149720,
+        "user_name": "Michelle Ferreri",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -81.20395303,
+            29.4825404
+        ]
+    },
+    "properties": {
+        "user_location": "Florida",
+        "user_id": 51878528,
+        "user_name": "\u2623Shane Wood\u2623",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -83.3191047,
+            42.4313169
+        ]
+    },
+    "properties": {
+        "user_location": null,
+        "user_id": 97980241,
+        "user_name": "Mintz",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.29374027,
+            38.7974769
+        ]
+    },
+    "properties": {
+        "user_location": "Roseville, CA",
+        "user_id": 175522943,
+        "user_name": "Jose Castaneda",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -1.67551152,
+            54.95160553
+        ]
+    },
+    "properties": {
+        "user_location": "Gateshead, United Kingdom",
+        "user_id": 279219517,
+        "user_name": "Paul Ingham",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.98905285,
+            40.75703458
+        ]
+    },
+    "properties": {
+        "user_location": "New York City",
+        "user_id": 33472977,
+        "user_name": "Joshua Nicholson",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -35.69889307,
+            -9.62658181
+        ]
+    },
+    "properties": {
+        "user_location": "Maceio/Al Brazil",
+        "user_id": 47492048,
+        "user_name": "Marcelo A (tim beta)",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.04534078,
+            44.0748606
+        ]
+    },
+    "properties": {
+        "user_location": "Lakeview, OR",
+        "user_id": 51543737,
+        "user_name": "Kurt Liedtke",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -90.4176728,
+            38.6989202
+        ]
+    },
+    "properties": {
+        "user_location": "St. Louis, MO",
+        "user_id": 1311511520,
+        "user_name": "Rich Gould",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.09972195,
+            47.68370022
+        ]
+    },
+    "properties": {
+        "user_location": "Derpville",
+        "user_id": 111306087,
+        "user_name": "Wanderpus",
+        "address": null
+    }
+},
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            58.49019,
+            23.60899
+        ]
+    },
+    "properties": {
+        "user_location": "Oman ",
+        "user_id": 8054792,
+        "user_name": "developar",
+        "address": "Eesti"
+    }
+}
+	]
+}
